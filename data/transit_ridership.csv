@@ -1,0 +1,1994 @@
+date,route_id,direction,boarding_count,alighting_count,vehicle_type,trip_duration_min,weather,temperature_c,is_holiday
+2024-10-21,R205,Inbound,388.0,57.0,Minibus,77.9,Clear,-14.3,false
+2024-08-29,R105,Outbound,457.0,169.0,Articulated Bus,76.6,Snow,-1.1,false
+2024-08-31,R207,Inbound,,518.0,Articulated Bus,58.5,Overcast,22.8,False
+2024-12-24,R208,Outbound,354.0,302.0,Articulated Bus,47.4,Snow,29.6,0
+2024-03-05,R207,Inbound,423.0,643.0,Minibus,17.4,Overcast,-11.7,No
+03/06/2024,R104,Outbound,542.0,111.0,Minibus,,Overcast,-10.7,false
+2024-06-14,R104,Outbound,73.0,704.0,Standard Bus,21.9,Rain,27.7,false
+06/21/2024,R301,Inbound,276.0,670.0,Standard Bus,59.8,Overcast,34.6,0
+2024-08-15,R207,Inbound,20.0,587.0,Articulated Bus,38.5,Snow,21.2,0
+2024-11-14,R102,Outbound,739.0,251.0,Articulated Bus,60.4,Snow,33.4,No
+2024-08-13,R105,OUTBOUND,796.0,17.0,Standard Bus,55.7,Rain,39.2,False
+2024-11-20,R104,Outbound,373.0,485.0,Articulated Bus,49.9,Snow,-11.6,No
+2024-12-29,R105,Inbound,578.0,195.0,Articulated Bus,48.2,Rain,21.9,False
+2024-07-21,R104,Outbound,594.0,380.0,Articulated Bus,35.3,Snow,-0.9,False
+2024-02-07,R208,Out,214.0,510.0,Minibus,30.1,Overcast,-0.3,false
+2024-04-14,R103,Inbound,539.0,630.0,Standard Bus,38.5,Overcast,-1.2,0
+2024-10-15,R101,Inbound,464.0,247.0,Standard Bus,78.5,Clear,5.2,0
+2024-04-04,R103,Inbound,226.0,124.0,Minibus,,Clear,25.9,No
+2024-05-19,R104,Outbound,292.0,416.0,mini bus,-5.0,Rain,6.2,No
+2024-04-25,R206,Outbound,181.0,684.0,Minibus,,Overcast,0.4,0
+2024-11-14,R208,Inbound,402.0,21.0,Standard Bus,64.6,Snow,16.5,No
+2024-05-03,R101,Inbound,483.0,127.0,Standard Bus,15.5,Clear,-2.9,false
+2024-09-19,R102,Outbound,797.0,359.0,Articulated Bus,999.0,Clear,41.7,false
+2024-02-06,R301,Outbound,349.0,203.0,Standard Bus,36.5,Rain,35.1,No
+2024-04-07,R104,Inbound,554.0,440.0,Minibus,24.7,Rain,4.1,False
+2024-11-03,R206,Inbound,302.0,272.0,Minibus,,Snow,24.5,0
+2024-02-13,R104,Outbound,674.0,585.0,Minibus,89.1,Overcast,38.8,0
+2024-12-24,R206,Outbound,644.0,119.0,Minibus,22.7,Rain,22.5,0
+2024-08-19,R205,Inbound,,439.0,Articulated Bus,78.0,Clear,-14.0,No
+2024-07-04,R105,Outbound,793.0,633.0,Articulated Bus,40.6,Overcast,36.3,Yes
+2024-03-18,R105,Inbound,512.0,227.0,Minibus,29.9,Clear,-11.3,False
+2024-07-19,R104,Inbound,542.0,611.0,Minibus,77.6,Clear,40.6,No
+2024-01-03,R101,Inbound,617.0,33.0,Articulated Bus,53.7,Rain,18.1,0
+2024-02-07,R301,Outbound,,297.0,Standard Bus,87.4,Overcast,12.8,No
+08/07/2024,R208,Outbound,472.0,74.0,Minibus,36.7,Rain,10.7,No
+2024-03-01,R206,Inbound,349.0,697.0,Minibus,42.1,Clear,27.9,0
+2024-02-24,R104,Outbound,245.0,291.0,Minibus,52.7,Snow,17.9,False
+2024-03-19,R102,Outbound,386.0,428.0,Articulated Bus,63.1,Clear,25.1,0
+2024-10-01,R101,INBOUND,773.0,675.0,Articulated Bus,25.3,Snow,-11.0,0
+14-Aug-2024,R103,Inbound,783.0,608.0,Minibus,50.7,Clear,6.4,False
+2024-10-02,R102,Inbound,237.0,743.0,Minibus,67.8,Clear,-14.8,0
+2024-06-29,R302,Outbound,283.0,127.0,Articulated Bus,21.7,Rain,-14.9,false
+2024-08-16,R206,Outbound,655.0,690.0,Minibus,28.1,Snow,1.9,false
+2024-04-29,R205,Outbound,435.0,467.0,Minibus,60.3,Clear,28.5,0
+2024-01-20,R207,Outbound,55.0,367.0,Minibus,59.7,Overcast,7.9,False
+2024-11-13,R206,In,,500.0,Standard Bus,89.0,Clear,0.9,0
+31-Mar-2024,R207,Inbound,105.0,,Minibus,38.5,Clear,-8.1,No
+2024-10-25,R205,Inbound,588.0,53.0,Standard Bus,21.8,Snow,13.2,0
+2024-07-28,R302,Inbound,700.0,175.0,Standard Bus,16.4,Overcast,13.2,0
+2024-03-09,R101,Outbound,596.0,431.0,Minibus,63.9,Snow,-3.2,No
+08/28/2024,R207,Inbound,88.0,143.0,Standard Bus,38.2,Rain,-0.8,No
+2024-11-05,R105,Inbound,783.0,158.0,Standard Bus,76.3,Rain,16.6,false
+2024-08-25,R105,Outbound,575.0,624.0,Minibus,38.9,Overcast,36.0,No
+2024-11-25,R103,Outbound,490.0,105.0,Articulated Bus,84.9,Rain,31.8,No
+2024-05-22,R101,Inbound,754.0,21.0,Minibus,62.5,Overcast,26.9,No
+2024-11-26,R101,Outbound,569.0,89.0,Standard Bus,58.9,Overcast,,false
+03/26/2024,R103,Inbound,,736.0,Standard Bus,29.8,Clear,-4.7,False
+2024-07-18,R205,Inbound,428.0,21.0,Articulated Bus,52.0,Rain,-14.8,false
+2024-10-06,R208,Inbound,48.0,126.0,Articulated Bus,25.0,Overcast,21.0,0
+2024-03-26,R102,Outbound,66.0,302.0,Articulated Bus,67.9,Clear,37.7,False
+2024-07-10,R105,Outbound,135.0,62.0,Standard Bus,27.2,Overcast,-1.7,0
+2024-12-28,R206,Inbound,412.0,221.0,Minibus,47.1,Rain,-13.6,0
+2024-04-08,R101,In,368.0,129.0,Articulated Bus,76.9,Rain,4.8,No
+2024-06-17,R104,Outbound,532.0,85.0,Articulated Bus,59.6,Clear,34.7,No
+2024-07-13,R102,Outbound,123.0,618.0,Articulated Bus,88.2,Clear,-7.8,false
+2024-12-20,R302,Inbound,23.0,680.0,Articulated Bus,54.4,Overcast,-5.2,No
+2024-09-30,R208,Outbound,761.0,383.0,MINIBUS,61.0,Clear,36.2,false
+2024-10-21,R205,Inbound,302.0,,std bus,79.7,Rain,-4.8,0
+2024-06-28,R104,Outbound,457.0,60.0,Standard Bus,68.5,Clear,-0.6,False
+2024-01-13,R205,Outbound,603.0,310.0,Standard Bus,15.7,Clear,-6.1,No
+25-Apr-2024,R103,Outbound,94.0,144.0,Articulated Bus,73.0,Rain,-1.9,0
+2024-07-03,R206,Inbound,788.0,691.0,Minibus,34.5,Snow,-13.1,false
+2024-06-22,R104,Outbound,,563.0,Standard Bus,65.0,Rain,29.9,False
+2024-10-30,R206,Inbound,487.0,468.0,Minibus,74.5,Overcast,3.1,False
+19-Nov-2024,R302,Outbound,291.0,203.0,Standard Bus,70.3,Snow,16.6,false
+05/21/2024,R301,In,473.0,51.0,Articulated Bus,31.5,Rain,23.9,0
+2024-12-12,R208,Inbound,384.0,577.0,Standard Bus,81.9,Overcast,21.0,No
+2024-02-03,R207,INBOUND,236.0,392.0,Articulated Bus,50.9,Rain,36.1,false
+2024-03-24,R103,Inbound,54.0,393.0,Articulated Bus,62.9,Clear,2.5,False
+2024-08-10,R104,Inbound,598.0,264.0,Articulated Bus,15.4,Snow,-11.6,No
+06/07/2024,R206,Outbound,,658.0,Minibus,30.7,Clear,-11.7,0
+2024-03-26,R206,Outbound,308.0,268.0,Articulated Bus,30.3,Snow,25.7,False
+2024-11-15,R103,Outbound,229.0,320.0,Standard Bus,89.3,Rain,23.5,0
+2024-01-28,R207,Inbound,768.0,404.0,Standard Bus,69.2,Rain,-12.7,0
+02/23/2024,R302,Inbound,128.0,90.0,Standard Bus,73.9,Overcast,25.3,0
+2024-06-08,R206,Inbound,138.0,252.0,Articulated Bus,54.9,Rain,31.8,False
+2024-01-26,R105,Inbound,166.0,680.0,Articulated Bus,88.6,Snow,12.6,No
+2024-11-05,R301,Inbound,258.0,147.0,Minibus,17.6,Clear,21.4,False
+2024-06-14,R101,Outbound,654.0,268.0,Articulated Bus,30.3,Overcast,34.8,false
+2024-07-26,R207,Outbound,125.0,119.0,Articulated Bus,,Clear,37.3,False
+2024-04-01,R103,Inbound,650.0,734.0,Articulated Bus,73.1,Overcast,4.5,No
+2024-11-16,R105,Inbound,508.0,53.0,Minibus,,Snow,32.1,0
+2024-10-01,R205,Inbound,344.0,69.0,Articulated Bus,89.1,Rain,12.7,False
+2024-07-25,R105,Inbound,308.0,155.0,Standard Bus,73.9,Rain,26.8,0
+2024-03-30,R103,Inbound,462.0,,Articulated Bus,86.0,Clear,26.4,False
+2024-05-11,R302,Outbound,636.0,553.0,Standard Bus,,Clear,23.0,false
+2024-03-28,R302,Out,474.0,685.0,Minibus,79.1,Overcast,,false
+2024-05-25,R104,Outbound,765.0,389.0,Articulated Bus,27.2,Snow,,False
+2024-09-07,R102,Inbound,720.0,,Minibus,52.7,Overcast,,0
+2024-08-30,R104,Outbound,,,Minibus,,Clear,18.2,0
+2024-06-10,R207,Inbound,291.0,16.0,Standard Bus,72.0,Clear,14.2,False
+2024-02-04,R301,Outbound,179.0,163.0,Articulated Bus,35.3,Rain,18.8,0
+2024-01-14,R302,Outbound,782.0,193.0,Articulated Bus,33.6,Snow,17.9,No
+2024-02-25,R103,Outbound,710.0,155.0,Minibus,,Clear,-7.1,false
+2024-07-03,R105,Outbound,577.0,207.0,Articulated Bus,39.0,Rain,12.2,No
+2024-01-09,R302,Outbound,105.0,602.0,Standard Bus,19.7,Snow,14.2,No
+2024-10-03,R301,Inbound,,401.0,Standard Bus,50.8,Snow,5.3,No
+2024-03-27,R206,Inbound,628.0,643.0,Minibus,65.4,Snow,4.0,False
+2024-12-08,R205,Outbound,679.0,25.0,Minibus,86.9,Rain,4.5,No
+2024-08-21,R301,Inbound,776.0,73.0,Minibus,38.7,Clear,13.9,No
+2024-02-25,R208,Outbound,780.0,205.0,Standard Bus,66.7,Rain,36.2,false
+2024-12-29,R105,Inbound,578.0,195.0,Articulated Bus,48.2,Rain,21.9,False
+2024-07-14,R208,Outbound,748.0,168.0,Standard Bus,40.7,Overcast,39.8,False
+2024-08-04,R206,Outbound,501.0,298.0,Standard Bus,75.2,Overcast,34.1,false
+2024-05-14,R208,Outbound,277.0,653.0,Minibus,66.2,Rain,38.2,false
+2024-07-18,R105,Outbound,588.0,496.0,Minibus,83.2,Snow,-4.2,No
+2024-01-25,R301,Outbound,624.0,108.0,Articulated Bus,60.6,Snow,41.1,0
+25-May-2024,R208,Outbound,640.0,317.0,Articulated Bus,66.4,Snow,-8.7,False
+2024-10-25,R105,Outbound,153.0,162.0,Minibus,29.0,Overcast,27.7,False
+2024-06-24,R101,Inbound,435.0,340.0,Minibus,37.3,Clear,-7.3,false
+2024-03-21,R102,Inbound,754.0,381.0,Articulated Bus,43.4,Clear,33.1,No
+2024-04-10,R302,OUTBOUND,530.0,,Standard Bus,18.9,Clear,4.2,0
+2024-05-12,R206,Outbound,454.0,221.0,Standard Bus,55.8,Rain,-1.7,False
+2024-03-02,R104,inbound,224.0,419.0,Articulated Bus,38.6,Snow,-10.2,0
+02-Dec-2024,R102,Outbound,248.0,538.0,Standard Bus,86.3,Overcast,-13.7,false
+2024-06-16,R208,Outbound,778.0,446.0,Articulated Bus,62.3,Overcast,25.7,false
+2024-09-26,R206,Inbound,121.0,439.0,Minibus,18.0,Rain,12.4,0
+2024-12-02,R102,Inbound,268.0,337.0,Standard Bus,87.6,Overcast,16.3,false
+16-Oct-2024,R103,Outbound,548.0,437.0,std bus,80.0,Snow,39.5,No
+2024-11-09,R102,Outbound,414.0,501.0,Articulated Bus,24.4,Snow,30.3,false
+2024-03-29,R102,Outbound,55.0,98.0,Standard Bus,51.3,Clear,30.9,False
+2024-04-07,R208,Inbound,544.0,327.0,Minibus,76.7,Clear,29.6,No
+2024-10-22,R301,Inbound,556.0,162.0,Minibus,28.4,Clear,30.5,false
+2024-08-03,R102,Inbound,147.0,215.0,Minibus,72.5,Snow,33.2,No
+2024-11-22,R208,Outbound,149.0,741.0,Minibus,43.4,Clear,5.7,False
+2024-02-27,R205,Outbound,635.0,220.0,Standard Bus,23.9,Overcast,-15.0,No
+2024-11-16,R301,Inbound,141.0,354.0,Standard Bus,50.6,Snow,-14.6,0
+2024-10-09,R105,Outbound,44.0,53.0,Minibus,20.7,Rain,-10.6,False
+2024-05-04,R301,Inbound,235.0,265.0,Standard Bus,-5.0,Clear,39.3,0
+2024-09-20,R206,Outbound,622.0,178.0,Minibus,,Snow,21.8,No
+2024-11-06,R206,Outbound,747.0,703.0,Articulated Bus,68.8,Rain,18.2,0
+2024-07-15,R302,Inbound,,185.0,Articulated Bus,18.5,Rain,31.1,False
+2024-10-14,R101,Inbound,691.0,178.0,Standard Bus,42.9,Clear,0.2,1
+2024-12-08,R103,Outbound,278.0,,Standard Bus,40.4,Clear,17.1,No
+2024-12-12,R105,Outbound,370.0,568.0,MINIBUS,84.4,Snow,5.9,0
+2024-11-09,R302,Outbound,133.0,494.0,Minibus,84.7,Clear,-13.3,No
+2024-07-04,R208,Inbound,683.0,677.0,Standard Bus,84.8,Rain,33.9,True
+2024-11-03,R302,Inbound,172.0,443.0,Minibus,52.1,Overcast,-8.1,false
+2024-03-08,R208,Outbound,735.0,498.0,Minibus,60.3,Snow,20.9,0
+2024-02-19,R104,Inbound,629.0,508.0,Articulated Bus,49.4,Snow,12.6,1
+2024-08-15,R105,Outbound,,477.0,Standard Bus,58.2,Rain,41.1,False
+2024-10-17,R302,Outbound,79.0,333.0,Articulated Bus,20.8,Rain,-11.7,false
+2024-09-22,R104,Outbound,361.0,514.0,Minibus,32.8,Overcast,36.7,0
+2024-07-07,R207,Inbound,229.0,629.0,Standard Bus,38.0,Rain,39.8,false
+2024-05-25,R301,Inbound,243.0,539.0,Minibus,,Rain,40.9,0
+2024-10-01,R207,Inbound,191.0,101.0,Minibus,27.6,Overcast,32.7,0
+2024-04-01,R302,Outbound,380.0,271.0,Standard Bus,48.7,Rain,18.5,0
+04/18/2024,R104,Inbound,382.0,410.0,Standard Bus,83.4,Overcast,-7.1,False
+2024-05-23,R301,Outbound,791.0,690.0,Minibus,76.4,Overcast,-8.3,0
+2024-03-14,R105,Outbound,494.0,678.0,Standard Bus,65.8,Snow,17.7,False
+2024-09-01,R206,In,140.0,121.0,Minibus,70.2,Clear,22.8,False
+2024-06-16,R205,Outbound,591.0,136.0,Minibus,41.2,Rain,38.0,False
+2024-12-26,R101,Outbound,178.0,242.0,Minibus,49.3,Rain,19.4,0
+2024-07-17,R206,Outbound,414.0,221.0,Articulated Bus,56.8,Overcast,18.3,False
+2024-07-06,R103,Outbound,604.0,413.0,Articulated Bus,43.8,Rain,23.7,False
+2024-12-20,R103,Outbound,423.0,679.0,Articulated Bus,30.4,Snow,25.4,No
+2024-09-23,R102,Outbound,521.0,39.0,Minibus,39.1,Snow,-13.0,False
+2024-04-15,R208,Outbound,416.0,529.0,Standard Bus,50.6,Clear,31.5,False
+2024-06-16,R104,Inbound,258.0,318.0,Standard Bus,67.3,Rain,5.8,0
+2024-06-27,R102,Inbound,231.0,507.0,Articulated Bus,21.9,Snow,-3.6,False
+2024-02-10,R301,Inbound,752.0,437.0,Standard Bus,69.9,Overcast,32.0,0
+2024-03-05,R102,Inbound,247.0,710.0,Minibus,18.5,Rain,20.3,0
+05-Feb-2024,R207,Outbound,673.0,334.0,Articulated Bus,21.5,Snow,13.8,No
+2024-11-05,R205,Outbound,478.0,553.0,Minibus,80.1,Rain,39.9,false
+07/04/2024,R208,Outbound,598.0,506.0,Standard Bus,86.3,Clear,19.2,Yes
+09/06/2024,R101,Outbound,23.0,152.0,Standard Bus,36.7,Rain,-1.4,0
+2024-03-05,R208,Outbound,460.0,40.0,Articulated Bus,,Snow,3.0,false
+2024-09-23,R205,Inbound,85.0,177.0,standard bus,64.3,Clear,3.5,False
+2024-10-21,R301,Outbound,,579.0,Articulated Bus,21.6,Snow,29.3,false
+2024-11-09,R302,Outbound,611.0,609.0,Articulated Bus,74.7,Rain,,0
+2024-05-21,R207,Inbound,267.0,624.0,Articulated Bus,43.0,Overcast,-12.1,0
+2024-04-21,R206,Inbound,260.0,358.0,Articulated Bus,54.1,Rain,36.1,False
+2024-02-24,R103,Outbound,421.0,457.0,Minibus,77.2,Snow,-12.9,No
+2024-07-08,R103,Outbound,508.0,102.0,Articulated Bus,,Snow,-4.7,False
+2024-01-16,R101,Inbound,370.0,448.0,Standard Bus,82.2,Clear,36.8,No
+2024-06-26,R105,Inbound,469.0,325.0,Std Bus,49.6,Rain,41.4,0
+2024-11-03,R205,Outbound,,186.0,Standard Bus,29.8,Clear,35.6,false
+2024-03-08,R207,Outbound,136.0,281.0,Minibus,31.5,Clear,-7.1,false
+2024-02-08,R101,Inbound,629.0,343.0,Minibus,29.4,Snow,25.9,0
+2024-05-21,R104,Outbound,629.0,212.0,Standard Bus,,Rain,31.5,0
+2024-08-21,R301,Inbound,782.0,529.0,Minibus,89.8,Snow,-4.1,0
+2024-05-14,R102,Inbound,131.0,27.0,Minibus,55.4,Rain,14.9,No
+2024-08-28,R105,Outbound,576.0,442.0,Minibus,51.7,Clear,21.0,0
+02/05/2024,R206,Outbnd,611.0,21.0,Articulated Bus,39.2,Clear,16.0,No
+2024-05-03,R101,Inbound,68.0,690.0,Standard Bus,48.3,Clear,35.8,False
+2024-02-22,R301,Inbound,77.0,283.0,Standard Bus,15.8,Overcast,25.8,false
+2024-01-19,R102,Outbound,185.0,558.0,Articulated Bus,64.3,Snow,28.2,0
+2024-08-29,R104,Inbound,488.0,63.0,Minibus,28.4,Overcast,39.8,No
+05/09/2024,R208,Inbound,,19.0,Minibus,52.3,Snow,-1.9,False
+2024-09-15,R102,Outbound,756.0,534.0,Articulated Bus,45.4,Rain,19.3,0
+2024-01-15,R206,Inbound,450.0,323.0,Standard Bus,,Rain,30.8,True
+2024-04-24,R205,Inbound,551.0,127.0,Articulated Bus,54.7,Snow,25.3,No
+2024-09-25,R103,Inbound,250.0,730.0,Standard Bus,31.3,Clear,15.9,No
+2024-05-10,R208,Outbound,637.0,310.0,Minibus,36.0,Snow,29.6,0
+2024-11-22,R105,Inbound,438.0,303.0,standard bus,60.4,Overcast,37.8,false
+2024-10-10,R208,Inbound,36.0,374.0,Standard Bus,34.5,Clear,21.1,false
+2024-06-19,R208,Outbound,118.0,167.0,Articulated Bus,15.4,Snow,-5.8,Yes
+2024-02-21,R207,Inbound,528.0,404.0,Minibus,75.0,Rain,4.0,False
+2024-04-09,R206,Outbound,272.0,,Articulated Bus,30.7,Overcast,6.1,0
+2024-05-04,R103,Outbound,796.0,103.0,Minibus,58.1,Clear,23.0,0
+2024-07-23,R104,Outbound,256.0,251.0,Standard Bus,48.2,Snow,33.3,No
+2024-06-18,R206,Outbound,712.0,507.0,Standard Bus,60.7,Rain,,No
+2024-03-26,R103,Outbound,689.0,565.0,Minibus,27.1,Snow,31.6,No
+2024-02-18,R207,Outbound,127.0,616.0,Minibus,74.2,Overcast,27.6,false
+2024-09-10,R103,Inbound,107.0,,Minibus,33.5,Rain,27.2,False
+2024-03-08,R205,Outbound,234.0,540.0,Articulated Bus,,Rain,29.8,false
+2024-02-20,R302,Outbound,544.0,226.0,Standard Bus,50.5,Clear,5.2,0
+2024-01-07,R103,Outbound,127.0,600.0,Articulated Bus,75.0,Overcast,-4.5,False
+2024-12-18,R104,Outbound,354.0,546.0,Minibus,89.8,Overcast,16.9,false
+2024-11-02,R205,Inbound,424.0,622.0,Minibus,33.3,Rain,16.8,False
+04/27/2024,R302,Outbound,406.0,713.0,Articulated Bus,,Snow,26.6,False
+2024-09-17,R208,Out,681.0,526.0,Minibus,48.3,Snow,-13.8,false
+2024-06-28,R105,Outbound,266.0,90.0,Standard Bus,57.5,Clear,-6.0,False
+2024-04-25,R104,Outbound,490.0,407.0,Articulated Bus,16.4,Rain,-6.8,False
+2024-05-05,R207,Inbound,142.0,260.0,Standard Bus,59.8,Clear,7.4,0
+2024-04-10,R208,Inbound,768.0,152.0,Articulated Bus,67.9,Overcast,-1.4,No
+2024-07-21,R207,Inbound,368.0,243.0,Articulated Bus,,Overcast,-5.7,false
+2024-09-09,R101,Outbound,359.0,66.0,Minibus,34.4,Overcast,-13.5,0
+2024-03-05,R102,Inbound,89.0,639.0,Articulated Bus,18.4,Clear,-2.6,0
+2024-02-23,R208,Outbound,705.0,342.0,Standard Bus,30.6,Rain,-1.4,No
+2024-11-29,R206,OUTBOUND,161.0,327.0,Minibus,52.1,Rain,40.8,false
+2024-11-06,R208,Outbound,473.0,50.0,Minibus,89.4,Rain,26.4,No
+2024-03-23,R102,Inbound,157.0,353.0,Minibus,58.6,Rain,41.5,False
+2024-08-14,R205,Inbound,156.0,34.0,Minibus,63.9,Overcast,32.4,0
+03/16/2024,R101,Outbound,470.0,,Articulated Bus,,Clear,14.7,False
+31-Aug-2024,R301,Outbound,292.0,602.0,Standard Bus,,Clear,4.5,No
+2024-11-04,R104,Outbound,59.0,73.0,Standard Bus,68.0,Overcast,6.3,False
+2024-04-05,R103,Inbound,757.0,71.0,Articulated Bus,19.0,Clear,32.5,No
+2024-08-30,R103,Inbound,135.0,619.0,Articulated Bus,84.5,Overcast,12.6,No
+2024-03-05,R302,Inbound,218.0,229.0,Articulated Bus,15.6,Snow,24.4,false
+03/26/2024,R102,Outbound,437.0,129.0,Articulated Bus,36.1,Overcast,-8.3,No
+2024-06-03,R302,Outbound,580.0,46.0,Standard Bus,34.4,Overcast,-5.6,False
+2024-01-12,R207,Outbound,409.0,274.0,Minibus,77.2,Overcast,26.7,false
+2024-04-03,R205,Inbound,266.0,396.0,Standard Bus,17.9,Rain,6.0,false
+2024-06-03,R208,Outbound,387.0,265.0,Articulated Bus,19.3,Clear,18.2,No
+2024-10-28,R301,Outbound,88.0,,Minibus,15.1,Clear,6.5,false
+2024-02-26,R105,Outbound,168.0,129.0,Minibus,,Snow,-12.6,False
+2024-11-02,R103,Inbound,74.0,450.0,articulated,23.7,Snow,34.6,0
+2024-01-12,R206,Inbound,,234.0,Minibus,83.6,Overcast,33.7,false
+2024-09-02,R105,Inbound,763.0,,Standard Bus,24.5,Clear,18.8,Yes
+2024-11-09,R105,Outbound,652.0,515.0,Minibus,73.1,Rain,17.0,False
+2024-08-20,R206,Inbound,673.0,495.0,Standard Bus,32.1,Rain,4.5,false
+2024-09-17,R302,Outbound,460.0,405.0,Minibus,54.4,Overcast,-8.7,0
+2024-12-10,R104,Outbound,778.0,460.0,Minibus,33.4,Clear,37.1,No
+2024-01-07,R105,Outbound,500.0,349.0,Articulated Bus,44.7,Clear,20.5,0
+2024-11-20,R206,Outbound,737.0,603.0,Minibus,53.1,Rain,-14.6,False
+2024-01-13,R101,Outbound,367.0,685.0,Standard Bus,75.3,Snow,29.1,0
+07/28/2024,R105,Inbound,93.0,551.0,Articulated Bus,,Clear,-1.3,No
+02/20/2024,R302,Outbound,754.0,580.0,Minibus,67.2,Snow,17.5,False
+2024-10-26,R301,Outbound,548.0,585.0,Articulated Bus,69.4,Overcast,20.3,False
+2024-02-17,R104,In,250.0,669.0,Standard Bus,71.7,Rain,-2.0,No
+02/03/2024,R302,Outbound,660.0,327.0,Minibus,15.5,Snow,-11.7,false
+2024-08-19,R102,Outbound,294.0,178.0,Standard Bus,420.5,Clear,16.0,0
+2024-09-23,R102,Outbound,624.0,,Articulated Bus,26.5,Clear,10.9,false
+2024-01-08,R103,In,496.0,418.0,Standard Bus,35.8,Rain,0.8,false
+01/04/2024,R206,Inbound,477.0,97.0,Minibus,33.6,Rain,10.7,No
+2024-09-27,R101,Outbound,465.0,364.0,Articulated Bus,28.0,Rain,36.1,False
+2024-01-13,R101,Inbound,394.0,87.0,Articulated Bus,38.0,Snow,30.0,0
+2024-09-12,R101,Inbound,275.0,748.0,Minibus,42.2,Overcast,34.1,No
+2024-11-05,R104,Outbound,555.0,537.0,Articulated Bus,86.3,Rain,25.0,0
+2024-05-26,R205,Outbound,625.0,727.0,Standard Bus,22.9,Clear,29.6,false
+2024-02-12,R302,Inbound,,216.0,Articulated Bus,65.2,Clear,8.4,0
+2024-05-06,R205,Outbound,607.0,,Minibus,66.7,Rain,23.6,False
+2024-05-23,R103,Inbound,660.0,231.0,Articulated Bus,67.9,Clear,19.1,False
+01/13/2024,R207,Outbound,382.0,719.0,Standard Bus,21.2,Clear,19.4,No
+2024-06-05,R301,Inbound,211.0,339.0,Articulated Bus,32.4,Rain,8.1,No
+02/18/2024,R207,Inbound,478.0,151.0,Standard Bus,30.4,Clear,6.6,0
+2024-12-25,R104,Inbound,413.0,,Standard Bus,19.2,Rain,15.7,Yes
+2024-06-22,R207,Inbound,339.0,116.0,Standard Bus,16.3,Overcast,36.8,0
+2024-10-04,R105,Inbound,676.0,571.0,Standard Bus,80.1,Clear,25.3,No
+2024-12-28,R206,Outbound,,532.0,Minibus,43.9,Clear,33.7,0
+2024-12-07,R105,Outbound,369.0,310.0,Standard Bus,76.5,Rain,24.6,No
+2024-12-02,R208,Outbound,252.0,113.0,Articulated Bus,67.5,Clear,33.3,No
+2024-02-22,R103,Inbound,,77.0,Minibus,64.0,Overcast,0.6,0
+2024-01-06,R102,Outbound,427.0,127.0,Standard Bus,63.4,Overcast,-12.4,false
+2024-09-28,R208,Outbound,191.0,234.0,Standard Bus,50.2,Snow,0.9,false
+2024-06-29,R103,Inbound,456.0,37.0,Minibus,72.7,Overcast,38.9,False
+2024-03-09,R206,Outbound,464.0,452.0,Standard Bus,46.8,Clear,30.2,0
+2024-08-29,R101,Outbound,,,Minibus,61.8,Rain,15.0,No
+2024-06-14,R208,Inbound,252.0,209.0,Minibus,66.2,Snow,34.7,False
+2024-11-26,R208,Inbound,174.0,195.0,Articulated Bus,75.0,Clear,35.4,false
+2024-11-17,R208,Outbound,771.0,61.0,Minibus,23.9,Clear,8.4,False
+2024-02-12,R105,Inbound,39.0,230.0,Standard Bus,,Clear,1.4,No
+2024-10-30,R105,Outbound,585.0,750.0,Standard Bus,83.1,Clear,-1.3,No
+2024-11-22,R208,Outbound,325.0,26.0,Minibus,88.8,Snow,30.4,0
+2024-03-24,R206,outbound,309.0,368.0,Minibus,69.1,Rain,0.5,0
+2024-10-17,R207,Outbound,425.0,740.0,Standard Bus,,Snow,10.8,0
+2024-03-02,R302,Inbound,539.0,334.0,Standard Bus,46.8,Snow,-10.3,False
+2024-02-29,R103,Inbound,719.0,130.0,Standard Bus,37.1,Snow,7.0,No
+12-Aug-2024,R208,Outbound,,702.0,Minibus,43.9,Snow,37.2,No
+2024-08-19,R206,Outbound,372.0,746.0,Standard Bus,52.9,Overcast,8.0,False
+2024-10-28,R205,Outbound,198.0,70.0,Minibus,45.8,Overcast,12.9,No
+2024-01-04,R208,Inbound,697.0,413.0,Articulated Bus,19.8,Rain,7.1,No
+2024-01-23,R101,Outbound,,,MINIBUS,16.0,Overcast,-2.1,0
+2024-11-25,R208,Outbound,85.0,84.0,Articulated Bus,28.6,Snow,13.7,No
+2024-02-05,R103,Inbound,705.0,401.0,Minibus,61.3,Overcast,27.3,false
+2024-12-07,R206,Outbound,480.0,705.0,Articulated Bus,17.4,Snow,21.3,False
+05/23/2024,R205,Outbound,,352.0,Standard Bus,27.8,Snow,-13.3,False
+10/14/2024,R302,Outbound,146.0,301.0,Standard Bus,31.4,Rain,34.8,true
+2024-11-21,R102,Inbound,242.0,748.0,Articulated Bus,57.1,Snow,34.2,false
+05/01/2024,R205,Outbound,707.0,671.0,Standard Bus,61.5,Rain,16.1,No
+23-Apr-2024,R207,Inbound,124.0,242.0,Standard Bus,61.7,Snow,41.4,False
+2024-10-21,R207,Inbound,720.0,360.0,Articulated Bus,68.6,Snow,0.3,No
+2024-12-06,R207,Inbound,501.0,240.0,Minibus,71.4,Rain,38.7,False
+28-Oct-2024,R105,Inbound,187.0,574.0,Minibus,46.6,Clear,13.6,False
+2024-06-02,R102,Inbound,743.0,622.0,Standard Bus,28.3,Rain,41.3,false
+2024-12-10,R102,Inbound,265.0,98.0,Standard Bus,19.1,Overcast,40.4,False
+2024-09-07,R102,Outbound,100.0,713.0,Articulated Bus,60.7,Overcast,13.7,No
+2024-03-14,R208,Inbound,106.0,115.0,Articulated Bus,18.6,Overcast,-12.8,0
+2024-04-01,R205,Inbound,408.0,748.0,Standard Bus,74.4,Rain,18.6,0
+2024-07-04,R301,Inbound,680.0,95.0,Minibus,64.4,Rain,24.5,true
+2024-05-16,R301,INBOUND,448.0,512.0,Articulated Bus,58.8,Rain,40.3,No
+2024-01-10,R105,Inbound,541.0,560.0,Minibus,35.5,Overcast,,0
+2024-10-19,R105,Inbound,710.0,348.0,Articulated Bus,59.6,Snow,15.7,0
+2024-08-31,R302,Outbound,538.0,297.0,Articulated Bus,87.0,Snow,-2.6,false
+05/25/2024,R207,Inbound,591.0,629.0,Minibus,88.2,Clear,21.8,No
+2024-09-02,R105,Outbound,412.0,221.0,Articulated Bus,34.5,Clear,36.7,true
+2024-12-02,R207,Out,659.0,205.0,Standard Bus,40.5,Snow,34.4,false
+2024-07-22,R104,Inbound,545.0,529.0,Minibus,19.9,Rain,18.1,false
+2024-10-21,R205,Outbound,598.0,79.0,Standard Bus,,Snow,21.1,false
+2024-06-16,R101,Inbound,319.0,57.0,Minibus,72.4,Rain,31.3,No
+2024-03-01,R205,Outbound,181.0,466.0,Minibus,71.6,Overcast,10.4,False
+2024-10-06,R206,Outbound,175.0,531.0,Standard Bus,25.7,Overcast,18.1,False
+10/01/2024,R105,Inbound,33.0,647.0,Articulated Bus,86.9,Rain,6.0,No
+2024-07-06,R205,Inbound,92.0,263.0,Articulated Bus,51.1,Clear,24.2,No
+2024-07-26,R101,Outbound,508.0,79.0,Minibus,41.6,Snow,2.3,0
+2024-08-20,R205,Inbound,251.0,298.0,Minibus,62.8,Rain,22.6,0
+2024-10-06,R206,Outbound,737.0,724.0,Articulated Bus,66.3,Rain,36.5,0
+2024-02-15,R207,Inbound,268.0,332.0,Articulated Bus,69.8,Rain,7.1,false
+2024-12-31,R103,Outbound,499.0,328.0,Standard Bus,71.9,Clear,-14.2,0
+2024-01-04,R205,Inbound,287.0,433.0,Minibus,420.5,Snow,-10.2,False
+2024-06-06,R103,Outbound,201.0,100.0,Minibus,18.9,Rain,-8.5,False
+2024-07-26,R206,Inbound,100.0,565.0,Standard Bus,45.4,Clear,-5.4,false
+2024-11-26,R302,Outbound,441.0,334.0,Standard Bus,76.0,Overcast,38.6,false
+2024-05-09,R207,Outbound,,281.0,Standard Bus,63.6,Snow,40.2,false
+2024-11-19,R302,Outbound,183.0,,Standard Bus,46.2,Clear,5.3,0
+2024-03-20,R301,Outbound,26.0,328.0,Minibus,53.1,Snow,8.9,False
+2024-02-24,R103,Outbound,203.0,415.0,Standard Bus,51.9,Overcast,-0.3,false
+2024-06-13,R101,Inbound,478.0,294.0,Minibus,24.6,Clear,-9.1,0
+2024-10-19,R205,Out,298.0,418.0,Standard Bus,32.3,Snow,-8.9,false
+2024-10-11,R208,Outbound,751.0,544.0,Minibus,64.1,Overcast,34.7,0
+2024-02-10,R105,Inbound,416.0,713.0,Minibus,22.5,Snow,-12.0,0
+2024-10-15,R206,Outbound,605.0,451.0,Standard Bus,76.1,Clear,29.3,false
+2024-01-12,R301,Outbound,709.0,332.0,Minibus,73.8,Rain,19.9,False
+2024-03-16,R207,Inbound,,503.0,Minibus,56.5,Clear,15.9,False
+2024-01-04,R207,Inbound,,556.0,Standard Bus,-12.3,Snow,12.4,False
+08/29/2024,R301,Inbound,599.0,740.0,Standard Bus,35.8,Snow,,False
+2024-03-29,R207,Inbound,468.0,315.0,Articulated Bus,58.7,Snow,-0.6,0
+07-Oct-2024,R101,Inbound,772.0,520.0,Articulated Bus,73.5,Clear,5.0,false
+2024-02-14,R206,Outbound,266.0,,Standard Bus,57.3,Clear,22.8,false
+2024-12-21,R205,Outbound,47.0,728.0,Articulated Bus,57.3,Snow,32.9,No
+2024-11-02,R302,Inbound,121.0,699.0,Standard Bus,73.5,Overcast,23.4,False
+06/10/2024,R205,Inbound,754.0,103.0,Articulated Bus,26.4,Rain,3.7,0
+2024-05-11,R208,Outbound,356.0,520.0,Standard Bus,85.2,Rain,38.6,false
+2024-07-22,R104,Inbound,448.0,156.0,Standard Bus,37.3,Overcast,33.6,No
+2024-05-20,R208,Inbound,,512.0,Articulated Bus,34.6,Snow,1.9,No
+2024-05-19,R206,Outbound,462.0,342.0,Articulated Bus,22.8,Rain,30.6,No
+2024-10-25,R101,Inbound,355.0,252.0,Articulated Bus,28.1,Clear,13.6,False
+2024-01-10,R302,Inbound,,226.0,Minibus,75.6,Overcast,27.0,False
+2024-08-15,R103,Outbound,52.0,702.0,Standard Bus,22.0,Clear,6.0,false
+2024-09-18,R206,Inbound,701.0,459.0,Standard Bus,,Snow,0.4,No
+2024-05-03,R105,Outbound,116.0,24.0,Minibus,84.8,Clear,-0.6,False
+2024-08-25,R205,Outbound,25.0,302.0,Minibus,47.5,Rain,-0.8,False
+2024-05-03,R105,Outbound,687.0,287.0,standard bus,64.0,Rain,,false
+2024-12-10,R102,Outbound,165.0,690.0,Articulated Bus,26.2,Clear,9.2,false
+2024-12-27,R101,Inbound,184.0,502.0,Standard Bus,999.0,Snow,34.1,false
+2024-03-26,R206,Inbound,,446.0,Minibus,,Snow,31.7,False
+2024-04-30,R103,Outbound,268.0,619.0,Minibus,56.0,Rain,-9.8,False
+09/02/2024,R105,Outbound,211.0,370.0,Standard Bus,24.0,Clear,3.7,True
+2024-05-01,R104,Outbound,678.0,151.0,Minibus,,Snow,2.9,0
+2024-07-27,R103,Outbound,,487.0,Standard Bus,,Rain,33.9,False
+2024-02-12,R302,Outbound,351.0,598.0,Minibus,83.1,Overcast,25.7,False
+11-Nov-2024,R105,Outbound,280.0,529.0,Articulated Bus,89.4,Rain,-9.3,true
+2024-04-30,R205,Outbound,140.0,,Minibus,80.6,Rain,5.1,False
+11/30/2024,R104,Outbound,563.0,460.0,Articulated Bus,49.0,Clear,31.8,false
+2024-11-21,R301,Outbound,464.0,439.0,Standard Bus,-5.0,Snow,26.0,No
+2024-08-27,R103,Out,159.0,560.0,Articulated Bus,19.2,Clear,12.7,false
+2024-01-02,R301,Outbound,250.0,467.0,Standard Bus,48.8,Snow,-0.5,False
+2024-04-07,R208,Outbound,679.0,203.0,Minibus,20.6,Overcast,-8.6,false
+30-Apr-2024,R205,Outbound,680.0,118.0,std bus,24.6,Clear,10.2,False
+2024-05-15,R105,Inbound,665.0,722.0,Articulated Bus,-12.3,Rain,16.1,No
+2024-07-29,R102,Outbound,220.0,674.0,Standard Bus,32.0,Rain,32.7,No
+2024-02-12,R302,Outbound,734.0,587.0,Articulated Bus,31.5,Overcast,37.7,No
+2024-09-23,R205,Outbound,653.0,142.0,Minibus,46.4,Overcast,11.1,false
+2024-03-13,R302,Inbound,493.0,482.0,Standard Bus,46.7,Rain,4.8,false
+2024-06-03,R206,Inbound,521.0,127.0,Minibus,45.1,Snow,16.9,No
+2024-09-11,R205,Outbound,761.0,483.0,Articulated Bus,15.1,Clear,-4.8,0
+2024-06-06,R102,Outbound,435.0,513.0,Minibus,33.1,Snow,5.2,false
+2024-02-14,R206,Outbound,,637.0,Minibus,69.5,Snow,18.8,false
+2024-02-02,R207,Outbound,705.0,166.0,Standard Bus,32.3,Clear,-1.1,0
+2024-10-08,R104,Outbound,233.0,180.0,Minibus,62.8,Clear,30.7,No
+2024-09-29,R208,Inbound,367.0,554.0,Articulated Bus,32.6,Clear,,False
+2024-09-18,R102,Outbound,356.0,495.0,Minibus,56.6,Snow,,False
+2024-09-26,R208,Inbound,169.0,146.0,Minibus,-1.0,Rain,8.4,No
+04/05/2024,R104,Outbound,449.0,299.0,Minibus,,Clear,-9.2,0
+2024-09-27,R104,Outbound,575.0,327.0,Articulated Bus,86.6,Snow,19.8,false
+2024-05-15,R301,Outbound,,265.0,Standard Bus,76.8,Snow,36.2,0
+2024-06-07,R206,Outbound,202.0,,Standard Bus,47.6,Snow,-9.9,false
+2024-10-21,R105,Inbound,402.0,547.0,Standard Bus,87.5,Clear,16.8,No
+2024-09-08,R207,Outbound,180.0,474.0,Articulated Bus,73.7,Overcast,25.4,0
+2024-02-11,R102,Outbound,105.0,570.0,Standard Bus,78.9,Clear,-12.7,No
+2024-11-06,R301,Outbound,500.0,467.0,Articulated Bus,32.3,Rain,13.5,False
+2024-12-29,R205,Outbound,91.0,686.0,Standard Bus,36.0,Snow,-7.5,false
+2024-01-10,R104,Inbnd,496.0,300.0,Minibus,77.7,Rain,18.5,False
+2024-09-08,R102,Inbound,483.0,363.0,Standard Bus,79.4,Rain,3.6,No
+12/26/2024,R102,Inbound,489.0,,Standard Bus,56.8,Overcast,18.4,false
+2024-11-18,R102,Outbound,173.0,566.0,Minibus,45.1,Overcast,28.5,False
+2024-03-07,R302,Outbound,469.0,261.0,Standard Bus,,Clear,33.7,false
+2024-03-08,R208,Inbound,792.0,68.0,Standard Bus,87.7,Clear,35.4,false
+2024-01-13,R206,Outbound,412.0,613.0,Minibus,25.1,Overcast,-8.4,No
+2024-07-22,R101,Inbound,419.0,519.0,Articulated Bus,57.4,Clear,40.8,No
+2024-08-25,R302,Inbound,170.0,398.0,Articulated Bus,25.0,Clear,-6.8,0
+2024-01-31,R105,Inbound,451.0,501.0,Articulated Bus,44.5,Snow,-1.5,0
+01/22/2024,R301,Outbound,664.0,728.0,Standard Bus,85.7,Rain,27.6,No
+2024-05-18,R104,Inbound,284.0,626.0,Minibus,53.5,Clear,1.0,False
+2024-10-31,R104,Inbound,362.0,159.0,Standard Bus,48.1,Overcast,41.1,0
+2024-08-12,R101,In,618.0,156.0,Standard Bus,24.6,Clear,-7.8,0
+2024-10-23,R104,inbound,301.0,,Standard Bus,24.2,Rain,10.8,False
+2024-11-05,R301,Outbound,95.0,674.0,Articulated Bus,32.9,Clear,-2.2,False
+2024-11-01,R105,Inbound,436.0,230.0,Minibus,48.1,Overcast,19.5,False
+2024-03-23,R205,Outbound,402.0,82.0,Articulated Bus,71.8,Rain,14.6,0
+2024-04-06,R103,Outbound,435.0,394.0,Standard Bus,81.1,Rain,26.7,false
+2024-04-14,R103,Inbound,539.0,630.0,Standard Bus,38.5,Overcast,-1.2,0
+2024-10-02,R301,Inbound,497.0,434.0,Standard Bus,,Rain,24.3,False
+2024-02-22,R208,Outbound,459.0,218.0,Minibus,57.0,Clear,-9.0,False
+2024-02-27,R205,Outbound,262.0,136.0,Articulated Bus,39.7,Rain,11.8,False
+2024-05-23,R103,Inbound,418.0,421.0,Minibus,53.1,Clear,13.4,0
+2024-05-18,R104,Outbound,237.0,441.0,Standard Bus,66.2,Clear,13.3,false
+2024-05-28,R301,Outbound,,522.0,Minibus,23.0,Clear,10.5,false
+2024-05-10,R205,Inbound,546.0,339.0,Minibus,32.7,Snow,25.7,false
+2024-09-25,R206,Outbound,509.0,341.0,Minibus,66.3,Overcast,16.1,false
+2024-12-28,R301,Inbound,752.0,337.0,Standard Bus,31.5,Overcast,5.0,No
+2024-12-03,R105,Inbound,590.0,664.0,Minibus,88.4,Overcast,30.3,False
+2024-01-10,R208,Inbound,454.0,710.0,Articulated Bus,76.4,Snow,4.2,0
+2024-04-13,R101,Inbound,377.0,188.0,Minibus,85.3,Snow,5.1,false
+30-Dec-2024,R208,Outbound,647.0,157.0,Minibus,83.3,Snow,14.1,false
+2024-03-30,R206,Inbound,367.0,204.0,Standard Bus,,Overcast,12.2,False
+2024-04-12,R102,Inbound,367.0,560.0,Minibus,54.4,Overcast,31.1,No
+23-Jun-2024,R105,Inbound,350.0,473.0,Standard Bus,,Snow,19.3,False
+2024-05-23,R105,Inbound,387.0,584.0,Minibus,42.3,Rain,38.5,false
+2024-04-23,R206,Inbound,166.0,298.0,Standard Bus,64.8,Clear,32.7,No
+2024-04-22,R103,Inbound,85.0,384.0,Minibus,39.9,Overcast,29.6,false
+2024-05-16,R206,Inbound,189.0,,Minibus,39.7,Overcast,38.1,No
+2024-03-28,R302,Inbound,528.0,287.0,Minibus,70.1,Snow,2.1,false
+09-Jul-2024,R205,Outbound,368.0,239.0,Standard Bus,77.7,Overcast,39.8,0
+2024-07-29,R205,Inbound,237.0,116.0,Minibus,58.4,Rain,,0
+2024-03-11,R302,Inbound,368.0,22.0,Articulated Bus,17.0,Snow,-2.3,No
+2024-04-02,R301,In,712.0,550.0,Articulated Bus,84.1,Overcast,20.1,false
+2024-06-09,R301,Inbound,326.0,536.0,Standard Bus,37.8,Clear,41.0,False
+2024-08-18,R301,Outbound,423.0,117.0,Minibus,86.3,Clear,2.1,No
+2024-08-05,R208,Outbound,,301.0,Articulated Bus,64.4,Clear,7.5,False
+11/30/2024,R101,Inbound,104.0,161.0,Articulated Bus,24.2,Overcast,35.0,No
+2024-01-15,R207,Inbound,65.0,560.0,Articulated Bus,24.7,Overcast,3.8,true
+2024-02-04,R301,Outbound,745.0,677.0,Articulated Bus,,Rain,-3.9,No
+2024-04-06,R207,Inbound,798.0,421.0,Articulated Bus,24.2,Overcast,-1.6,False
+2024-10-19,R302,Outbound,461.0,275.0,Minibus,56.2,Clear,32.3,False
+2024-08-19,R301,Outbound,298.0,379.0,Minibus,76.3,Clear,-8.1,False
+2024-07-18,R302,Outbnd,321.0,595.0,Articulated Bus,78.1,Clear,-4.4,False
+2024-06-13,R207,Outbound,663.0,,Minibus,19.9,Clear,-2.0,False
+2024-12-20,R208,Inbound,,64.0,Standard Bus,38.0,Snow,3.6,0
+2024-10-08,R207,Inbound,688.0,,Minibus,28.5,Snow,40.3,False
+2024-02-17,R102,Outbound,175.0,186.0,standard bus,83.7,Rain,9.6,No
+25-Dec-2024,R301,Outbnd,648.0,528.0,Standard Bus,54.7,Clear,32.3,True
+2024-02-19,R208,Outbound,762.0,159.0,Articulated Bus,44.3,Snow,40.3,true
+2024-06-23,R205,Inbnd,728.0,537.0,Minibus,34.5,Snow,6.6,False
+2024-05-05,R102,Inbound,348.0,493.0,Minibus,16.0,Clear,22.0,0
+2024-01-05,R208,Outbound,580.0,154.0,Articulated Bus,87.2,Overcast,15.5,No
+2024-09-15,R208,OUTBOUND,122.0,,Minibus,26.1,Overcast,19.0,False
+2024-11-23,R205,Outbound,,489.0,Articulated Bus,70.3,Snow,10.8,false
+2024-07-15,R104,Outbound,572.0,332.0,Minibus,22.3,Rain,8.1,0
+2024-05-21,R102,Outbound,62.0,695.0,Standard Bus,,Rain,16.3,False
+2024-01-07,R104,Inbound,368.0,161.0,Standard Bus,81.3,Snow,0.4,0
+2024-05-15,R302,Outbound,460.0,478.0,Articulated Bus,49.8,Clear,-7.4,False
+2024-02-24,R103,Outbound,421.0,457.0,Minibus,77.2,Snow,-12.9,No
+2024-09-30,R207,Outbound,362.0,324.0,Minibus,19.4,Clear,21.1,No
+2024-06-18,R102,Inbound,293.0,334.0,Standard Bus,44.7,Overcast,40.6,0
+2024-01-11,R207,Outbound,166.0,132.0,Articulated Bus,31.5,Clear,39.7,false
+2024-09-12,R208,Outbound,353.0,656.0,Standard Bus,24.2,Clear,-1.8,false
+2024-11-18,R302,Inbound,648.0,524.0,Standard Bus,26.3,Overcast,3.5,False
+07/20/2024,R104,Inbound,394.0,25.0,Standard Bus,57.3,Snow,30.8,false
+2024-08-14,R205,Outbound,,492.0,Minibus,52.4,Clear,1.9,false
+2024-04-01,R102,Outbound,561.0,288.0,Articulated Bus,36.2,Clear,7.8,No
+2024-08-26,R208,Inbound,597.0,349.0,Minibus,82.6,Clear,9.0,0
+2024-11-25,R205,Outbound,566.0,,Articulated Bus,33.6,Rain,4.8,false
+2024-10-24,R208,Outbound,120.0,321.0,Minibus,30.4,Rain,30.5,false
+2024-04-16,R205,Outbound,571.0,40.0,Minibus,47.6,Snow,14.9,0
+06/26/2024,R207,Inbound,170.0,125.0,Standard Bus,70.4,Snow,-14.2,false
+2024-08-23,R205,Inbound,702.0,309.0,Standard Bus,27.3,Rain,0.8,False
+2024-05-02,R104,Inbound,379.0,714.0,Standard Bus,61.3,Snow,34.2,False
+2024-11-16,R205,Outbound,593.0,681.0,Articulated Bus,68.4,Clear,-4.0,No
+2024-03-30,R104,Outbound,761.0,145.0,Minibus,21.3,Clear,41.1,False
+21-Aug-2024,R104,Outbound,24.0,480.0,Articulated Bus,35.9,Overcast,-4.9,False
+2024-11-29,R208,Inbound,665.0,361.0,Standard Bus,67.1,Rain,17.3,false
+2024-04-22,R102,Inbound,309.0,454.0,Articulated Bus,27.4,Snow,21.8,No
+2024-06-16,R101,Outbound,597.0,89.0,Articulated Bus,31.0,Overcast,-7.2,false
+2024-11-20,R103,Inbnd,,112.0,Minibus,44.7,Snow,39.4,0
+2024-05-05,R208,Inbound,756.0,141.0,Minibus,65.4,Snow,-1.3,No
+2024-09-22,R101,Inbound,723.0,33.0,Articulated Bus,48.0,Overcast,-6.6,false
+2024-09-06,R104,Inbound,543.0,289.0,Articulated Bus,38.6,Snow,31.0,0
+2024-02-06,R207,Outbound,146.0,118.0,Standard Bus,75.3,Snow,14.0,false
+2024-02-16,R301,Outbound,141.0,558.0,Minibus,38.8,Rain,35.1,No
+2024-10-01,R104,Outbound,580.0,656.0,Articulated Bus,65.2,Clear,-11.0,0
+10/21/2024,R102,Outbound,696.0,63.0,Minibus,63.5,Clear,11.1,False
+2024-08-04,R101,Outbound,632.0,169.0,Articulated Bus,17.2,Snow,12.4,0
+2024-06-23,R205,Inbound,304.0,714.0,Standard Bus,67.8,Overcast,36.9,False
+2024-08-19,R101,In,775.0,708.0,Minibus,,Overcast,-8.1,False
+2024-09-02,R102,Outbound,656.0,27.0,standard bus,19.7,Rain,-3.0,1
+2024-09-16,R207,Inbound,478.0,713.0,Minibus,,Rain,8.1,No
+2024-04-28,R302,Inbound,276.0,584.0,Articulated Bus,82.1,Clear,-1.9,false
+2024-09-28,R104,Outbound,627.0,673.0,Standard Bus,67.6,Clear,-3.9,false
+2024-11-19,R205,Outbound,662.0,251.0,Minibus,45.5,Snow,36.5,0
+05/01/2024,R208,Outbound,637.0,428.0,Standard Bus,,Clear,0.7,No
+05/18/2024,R105,Outbound,,426.0,Articulated Bus,32.6,Clear,2.3,No
+28-Nov-2024,R103,Inbound,791.0,629.0,Articulated Bus,32.2,Rain,-1.7,Yes
+2024-03-20,R105,Inbound,509.0,433.0,MINIBUS,,Rain,24.7,0
+2024-03-04,R301,Outbound,577.0,571.0,Standard Bus,44.6,Snow,9.0,0
+2024-11-17,R104,Outbound,627.0,471.0,Minibus,38.1,Overcast,17.7,false
+2024-01-01,R105,Outbound,377.0,742.0,Minibus,22.6,Overcast,-5.5,Yes
+2024-11-30,R101,Inbound,181.0,394.0,Articulated Bus,68.0,Overcast,-12.1,False
+2024-04-08,R104,Outbound,791.0,491.0,Standard Bus,87.7,Overcast,29.2,False
+2024-11-11,R205,Inbound,362.0,445.0,Articulated Bus,21.2,Clear,36.9,1
+2024-04-26,R104,Outbound,755.0,662.0,Minibus,80.8,Overcast,7.2,No
+2024-12-26,R105,Inbound,103.0,379.0,Minibus,28.8,Overcast,-11.8,False
+2024-05-04,R104,Inbound,380.0,598.0,Standard Bus,62.6,Rain,-11.0,False
+2024-12-29,R206,Outbound,181.0,593.0,Minibus,18.8,Snow,-1.7,False
+2024-02-09,R101,inbound,404.0,186.0,Articulated Bus,-5.0,Clear,21.1,false
+2024-02-17,R208,Outbound,336.0,395.0,Minibus,43.0,Overcast,-0.4,false
+2024-09-01,R102,Inbound,767.0,609.0,Articulated Bus,43.4,Clear,4.2,false
+2024-04-17,R101,Inbound,163.0,30.0,Standard Bus,30.1,Rain,38.3,0
+2024-05-05,R103,Inbound,129.0,206.0,Standard Bus,37.5,Overcast,-1.7,false
+2024-05-06,R104,Inbound,32.0,508.0,Articulated Bus,31.6,Clear,26.8,0
+2024-04-03,R207,Inbound,133.0,213.0,Standard Bus,46.0,Overcast,-3.6,0
+2024-12-05,R105,Outbound,426.0,522.0,Minibus,79.3,Rain,24.0,0
+09/07/2024,R205,Inbound,605.0,718.0,Articulated Bus,83.2,Clear,31.7,0
+06/12/2024,R103,Inbound,380.0,502.0,Articulated Bus,44.5,Rain,-7.1,false
+2024-07-26,R206,Inbound,352.0,311.0,Articulated Bus,39.8,Clear,-0.8,False
+2024-10-26,R102,Outbound,601.0,709.0,Standard Bus,43.1,Clear,1.3,0
+2024-06-09,R102,Inbound,337.0,37.0,Minibus,83.0,Clear,-4.1,0
+2024-02-22,R112,Outbound,405.0,401.0,Minibus,37.6,Clear,,No
+20-Jul-2024,R104,Outbound,490.0,133.0,Standard Bus,35.1,Snow,20.6,false
+10/22/2024,R301,Inbound,63.0,112.0,Articulated Bus,31.2,Rain,4.2,0
+11/26/2024,R302,Outbound,105.0,711.0,Minibus,40.6,Snow,-9.8,0
+2024-07-21,R207,Inbound,119.0,558.0,MINIBUS,44.0,Clear,36.7,0
+2024-12-08,R102,Out,243.0,17.0,Standard Bus,68.2,Overcast,-9.0,0
+2024-05-02,R207,Outbound,152.0,663.0,Articulated Bus,86.6,Overcast,34.8,No
+2024-03-11,R101,Outbound,627.0,,Articulated Bus,66.3,Rain,20.1,No
+2024-02-08,R102,Inbound,222.0,80.0,Articulated Bus,62.3,Clear,32.2,False
+2024-07-20,R206,Inbound,468.0,194.0,Standard Bus,36.0,Clear,38.7,No
+2024-03-27,R103,Inbound,436.0,322.0,Minibus,84.6,Clear,41.8,0
+2024-09-30,R105,Inbound,160.0,681.0,Standard Bus,63.3,Snow,-4.6,No
+2024-07-05,R101,Outbound,374.0,573.0,Minibus,80.2,Overcast,,False
+2024-01-05,R103,Inbound,97.0,616.0,Standard Bus,21.3,Snow,23.9,False
+2024-05-29,R301,Outbound,405.0,76.0,Standard Bus,46.4,Overcast,14.3,No
+2024-04-19,R105,Outbound,383.0,621.0,Articulated Bus,76.5,Snow,32.1,No
+2024-01-16,R301,Outbound,334.0,53.0,Minibus,83.6,Rain,0.1,False
+2024-03-12,R207,Outbound,790.0,633.0,Standard Bus,16.8,Rain,,0
+11/17/2024,R302,Inbound,535.0,561.0,Articulated Bus,72.6,Overcast,-12.5,0
+2024-02-04,R205,Inbound,677.0,329.0,Minibus,15.3,Overcast,23.2,False
+17-Oct-2024,R103,Outbound,206.0,512.0,Articulated Bus,50.4,Clear,6.6,No
+2024-10-03,R104,Inbound,643.0,390.0,Minibus,17.9,Rain,0.5,No
+2024-12-29,R105,Outbound,183.0,499.0,Minibus,62.6,Rain,30.5,0
+2024-12-19,R302,Inbound,372.0,84.0,Articulated Bus,41.6,Overcast,-11.0,False
+10/15/2024,R102,Inbound,412.0,727.0,Articulated Bus,33.3,Clear,40.1,No
+2024-08-22,R207,Inbound,308.0,178.0,Minibus,60.5,Rain,-7.1,false
+12/12/2024,R102,Inbound,681.0,303.0,Standard Bus,40.9,Clear,8.6,false
+2024-02-23,R101,Outbound,527.0,304.0,Minibus,,Rain,30.8,false
+2024-12-28,R104,Outbound,245.0,145.0,Minibus,81.0,Overcast,14.9,false
+09-Nov-2024,R104,Inbound,398.0,694.0,Articulated Bus,40.6,Snow,-2.7,false
+2024-05-18,R301,Inbound,688.0,205.0,Standard Bus,21.1,Rain,,No
+2024-11-24,R206,Outbound,168.0,60.0,Standard Bus,,Overcast,37.4,0
+2024-04-01,R205,Outbound,178.0,166.0,Articulated Bus,32.3,Snow,-8.1,false
+2024-01-05,R301,Outbound,429.0,310.0,std bus,22.0,Rain,39.9,False
+2024-10-11,R206,Outbound,,746.0,Articulated Bus,42.8,Rain,41.3,false
+2024-05-11,R103,Outbound,660.0,536.0,Standard Bus,34.6,Rain,-14.5,No
+2024-09-15,R208,Outbound,149.0,366.0,Minibus,51.3,Overcast,-8.0,No
+2024-04-29,R102,inbound,746.0,,Minibus,50.6,Overcast,34.1,0
+03/07/2024,R205,Inbound,522.0,630.0,Articulated Bus,32.2,Clear,15.9,No
+2024-09-02,R104,Outbound,514.0,60.0,Minibus,73.1,Rain,-2.6,Yes
+2024-03-19,R205,Outbound,376.0,227.0,Articulated Bus,75.6,Rain,-2.7,No
+2024-03-11,R208,Inbound,620.0,56.0,Articulated Bus,62.3,Overcast,11.0,No
+2024-11-23,R104,Inbound,187.0,702.0,Articulated Bus,38.8,Clear,0.2,No
+2024-10-30,R301,Outbound,474.0,27.0,Minibus,46.2,Overcast,31.9,No
+2024-06-16,R208,Outbound,31.0,344.0,Standard Bus,86.3,Rain,35.7,No
+2024-07-10,R205,inbound,712.0,696.0,Standard Bus,72.8,Rain,31.0,False
+02/18/2024,R101,Outbound,350.0,,Minibus,57.1,Rain,29.3,No
+2024-03-13,R302,Outbound,572.0,162.0,Articulated Bus,59.9,Clear,20.5,No
+2024-05-09,R206,Outbnd,748.0,518.0,Minibus,49.3,Snow,7.7,false
+2024-05-15,R102,Outbound,687.0,506.0,Articulated Bus,,Snow,-3.8,No
+2024-05-10,R208,Inbound,,550.0,Standard Bus,31.3,Clear,-7.1,0
+2024-09-24,R206,Outbound,680.0,652.0,Standard Bus,78.1,Clear,26.5,False
+2024-03-20,R102,Outbound,287.0,459.0,Articulated Bus,38.2,Rain,32.0,No
+2024-05-15,R301,Outbound,119.0,672.0,Articulated Bus,35.1,Rain,37.0,false
+09/04/2024,R302,Inbound,522.0,369.0,Minibus,19.6,Rain,-13.2,False
+2024-07-02,R206,Inbound,477.0,244.0,Standard Bus,54.8,Snow,23.6,False
+2024-07-13,R103,Outbound,71.0,,Minibus,77.1,Clear,-2.7,0
+2024-12-08,R205,Outbound,665.0,745.0,Standard Bus,59.8,Rain,19.2,0
+2024-12-06,R207,OUTBOUND,592.0,618.0,Minibus,53.9,Clear,40.8,0
+2024-10-15,R102,Outbound,701.0,171.0,Articulated Bus,66.0,Overcast,2.1,No
+2024-02-04,R205,Inbound,683.0,562.0,Minibus,16.0,Overcast,1.1,0
+2024-08-13,R105,Outbound,690.0,583.0,Articulated Bus,87.4,Overcast,-12.1,0
+2024-06-15,R105,Inbound,274.0,82.0,Standard Bus,77.9,Snow,31.1,false
+2024-07-26,R205,Inbound,701.0,427.0,Articulated Bus,46.7,Overcast,25.9,False
+2024-07-17,R207,Inbound,90.0,233.0,Minibus,61.1,Overcast,37.8,False
+2024-11-23,R102,Outbound,79.0,664.0,Articulated Bus,34.2,Clear,5.3,False
+2024-11-01,R301,Inbound,169.0,260.0,Articulated Bus,86.4,Snow,15.4,0
+2024-08-25,R205,Inbound,633.0,31.0,Articulated Bus,83.0,Overcast,0.2,false
+2024-08-28,R101,Inbound,588.0,83.0,Articulated Bus,20.1,Clear,29.7,False
+2024-03-09,R301,Inbound,121.0,520.0,Minibus,47.1,Snow,-5.8,0
+2024-06-27,R302,Inbound,358.0,621.0,Minibus,50.1,Snow,20.3,False
+2024-03-21,R105,Inbound,377.0,542.0,Minibus,66.1,Rain,-8.6,0
+2024-03-25,R206,Outbound,324.0,385.0,Minibus,87.9,Snow,19.7,False
+2024-08-30,R301,Outbound,228.0,131.0,Standard Bus,17.5,Rain,18.0,0
+2024-04-03,R103,Inbound,386.0,564.0,Minibus,33.0,Rain,23.3,false
+11/12/2024,R206,Outbound,781.0,722.0,Minibus,89.2,Snow,12.5,No
+2024-12-20,R103,In,80.0,143.0,Standard Bus,,Overcast,32.1,False
+2024-05-10,R105,Inbound,103.0,420.0,Standard Bus,21.7,Snow,28.1,False
+2024-09-30,R208,Inbound,251.0,482.0,Standard Bus,58.5,Overcast,-13.7,False
+2024-07-30,R301,Outbound,733.0,172.0,Minibus,51.6,Snow,36.0,false
+12/07/2024,R302,Inbound,241.0,170.0,Standard Bus,44.2,Clear,-1.3,0
+2024-04-23,R206,Outbound,,210.0,Articulated Bus,28.0,Rain,28.9,false
+2024-04-01,R205,Outbound,522.0,735.0,Standard Bus,32.4,Rain,34.5,False
+2024-04-04,R205,Outbound,774.0,306.0,Articulated Bus,68.7,Rain,19.1,False
+2024-07-21,R301,Inbound,307.0,302.0,Standard Bus,64.2,Snow,-7.7,No
+2024-02-20,R104,Inbound,558.0,630.0,Articulated Bus,23.7,Rain,7.2,No
+09/23/2024,R101,Outbound,500.0,33.0,Articulated Bus,,Rain,8.5,No
+2024-09-25,R102,Outbound,45.0,449.0,Minibus,77.9,Clear,-3.3,False
+2024-12-20,R102,Outbnd,241.0,342.0,Articulated Bus,80.3,Snow,1.5,False
+2024-02-21,R301,In,47.0,696.0,Articulated Bus,84.3,Rain,-1.9,0
+2024-06-17,R206,Outbound,472.0,51.0,Articulated Bus,81.2,Overcast,-4.2,False
+2024-08-25,R302,Outbound,406.0,273.0,Articulated Bus,82.3,Overcast,-5.4,No
+05/28/2024,R104,Outbound,166.0,498.0,Articulated Bus,57.1,Overcast,-8.6,No
+2024-02-13,R101,Inbound,,658.0,Minibus,20.3,Overcast,5.2,false
+2024-03-27,R104,Outbound,447.0,131.0,Articulated Bus,40.0,Overcast,38.6,0
+2024-12-21,R104,Inbound,479.0,21.0,Articulated Bus,19.9,Clear,31.8,0
+2024-01-28,R104,Inbound,285.0,551.0,Standard Bus,58.1,Rain,12.3,No
+2024-07-12,R206,Inbound,595.0,508.0,Standard Bus,79.2,Clear,,False
+2024-03-10,R207,Outbnd,668.0,351.0,Articulated Bus,23.4,Snow,17.5,0
+2024-12-10,R101,Outbound,239.0,45.0,Standard Bus,52.7,Overcast,-0.3,false
+2024-04-12,R101,Inbound,700.0,337.0,standard bus,63.6,Rain,-5.2,No
+2024-12-13,R205,Outbound,513.0,382.0,Articulated Bus,66.0,Overcast,-5.5,false
+2024-01-07,R205,Inbound,617.0,350.0,Articulated Bus,30.3,Snow,-7.7,0
+2024-08-08,R104,Outbound,482.0,239.0,mini bus,64.2,Clear,-3.7,0
+2024-09-12,R208,Outbound,413.0,471.0,Minibus,57.6,Clear,17.8,False
+2024-04-14,R205,Outbound,603.0,275.0,Minibus,24.4,Overcast,22.4,False
+2024-10-16,R301,Inbound,25.0,723.0,Articulated Bus,85.0,Snow,24.0,No
+2024-05-27,R206,Inbound,545.0,469.0,Articulated Bus,70.0,Snow,28.9,1
+2024-05-28,R207,Outbound,486.0,301.0,Standard Bus,19.6,Overcast,29.5,False
+2024-01-27,R103,Outbound,123.0,407.0,Minibus,67.7,Clear,5.5,0
+2024-05-20,R206,Inbound,644.0,448.0,Standard Bus,51.4,Overcast,-13.4,No
+2024-09-10,R103,Inbound,474.0,118.0,Minibus,65.0,Snow,-9.6,False
+2024-02-10,R301,Inbound,,78.0,Standard Bus,49.1,Snow,-14.3,0
+2024-07-27,R101,OUTBOUND,210.0,329.0,Standard Bus,50.2,Snow,10.3,No
+2024-03-18,R104,Outbound,244.0,519.0,Minibus,41.2,Clear,19.0,False
+2024-08-08,R207,Inbound,55.0,699.0,Articulated Bus,29.6,Snow,-11.0,No
+2024-09-28,R301,Inbound,544.0,222.0,Articulated Bus,49.4,Snow,-10.6,No
+2024-02-06,R102,Inbound,594.0,324.0,Articulated Bus,60.6,Rain,14.2,No
+2024-04-18,R302,Outbound,767.0,575.0,Articulated Bus,54.4,Overcast,7.8,false
+2024-06-27,R102,Outbound,465.0,502.0,Minibus,45.3,Overcast,4.0,No
+2024-08-27,R207,Outbound,76.0,748.0,Articulated Bus,15.7,Clear,41.9,false
+2024-04-06,R102,Outbound,,349.0,Minibus,19.8,Rain,32.0,No
+2024-12-10,R105,Inbound,669.0,,Minibus,32.0,Rain,2.3,0
+2024-07-26,R207,Inbound,469.0,468.0,Articulated Bus,83.6,Snow,31.4,false
+2024-08-04,R104,Inbound,667.0,529.0,Standard Bus,84.5,Rain,-1.6,No
+04/04/2024,R205,Inbound,483.0,158.0,Standard Bus,48.8,Overcast,27.7,False
+2024-09-20,R208,Outbound,474.0,699.0,Articulated Bus,77.9,Clear,8.0,False
+2024-08-20,R301,Outbound,733.0,375.0,Minibus,88.5,Overcast,-11.2,No
+2024-03-14,R101,Outbound,106.0,479.0,Articulated Bus,40.9,Rain,11.3,No
+2024-11-21,R208,Outbound,302.0,376.0,Minibus,25.4,Snow,,false
+2024-05-22,R205,Outbound,92.0,296.0,Minibus,63.6,Rain,0.6,False
+2024-09-19,R207,Inbound,376.0,727.0,Articulated Bus,29.5,Overcast,19.6,No
+2024-05-01,R101,inbound,260.0,369.0,Articulated Bus,62.7,Rain,41.6,False
+2024-04-10,R207,Inbound,221.0,358.0,Minibus,86.2,Rain,2.4,0
+2024-04-22,R205,Inbound,234.0,172.0,Standard Bus,26.1,Overcast,38.6,No
+2024-10-09,R105,Inbound,515.0,393.0,Minibus,90.0,Rain,8.1,No
+2024-04-25,R208,Inbound,153.0,733.0,Standard Bus,57.3,Snow,10.7,0
+2024-09-06,R101,Outbound,259.0,394.0,Minibus,63.8,Snow,34.4,False
+2024-05-12,R103,Outbound,620.0,349.0,Articulated Bus,63.3,Rain,32.6,False
+2024-07-03,R208,Outbound,363.0,25.0,Articulated Bus,82.8,Clear,41.4,0
+2024-12-16,R102,Outbound,,599.0,Minibus,21.8,Clear,1.5,False
+2024-12-02,R102,Inbound,300.0,740.0,Articulated Bus,29.1,Rain,26.0,0
+29-Aug-2024,R302,Inbound,215.0,341.0,Minibus,66.1,Snow,25.8,0
+2024-07-29,R207,Inbound,207.0,343.0,Minibus,45.5,Overcast,35.2,False
+2024-01-29,R207,Inbound,131.0,425.0,Standard Bus,35.4,Snow,-7.9,0
+2024-07-20,R205,Inbound,145.0,57.0,Minibus,33.0,Rain,-10.7,0
+2024-03-16,R104,Outbound,77.0,512.0,Articulated Bus,,Overcast,36.8,False
+03/05/2024,R302,Outbound,789.0,119.0,Minibus,63.5,Clear,35.6,false
+2024-12-06,R206,Inbound,111.0,368.0,Articulated Bus,22.0,Snow,18.0,0
+2024-02-27,R301,Inbound,,517.0,Minibus,,Overcast,14.2,0
+2024-04-08,R207,Inbound,373.0,347.0,Articulated Bus,65.5,Snow,-11.3,No
+04/12/2024,R103,Outbound,343.0,155.0,Articulated Bus,41.4,Overcast,,0
+2024-09-17,R207,Outbound,254.0,447.0,Articulated Bus,74.0,Rain,14.1,False
+2024-05-15,R302,Inbound,357.0,655.0,Articulated Bus,65.7,Clear,26.9,0
+2024-05-17,R301,Inbound,474.0,658.0,Standard Bus,420.5,Rain,24.0,False
+2024-12-28,R104,Outbound,245.0,145.0,Minibus,81.0,Overcast,14.9,false
+2024-06-12,R207,Outbound,524.0,683.0,Articulated Bus,63.0,Overcast,23.6,No
+11/27/2024,R105,Outbound,744.0,179.0,Articulated Bus,76.1,Overcast,22.9,False
+2024-07-01,R101,Outbound,272.0,513.0,Articulated Bus,61.4,Clear,4.2,0
+2024-12-08,R206,Inbound,496.0,474.0,Articulated Bus,53.0,Rain,33.8,No
+06/10/2024,R104,Inbound,693.0,142.0,Articulated Bus,79.7,Rain,-6.4,No
+2024-02-05,R207,Outbound,230.0,718.0,Minibus,68.5,Clear,7.0,0
+2024-09-09,R103,Inbound,582.0,95.0,Standard Bus,86.2,Overcast,-6.6,No
+2024-07-17,R104,Outbound,115.0,100.0,Articulated Bus,70.1,Snow,-0.6,0
+2024-09-15,R205,Outbound,97.0,138.0,Articulated Bus,43.8,Rain,17.6,false
+2024-03-11,R105,Inbound,791.0,439.0,Standard Bus,25.0,Rain,-1.2,false
+2024-01-30,R208,Inbound,721.0,310.0,Standard Bus,78.3,Clear,27.6,No
+2024-07-06,R208,Outbound,184.0,319.0,Standard Bus,78.3,Overcast,30.9,False
+2024-07-07,R302,Outbound,196.0,357.0,Standard Bus,38.8,Snow,37.0,No
+2024-02-17,R205,Inbound,648.0,356.0,Standard Bus,25.3,Snow,36.3,False
+2024-10-11,R104,Inbound,443.0,538.0,Articulated Bus,37.4,Snow,23.3,False
+2024-06-15,R102,Inbound,225.0,26.0,Articulated Bus,26.1,Rain,41.2,No
+2024-01-22,R207,Inbound,573.0,56.0,Standard Bus,85.7,Clear,29.9,false
+2024-03-03,R205,Inbound,394.0,73.0,Standard Bus,67.5,Clear,32.8,False
+03/31/2024,R206,Inbound,81.0,446.0,Standard Bus,17.6,Rain,18.2,False
+2024-06-04,R105,Inbound,583.0,110.0,Articulated Bus,67.2,Snow,-7.1,0
+2024-05-06,R205,Outbound,607.0,,Minibus,66.7,Rain,23.6,False
+2024-05-25,R103,In,462.0,593.0,Standard Bus,87.3,Clear,6.9,0
+2024-09-05,R105,INBOUND,110.0,618.0,Minibus,61.1,Rain,35.9,false
+2024-08-22,R103,Inbound,32.0,182.0,Minibus,75.7,Clear,-0.5,0
+2024-02-21,R105,Outbound,775.0,652.0,Articulated Bus,57.8,Snow,17.4,No
+2024-09-06,R105,Outbound,399.0,724.0,Minibus,88.7,Clear,35.4,0
+2024-06-08,R102,OUTBOUND,800.0,480.0,Standard Bus,23.1,Overcast,24.1,false
+2024-01-14,R105,Inbound,739.0,384.0,Minibus,84.6,Clear,-11.5,0
+2024-06-14,R302,Outbound,351.0,392.0,Standard Bus,39.1,Rain,27.7,No
+2024-06-01,R301,Outbound,723.0,513.0,Minibus,58.3,Rain,34.3,No
+2024-11-10,R102,inbound,,104.0,Minibus,22.2,Overcast,10.7,false
+2024-10-08,R208,Inbound,347.0,265.0,Articulated Bus,69.3,Overcast,13.3,false
+2024-10-21,R102,Inbound,578.0,252.0,Articulated Bus,55.0,Overcast,-6.0,0
+2024-05-06,R302,Inbound,585.0,273.0,Minibus,82.6,Overcast,-12.4,false
+2024-08-31,R301,Outbound,397.0,634.0,Standard Bus,44.2,Clear,35.6,False
+2024-02-27,R302,Outbound,,719.0,Articulated Bus,19.3,Snow,-10.7,No
+2024-05-20,R301,Outbound,427.0,539.0,Articulated Bus,21.1,Snow,-14.7,false
+2024-06-29,R112,Outbound,142.0,415.0,Articulated Bus,69.6,Snow,6.0,No
+2024-09-15,R103,Outbound,652.0,651.0,Articulated Bus,82.9,Rain,28.9,0
+2024-02-01,R208,OUTBOUND,728.0,464.0,Minibus,21.2,Overcast,35.0,No
+2024-05-20,R101,Inbound,505.0,234.0,Minibus,30.2,Rain,-4.5,false
+2024-07-08,R105,Outbound,33.0,729.0,Articulated Bus,86.2,Overcast,32.5,No
+2024-08-01,R102,Outbound,536.0,652.0,Minibus,55.1,Overcast,-10.3,0
+2024-04-21,R207,Inbound,292.0,175.0,Standard Bus,54.3,Rain,23.2,False
+2024-09-26,R207,Inbound,154.0,594.0,Standard Bus,88.3,Overcast,,False
+2024-04-23,R102,Inbound,665.0,737.0,Standard Bus,45.8,Rain,25.1,false
+2024-04-02,R206,Inbound,31.0,253.0,Standard Bus,44.8,Snow,15.8,0
+2024-06-18,R206,Outbound,,615.0,Standard Bus,61.7,Rain,10.5,No
+2024-09-30,R208,Outbound,393.0,534.0,Minibus,28.5,Clear,24.7,0
+2024-06-01,R101,Outbound,181.0,416.0,Articulated Bus,24.9,Rain,-0.0,0
+12-Oct-2024,R208,Outbound,374.0,529.0,Standard Bus,61.8,Clear,34.3,False
+2024-10-10,R301,OUTBOUND,,682.0,Standard Bus,22.6,Snow,5.5,False
+2024-11-14,R207,Inbound,183.0,97.0,Articulated Bus,86.8,Rain,7.7,False
+2024-10-21,R302,Inbound,370.0,154.0,Standard Bus,86.1,Rain,25.5,No
+2024-06-20,R103,Inbound,414.0,717.0,MINIBUS,52.5,Overcast,0.2,0
+2024-11-13,R104,Outbound,187.0,106.0,Minibus,78.8,Clear,34.4,0
+2024-12-05,R208,Inbound,520.0,709.0,articulated,31.5,Clear,-5.6,No
+2024-11-03,R302,Inbound,137.0,499.0,Minibus,40.6,Overcast,27.6,false
+2024-04-27,R302,Inbound,693.0,435.0,Standard Bus,34.9,Snow,-14.0,No
+2024-10-11,R205,Outbound,,640.0,Articulated Bus,85.7,Clear,-1.3,No
+2024-05-23,R105,Outbound,397.0,636.0,Minibus,31.4,Overcast,18.9,False
+2024-12-06,R104,Inbound,201.0,632.0,Minibus,78.4,Overcast,0.3,false
+03/26/2024,R104,Inbound,328.0,645.0,Standard Bus,44.7,Clear,23.2,false
+2024-06-08,R105,Outbound,70.0,43.0,Minibus,22.8,Clear,32.9,False
+2024-10-12,R208,Outbound,594.0,575.0,Minibus,69.5,Clear,17.0,false
+2024-09-11,R105,Inbound,266.0,605.0,Articulated Bus,33.7,Overcast,38.7,No
+2024-01-17,R301,Outbound,357.0,494.0,Standard Bus,51.7,Overcast,,No
+2024-02-21,R104,Outbound,117.0,145.0,standard bus,67.2,Clear,4.4,0
+07/11/2024,R104,Inbound,105.0,189.0,Articulated Bus,66.9,Overcast,32.8,0
+2024-12-08,R105,Outbound,593.0,254.0,Minibus,48.6,Clear,39.4,False
+2024-07-01,R101,Outbound,415.0,626.0,Articulated Bus,57.9,Clear,3.9,false
+2024-07-08,R101,Outbound,538.0,151.0,Standard Bus,29.4,Overcast,-8.4,No
+2024-08-01,R205,Outbound,325.0,199.0,Minibus,58.5,Rain,-0.5,No
+2024-03-07,R302,Inbound,102.0,636.0,Standard Bus,83.3,Rain,28.0,false
+2024-07-29,R105,Outbound,,673.0,Minibus,35.6,Snow,41.1,false
+2024-08-04,R205,Inbound,155.0,376.0,Standard Bus,56.9,Rain,31.3,0
+2024-01-02,R206,Inbound,772.0,588.0,Standard Bus,74.5,Clear,-11.1,No
+2024-08-16,R205,INBOUND,691.0,75.0,Articulated Bus,29.4,Rain,-12.7,0
+2024-10-09,R208,Inbound,513.0,519.0,Standard Bus,42.3,Overcast,1.8,false
+2024-04-24,R301,Inbound,395.0,227.0,Minibus,64.5,Snow,-5.8,false
+2024-12-03,R104,Inbound,203.0,382.0,Minibus,85.9,Rain,4.1,False
+2024-08-04,R207,Outbound,214.0,242.0,articulated,67.0,Snow,16.5,False
+2024-04-21,R206,Inbound,105.0,488.0,Articulated Bus,55.2,Snow,-1.7,False
+2024-03-14,R105,Outbound,578.0,121.0,Standard Bus,19.1,Overcast,2.9,0
+2024-10-04,R207,Inbound,160.0,83.0,Articulated Bus,34.1,Snow,12.9,No
+2024-06-08,R206,Inbound,138.0,252.0,Articulated Bus,54.9,Rain,31.8,False
+08/07/2024,R207,Inbound,771.0,408.0,Standard Bus,50.5,Clear,14.6,No
+2024-04-23,R101,Outbound,469.0,515.0,Articulated Bus,40.8,Snow,5.0,False
+2024-04-29,R205,Inbound,23.0,181.0,Standard Bus,87.5,Overcast,10.3,False
+2024-02-18,R301,Inbound,109.0,359.0,Minibus,54.2,Snow,-8.0,false
+2024-06-11,R208,Inbound,613.0,195.0,Articulated Bus,61.7,Rain,-14.4,False
+2024-07-05,R208,Inbound,458.0,228.0,Standard Bus,81.0,Rain,36.7,No
+2024-03-04,R102,Inbound,577.0,541.0,Minibus,51.1,Overcast,-8.3,False
+2024-05-25,R105,Inbound,633.0,507.0,Articulated Bus,77.0,Clear,14.9,No
+2024-07-09,R208,Inbound,781.0,536.0,Minibus,86.2,Clear,35.5,No
+2024-06-25,R206,Inbound,386.0,158.0,Articulated Bus,48.6,Clear,1.7,false
+2024-07-10,R105,Inbound,222.0,587.0,Standard Bus,73.5,Overcast,-9.4,False
+2024-09-19,R104,Outbound,465.0,346.0,Standard Bus,34.5,Overcast,9.9,False
+2024-02-09,R208,Outbound,384.0,689.0,Articulated Bus,24.6,Rain,1.2,No
+2024-11-28,R205,Outbound,223.0,208.0,Minibus,54.5,Rain,24.2,Yes
+2024-08-28,R206,Outbound,,297.0,Articulated Bus,420.5,Clear,0.8,No
+2024-01-11,R101,Inbound,520.0,679.0,Standard Bus,,Overcast,14.5,false
+2024-08-15,R102,Inbound,225.0,693.0,Standard Bus,19.3,Overcast,7.3,No
+2024-04-26,R302,Inbound,429.0,132.0,Standard Bus,68.3,Clear,-3.6,No
+2024-04-09,R102,Inbound,579.0,450.0,Standard Bus,62.4,Snow,-7.6,false
+2024-07-27,R302,Outbound,,375.0,Articulated Bus,70.8,Rain,23.8,False
+2024-12-30,R302,Outbound,699.0,552.0,Minibus,53.4,Snow,28.9,0
+2024-09-17,R102,Outbound,485.0,102.0,Standard Bus,70.7,Overcast,-13.6,false
+2024-12-07,R208,Inbound,402.0,390.0,Standard Bus,21.2,Overcast,12.6,0
+2024-07-18,R205,Outbound,184.0,159.0,Articulated Bus,50.2,Clear,33.9,False
+2024-03-08,R301,Outbound,506.0,186.0,Articulated Bus,19.1,Overcast,19.2,0
+2024-03-24,R206,Inbound,134.0,688.0,Minibus,53.9,Overcast,19.6,false
+2024-04-04,R205,Outbound,202.0,206.0,Standard Bus,52.2,Overcast,6.7,No
+2024-12-03,R101,Outbound,207.0,378.0,Standard Bus,74.9,Rain,31.9,false
+11/26/2024,R302,Inbound,279.0,89.0,Articulated Bus,84.8,Rain,23.5,False
+2024-01-06,R104,Inbound,759.0,140.0,Minibus,,Overcast,9.3,0
+2024-06-24,R205,Outbound,420.0,292.0,Articulated Bus,80.0,Overcast,1.1,False
+2024-02-27,R205,Outbound,186.0,288.0,Standard Bus,86.2,Clear,40.0,No
+14-May-2024,R101,Outbound,,,Articulated Bus,61.4,Rain,29.5,false
+08/28/2024,R101,outbound,452.0,642.0,Articulated Bus,24.0,Clear,26.9,false
+2024-04-25,R302,Outbound,,,Minibus,76.7,Rain,15.2,No
+2024-07-20,R205,Out,392.0,498.0,Articulated Bus,56.1,Rain,35.1,False
+2024-07-04,R102,Inbound,680.0,638.0,Articulated Bus,,Snow,14.1,True
+2024-05-28,R302,Outbound,695.0,,Minibus,69.1,Clear,19.8,0
+05/25/2024,R207,Inbound,213.0,695.0,Minibus,,Overcast,-3.0,false
+2024-12-24,R206,Inbound,446.0,723.0,Standard Bus,,Overcast,-3.4,No
+2024-09-16,R103,Outbound,622.0,705.0,Standard Bus,72.8,Clear,9.4,false
+2024-10-16,R206,Outbound,680.0,113.0,Standard Bus,39.5,Snow,32.9,false
+2024-07-25,R205,Inbound,417.0,237.0,Articulated Bus,19.2,Clear,27.0,False
+2024-11-17,R302,Outbound,256.0,262.0,Articulated Bus,46.4,Overcast,28.2,0
+2024-06-10,R205,Inbound,165.0,307.0,Standard Bus,18.2,Rain,-14.0,0
+2024-11-05,R103,Outbound,,535.0,Standard Bus,15.5,Snow,8.0,False
+2024-02-05,R101,Outbound,463.0,526.0,Standard Bus,66.8,Clear,3.0,0
+2024-04-26,R103,Outbound,555.0,554.0,Standard Bus,31.7,Overcast,-3.1,False
+2024-03-28,R301,Outbound,422.0,72.0,Minibus,52.5,Overcast,8.7,No
+2024-11-02,R301,Outbound,572.0,382.0,Standard Bus,,Snow,33.7,No
+2024-10-25,R301,Inbound,183.0,162.0,Minibus,85.9,Overcast,1.9,false
+2024-02-25,R102,Inbound,122.0,264.0,Minibus,69.1,Clear,34.2,No
+2024-07-20,R208,Outbound,632.0,343.0,Articulated Bus,72.0,Overcast,19.0,No
+2024-08-16,R104,Inbound,169.0,674.0,Standard Bus,17.4,Clear,9.1,false
+2024-03-16,R103,Inbound,501.0,359.0,Minibus,38.7,Overcast,20.7,false
+2024-04-06,R301,Inbound,,77.0,Articulated Bus,44.5,Rain,32.3,No
+09/03/2024,R302,Outbound,482.0,102.0,Articulated Bus,25.4,Clear,27.6,False
+2024-12-06,R207,Inbound,183.0,238.0,Standard Bus,66.0,Snow,-11.8,False
+2024-07-23,R205,Outbound,773.0,107.0,Minibus,,Overcast,-14.3,false
+2024-04-02,R301,Inbound,385.0,558.0,Standard Bus,23.8,Overcast,27.2,False
+2024-04-18,R103,Inbound,,163.0,Minibus,24.1,Snow,2.3,No
+2024-01-25,R101,Inbound,403.0,445.0,Standard Bus,28.9,Snow,,0
+2024-04-29,R205,Outbound,435.0,467.0,Minibus,60.3,Clear,28.5,0
+2024-05-08,R102,Outbound,705.0,378.0,Minibus,25.2,Overcast,27.8,No
+2024-04-21,R206,Inbound,105.0,488.0,Articulated Bus,55.2,Snow,-1.7,False
+2024-07-06,R208,Outbound,192.0,561.0,MINIBUS,50.6,Clear,4.0,0
+2024-11-06,R302,Inbound,23.0,304.0,Articulated Bus,,Overcast,15.7,No
+2024-10-15,R105,Inbound,662.0,251.0,Minibus,,Overcast,32.7,false
+2024-08-14,R302,Outbound,,407.0,Articulated Bus,66.6,Clear,-11.7,False
+2024-03-20,R302,Inbound,415.0,21.0,Standard Bus,17.8,Snow,17.4,False
+2024-09-23,R102,Outbound,789.0,459.0,Minibus,80.5,Overcast,21.4,No
+2024-04-04,R208,Outbound,270.0,19.0,Standard Bus,17.0,Rain,6.5,false
+2024-05-11,R103,Inbound,289.0,606.0,Articulated Bus,54.0,Clear,4.2,No
+2024-03-26,R206,outbound,225.0,480.0,Standard Bus,74.2,Rain,23.9,False
+2024-02-26,R301,Outbound,573.0,388.0,Minibus,48.4,Overcast,26.3,0
+2024-06-20,R101,Outbound,119.0,275.0,Minibus,22.9,Rain,0.3,false
+2024-07-07,R103,Outbound,651.0,141.0,Standard Bus,62.0,Overcast,,false
+2024-01-06,R102,Outbound,137.0,546.0,Minibus,87.1,Snow,15.5,False
+03-May-2024,R105,Outbound,124.0,480.0,articulated,78.2,Snow,13.5,0
+2024-01-06,R302,Inbound,727.0,94.0,Articulated Bus,80.1,Rain,8.6,false
+2024-05-29,R104,Inbound,730.0,157.0,Standard Bus,67.2,Rain,7.1,No
+2024-10-11,R205,Outbound,,640.0,Articulated Bus,85.7,Clear,-1.3,No
+2024-12-20,R102,Outbound,780.0,677.0,Minibus,24.6,Overcast,-6.3,No
+2024-07-09,R207,Outbound,125.0,442.0,Standard Bus,22.8,Snow,21.3,false
+2024-10-05,R105,Inbound,39.0,287.0,Articulated Bus,59.1,Snow,12.4,false
+2024-02-05,R302,Outbnd,,163.0,Minibus,77.7,Snow,25.1,False
+2024-12-30,R205,Inbound,388.0,660.0,Articulated Bus,75.1,Clear,10.7,No
+2024-05-31,R105,Outbound,800.0,240.0,Articulated Bus,68.3,Overcast,8.9,0
+2024-11-20,R104,Outbound,373.0,485.0,Articulated Bus,49.9,Snow,-11.6,No
+2024-06-12,R302,Inbound,692.0,527.0,Minibus,27.2,Clear,23.5,0
+2024-02-16,R301,INBOUND,,281.0,Standard Bus,88.6,Rain,15.1,False
+2024-11-20,R207,Outbound,787.0,,Articulated Bus,29.7,Clear,38.8,No
+2024-09-12,R105,Outbound,649.0,213.0,Articulated Bus,48.8,Rain,-4.5,No
+2024-06-30,R102,Outbound,189.0,104.0,Minibus,59.8,Clear,22.9,0
+2024-09-19,R207,Outbound,695.0,479.0,Articulated Bus,33.1,Rain,-14.3,0
+2024-06-20,R105,Outbound,428.0,131.0,Minibus,87.2,Overcast,-14.3,false
+2024-09-16,R105,Inbound,582.0,280.0,Minibus,,Snow,4.2,false
+2024-07-17,R105,Inbound,716.0,625.0,Minibus,42.2,Snow,10.0,No
+2024-05-05,R207,Inbound,208.0,178.0,Standard Bus,67.0,Clear,29.0,False
+2024-08-16,R101,Outbound,532.0,327.0,Standard Bus,27.5,Clear,-5.4,No
+2024-10-22,R207,Outbound,552.0,684.0,Minibus,,Snow,-5.5,false
+07/18/2024,R105,Outbound,464.0,36.0,Standard Bus,29.7,Clear,31.8,0
+2024-05-24,R103,Inbound,,58.0,Minibus,22.5,Clear,24.2,No
+2024-12-16,R102,Outbound,398.0,236.0,Standard Bus,65.3,Overcast,22.9,False
+2024-12-06,R206,Outbound,,528.0,Minibus,64.8,Clear,-2.7,False
+2024-11-26,R208,Inbound,770.0,162.0,Articulated Bus,27.2,Clear,33.0,False
+2024-02-12,R207,Inbound,761.0,694.0,Articulated Bus,48.2,Clear,22.0,False
+2024-05-14,R103,Outbound,195.0,180.0,Minibus,22.6,Snow,-14.5,False
+2024-10-14,R206,Inbound,164.0,222.0,Articulated Bus,81.6,Rain,3.8,true
+2024-03-14,R301,Outbound,169.0,328.0,Standard Bus,79.5,Rain,-0.7,0
+2024-11-14,R103,Inbound,393.0,686.0,Standard Bus,53.9,Overcast,25.1,False
+2024-05-16,R208,Outbound,215.0,43.0,Minibus,74.4,Overcast,-4.3,False
+2024-04-25,R208,Outbound,721.0,701.0,Minibus,84.3,Rain,14.5,No
+2024-08-30,R208,Outbound,28.0,88.0,Standard Bus,77.8,Rain,34.4,No
+2024-01-18,R301,Outbound,569.0,467.0,Articulated Bus,85.7,Clear,19.8,false
+2024-09-28,R105,Outbound,68.0,699.0,Minibus,48.8,Snow,14.3,0
+2024-06-18,R102,Inbound,739.0,215.0,Minibus,51.9,Clear,12.5,0
+2024-08-05,R301,Inbound,137.0,251.0,Standard Bus,66.9,Overcast,-1.1,0
+2024-05-12,R105,Outbound,623.0,415.0,Standard Bus,,Clear,-4.6,0
+2024-04-23,R205,Outbound,290.0,401.0,Standard Bus,29.7,Clear,-2.9,No
+2024-01-09,R101,Outbound,,65.0,Standard Bus,35.6,Clear,-3.2,False
+2024-01-06,R103,Inbound,253.0,577.0,Articulated Bus,999.0,Overcast,28.1,0
+2024-08-09,R205,Inbound,48.0,163.0,Articulated Bus,77.8,Clear,9.9,False
+2024-02-04,R301,Outbound,653.0,537.0,Standard Bus,42.8,Clear,16.4,false
+10/10/2024,R301,Inbound,321.0,52.0,Standard Bus,57.4,Overcast,13.7,No
+2024-02-01,R206,Inbound,459.0,584.0,std bus,68.2,Rain,-14.6,0
+2024-02-23,R208,Inbound,147.0,533.0,Minibus,25.2,Overcast,-0.2,No
+2024-10-29,R205,Outbound,,619.0,Minibus,84.9,Overcast,41.8,False
+2024-05-17,R302,Outbound,580.0,605.0,Minibus,22.7,Clear,-4.2,0
+2024-06-03,R105,Inbound,497.0,366.0,Standard Bus,-12.3,Rain,-1.8,No
+01/26/2024,R205,Inbound,375.0,205.0,Minibus,67.4,Clear,-4.2,No
+2024-03-22,R302,Outbound,248.0,358.0,Standard Bus,73.7,Clear,33.2,No
+2024-12-30,R102,Inbound,253.0,616.0,Standard Bus,78.0,Rain,32.5,false
+2024-05-08,R302,Outbound,371.0,574.0,Articulated Bus,58.8,Snow,15.0,False
+2024-08-11,R103,Outbound,527.0,745.0,Articulated Bus,,Overcast,-9.6,False
+2024-02-28,R104,Inbound,752.0,23.0,Articulated Bus,40.7,Clear,-3.9,No
+2024-08-31,R207,inbound,714.0,166.0,Articulated Bus,21.1,Clear,35.0,False
+2024-10-02,R205,Outbound,,,Articulated Bus,53.4,Rain,38.6,0
+2024-03-25,R105,Inbound,421.0,136.0,Articulated Bus,37.4,Rain,3.3,false
+2024-04-13,R207,Outbound,358.0,688.0,Minibus,85.3,Clear,14.4,No
+2024-06-02,R302,Outbound,392.0,578.0,Standard Bus,65.3,Snow,38.0,0
+2024-05-29,R207,Outbound,,213.0,Articulated Bus,62.0,Snow,-7.5,False
+26-Sep-2024,R206,Outbound,110.0,,Minibus,18.7,Overcast,-4.1,No
+2024-10-29,R301,Outbound,118.0,34.0,Minibus,89.6,Overcast,-5.1,0
+2024-07-29,R302,Inbound,220.0,501.0,Minibus,31.5,Rain,35.5,false
+2024-08-20,R105,Inbound,235.0,672.0,Minibus,59.0,Clear,13.1,False
+04/15/2024,R206,Outbound,735.0,70.0,Standard Bus,59.0,Overcast,15.0,False
+2024-03-10,R103,Outbound,650.0,659.0,Standard Bus,54.8,Snow,22.1,0
+2024-03-22,R207,Outbound,491.0,389.0,Standard Bus,87.6,Rain,10.5,False
+2024-07-03,R207,Inbound,405.0,620.0,Minibus,80.1,Rain,26.3,No
+2024-05-23,R104,Inbound,347.0,117.0,Articulated Bus,57.4,Snow,-14.1,False
+2024-11-14,R103,Outbound,694.0,723.0,Minibus,58.4,Overcast,24.5,No
+2024-10-16,R104,Inbound,151.0,352.0,Articulated Bus,52.7,Snow,18.2,false
+21-Dec-2024,R208,Inbound,223.0,597.0,Articulated Bus,34.8,Rain,-3.3,No
+2024-10-07,R103,Inbound,132.0,58.0,Minibus,66.8,Snow,35.3,false
+2024-09-04,R105,Inbound,430.0,79.0,Minibus,420.5,Overcast,-7.2,False
+2024-06-30,R205,Outbound,730.0,578.0,Minibus,19.9,Overcast,7.9,No
+2024-03-01,R104,Outbound,83.0,274.0,Minibus,46.0,Rain,-3.4,0
+2024-09-03,R102,Outbound,58.0,43.0,Standard Bus,72.5,Overcast,,0
+2024-11-23,R101,outbound,294.0,293.0,Standard Bus,34.9,Rain,-5.3,No
+2024-03-03,R302,Outbound,540.0,635.0,Standard Bus,74.9,Clear,38.2,No
+2024-01-15,R104,Inbound,71.0,534.0,Articulated Bus,,Rain,30.3,Yes
+2024-10-16,R102,Inbound,137.0,320.0,Standard Bus,78.9,Rain,16.5,False
+03/02/2024,R104,Inbound,,469.0,Standard Bus,60.7,Snow,32.5,0
+01/19/2024,R105,Outbound,53.0,256.0,Standard Bus,89.8,Clear,9.5,No
+2024-12-31,R102,Inbound,783.0,320.0,Articulated Bus,59.2,Rain,7.4,0
+2024-01-30,R205,Inbound,502.0,262.0,mini bus,20.2,Overcast,-5.0,false
+09-Feb-2024,R102,Outbound,487.0,429.0,Articulated Bus,30.5,Overcast,26.9,False
+10/31/2024,R101,Inbound,788.0,604.0,Minibus,68.6,Clear,15.1,False
+2024-12-01,R101,Inbound,,26.0,Minibus,26.4,Snow,35.7,No
+2024-09-29,R104,Inbound,501.0,404.0,Articulated Bus,38.4,Overcast,33.2,No
+2024-02-27,R207,Outbound,337.0,64.0,Articulated Bus,47.5,Overcast,24.1,0
+17-Nov-2024,R208,Inbound,220.0,459.0,Standard Bus,17.4,Clear,34.5,false
+2024-06-01,R105,Outbound,337.0,46.0,Minibus,50.1,Snow,20.6,No
+2024-08-26,R102,Outbound,341.0,581.0,Minibus,69.7,Clear,,No
+2024-04-17,R105,Inbound,273.0,195.0,Articulated Bus,72.4,Clear,-15.0,0
+2024-07-12,R207,Inbound,330.0,299.0,Standard Bus,26.2,Rain,0.3,False
+2024-06-26,R207,Outbound,550.0,53.0,Minibus,47.6,Overcast,-0.5,False
+2024-04-27,R302,Inbound,502.0,673.0,Standard Bus,,Snow,-7.5,No
+2024-03-23,R104,Inbound,431.0,,Std Bus,17.4,Rain,,false
+2024-03-13,R205,Inbound,797.0,163.0,Standard Bus,24.4,Overcast,12.0,False
+05/07/2024,R105,Inbound,264.0,711.0,Articulated Bus,58.6,Snow,0.5,false
+2024-12-23,R105,Outbound,328.0,357.0,Minibus,-5.0,Rain,40.1,0
+2024-10-31,R206,Inbound,546.0,570.0,Minibus,84.3,Clear,11.3,false
+2024-01-16,R302,Outbound,,653.0,Articulated Bus,16.2,Overcast,22.7,0
+2024-06-14,R206,Outbound,666.0,677.0,Articulated Bus,64.2,Clear,-4.9,No
+12/08/2024,R208,Inbound,773.0,234.0,Minibus,,Rain,27.2,false
+2024-08-14,R206,Inbound,51.0,303.0,Articulated Bus,37.5,Snow,-9.3,false
+2024-11-19,R104,Outbound,455.0,436.0,Articulated Bus,44.4,Overcast,39.5,false
+2024-10-21,R206,Outbound,545.0,705.0,Standard Bus,61.8,Rain,15.8,false
+2024-09-09,R301,Inbound,174.0,444.0,Articulated Bus,17.3,Snow,,False
+2024-04-28,R207,Outbound,42.0,739.0,Minibus,68.5,Clear,23.0,No
+2024-08-20,R101,Outbound,498.0,575.0,Minibus,27.3,Clear,24.4,false
+2024-06-10,R302,Outbound,257.0,386.0,Standard Bus,49.0,Snow,0.9,False
+2024-09-30,R101,Outbound,774.0,385.0,Articulated Bus,36.3,Overcast,5.5,0
+2024-05-18,R104,Outbound,159.0,201.0,Articulated Bus,86.2,Rain,29.8,0
+2024-12-09,R104,Inbound,91.0,681.0,Minibus,28.0,Clear,6.6,False
+2024-12-05,R104,Inbound,127.0,186.0,Minibus,87.6,Rain,-14.7,false
+2024-05-13,R103,Outbound,190.0,29.0,Minibus,25.2,Overcast,32.7,0
+2024-11-06,R301,Inbound,354.0,223.0,Standard Bus,20.7,Rain,36.1,No
+2024-11-13,R112,Inbound,,62.0,Standard Bus,42.8,Rain,23.1,false
+2024-05-29,R301,Inbound,209.0,490.0,Minibus,18.5,Snow,-4.9,false
+2024-03-22,R208,Outbound,137.0,626.0,Standard Bus,44.5,Rain,,false
+2024-08-31,R103,Inbound,524.0,253.0,Standard Bus,,Clear,27.6,False
+2024-12-30,R205,Inbound,758.0,29.0,Minibus,22.9,Overcast,27.0,0
+2024-01-09,R207,Outbound,88.0,375.0,MINIBUS,23.0,Overcast,22.5,No
+2024-12-05,R301,Inbound,606.0,749.0,Standard Bus,37.9,Overcast,35.0,No
+2024-04-26,R205,Outbound,107.0,221.0,Standard Bus,36.1,Rain,25.6,false
+2024-06-27,R102,Inbound,595.0,,Minibus,58.4,Snow,21.0,0
+2024-03-08,R102,Outbound,92.0,413.0,Minibus,45.2,Overcast,-5.1,0
+2024-06-19,R103,OUTBOUND,779.0,217.0,Standard Bus,87.3,Rain,16.9,True
+2024-01-18,R301,Inbound,289.0,239.0,Minibus,47.3,Overcast,2.4,False
+07/11/2024,R102,Inbound,192.0,677.0,Standard Bus,77.5,Overcast,15.8,false
+2024-06-09,R206,Outbound,88.0,625.0,Articulated Bus,57.6,Snow,6.5,False
+2024-02-27,R103,Outbound,672.0,187.0,mini bus,23.9,Overcast,1.5,False
+2024-07-12,R102,Outbound,683.0,145.0,Minibus,16.5,Snow,40.3,0
+2024-04-29,R102,Outbound,511.0,463.0,Minibus,16.1,Rain,37.5,false
+2024-07-03,R208,Outbound,707.0,,Articulated Bus,62.4,Snow,9.3,0
+2024-09-15,R301,Inbound,45.0,535.0,Standard Bus,,Clear,-5.0,false
+2024-11-10,R101,Inbound,359.0,403.0,Articulated Bus,69.9,Snow,-14.8,0
+2024-07-13,R105,Inbound,,175.0,Minibus,37.8,Snow,14.9,0
+2024-07-14,R205,Outbound,429.0,,Articulated Bus,41.9,Overcast,35.0,0
+2024-02-15,R104,Inbound,68.0,581.0,Minibus,77.5,Overcast,41.2,No
+2024-07-11,R102,Inbound,,,Standard Bus,34.6,Rain,-11.1,No
+2024-04-24,R302,Inbound,,462.0,Articulated Bus,27.5,Snow,35.1,False
+2024-10-30,R301,Inbound,729.0,470.0,Standard Bus,55.1,Overcast,12.6,No
+2024-02-15,R301,Outbound,230.0,405.0,Articulated Bus,73.8,Rain,5.2,False
+05/21/2024,R206,Inbound,146.0,120.0,Minibus,72.8,Overcast,,0
+2024-03-12,R301,Outbound,143.0,127.0,Standard Bus,16.5,Clear,7.3,false
+2024-05-02,R104,Inbound,379.0,714.0,Standard Bus,61.3,Snow,34.2,False
+2024-11-08,R207,Inbound,320.0,146.0,Standard Bus,41.3,Snow,25.4,0
+2024-10-11,R101,Inbound,90.0,194.0,Minibus,51.9,Clear,10.2,false
+2024-03-03,R205,Inbound,708.0,,Standard Bus,59.8,Rain,27.1,false
+07/19/2024,R105,Inbound,488.0,722.0,Minibus,80.8,Snow,-3.4,false
+2024-02-02,R103,Inbound,77.0,342.0,Articulated Bus,84.1,Rain,-12.7,No
+2024-04-30,R205,Outbound,93.0,562.0,Articulated Bus,41.8,Clear,37.8,0
+22-Aug-2024,R104,Inbound,411.0,,Articulated Bus,71.3,Clear,24.5,No
+2024-12-16,R102,Outbound,60.0,187.0,Minibus,74.8,Snow,26.0,false
+2024-08-27,R999,Outbound,579.0,717.0,Articulated Bus,23.8,Snow,-0.6,False
+2024-01-23,R103,Inbound,732.0,298.0,Articulated Bus,16.4,Snow,39.9,No
+2024-12-04,R105,Outbound,340.0,573.0,Standard Bus,30.8,Rain,,false
+2024-08-12,R101,Inbound,535.0,363.0,Minibus,64.6,Snow,27.1,false
+2024-03-23,R102,Outbound,798.0,508.0,Minibus,89.5,Snow,-7.5,false
+2024-06-19,R104,Inbound,676.0,749.0,Articulated Bus,54.9,Overcast,17.2,Yes
+2024-11-18,R205,Outbound,,,Articulated Bus,80.1,Clear,-3.3,0
+2024-06-21,R104,Inbound,68.0,88.0,Standard Bus,85.3,Clear,25.2,false
+2024-09-15,R103,Inbound,359.0,427.0,Standard Bus,42.8,Overcast,17.4,false
+12-May-2024,R102,Outbound,400.0,694.0,Standard Bus,88.9,Clear,29.0,False
+10/13/2024,R301,Outbound,140.0,68.0,Articulated Bus,350.0,Snow,8.9,0
+2024-12-10,R207,Outbound,740.0,654.0,Minibus,61.2,Snow,-1.0,No
+2024-10-27,R102,Outbound,217.0,660.0,Articulated Bus,40.0,Snow,26.6,0
+2024-08-14,R302,Outbound,496.0,590.0,Standard Bus,56.1,Overcast,38.8,False
+2024-04-25,R301,Outbound,196.0,51.0,Articulated Bus,66.9,Clear,-7.0,False
+2024-05-09,R208,Inbound,,574.0,Standard Bus,26.8,Rain,39.9,No
+2024-11-16,R105,Outbound,523.0,406.0,Minibus,78.7,Clear,22.5,False
+2024-08-08,R103,Inbound,60.0,42.0,Articulated Bus,79.7,Snow,20.5,No
+2024-09-01,R205,Inbound,232.0,217.0,Standard Bus,83.9,Snow,-0.6,false
+21-Sep-2024,R301,Inbound,745.0,214.0,Articulated Bus,32.0,Overcast,35.7,0
+2024-02-18,R208,Inbound,326.0,471.0,Standard Bus,56.0,Overcast,32.3,No
+2024-03-12,R104,Inbound,712.0,570.0,Minibus,45.8,Rain,7.9,0
+04-Feb-2024,R102,Inbound,419.0,668.0,Standard Bus,81.8,Overcast,4.3,0
+2024-03-25,R101,Inbound,675.0,276.0,Minibus,73.6,Snow,2.9,0
+2024-11-11,R208,Inbound,230.0,458.0,Minibus,42.1,Snow,34.0,1
+24-May-2024,R103,Outbound,299.0,319.0,Articulated Bus,43.9,Rain,8.8,No
+2024-05-09,R206,Inbound,247.0,302.0,Minibus,,Overcast,11.1,No
+10/08/2024,R302,Inbound,639.0,417.0,Articulated Bus,81.9,Rain,1.4,False
+2024-01-25,R302,Inbound,23.0,341.0,Minibus,16.2,Rain,31.6,False
+2024-01-08,R205,Inbound,735.0,690.0,Articulated Bus,63.6,Overcast,18.9,false
+2024-11-07,R104,Inbound,101.0,442.0,Articulated Bus,-5.0,Rain,37.8,0
+2024-03-14,R103,Outbound,174.0,261.0,Standard Bus,70.8,Snow,37.4,0
+2024-12-07,R103,Inbound,670.0,636.0,Standard Bus,42.9,Overcast,20.3,0
+16-Jul-2024,R302,Inbound,174.0,581.0,Articulated Bus,79.8,Snow,-8.7,0
+2024-08-07,R207,Outbound,698.0,482.0,Standard Bus,48.9,Clear,-5.3,0
+2024-03-23,R207,Inbound,67.0,505.0,Minibus,21.6,Clear,-5.2,false
+2024-03-10,R301,Outbound,298.0,549.0,Articulated Bus,,Overcast,39.5,False
+2024-03-09,R105,Inbound,395.0,103.0,Minibus,76.8,Rain,-10.8,0
+2024-12-05,R302,Outbound,98.0,473.0,Standard Bus,66.2,Clear,10.4,False
+2024-10-27,R102,Inbound,180.0,270.0,Articulated Bus,51.4,Clear,6.2,0
+2024-07-23,R205,Outbound,758.0,627.0,Standard Bus,,Snow,33.4,0
+2024-02-04,R103,Outbound,238.0,542.0,Standard Bus,27.7,Rain,33.7,0
+2024-09-14,R101,Inbound,442.0,79.0,Articulated Bus,39.3,Overcast,32.6,0
+11/27/2024,R102,Outbound,,288.0,Minibus,27.6,Overcast,14.2,false
+2024-08-12,R102,Outbound,170.0,429.0,Minibus,,Snow,-0.3,0
+12/12/2024,R206,Inbound,556.0,145.0,Minibus,54.6,Rain,26.0,false
+2024-09-21,R206,Outbound,31.0,332.0,Std Bus,86.9,Overcast,28.2,false
+2024-10-27,R206,Outbound,446.0,493.0,Minibus,74.4,Snow,19.0,false
+2024-06-10,R103,Outbound,63.0,111.0,Standard Bus,44.3,Overcast,30.5,False
+2024-09-17,R207,Inbound,495.0,714.0,Standard Bus,42.5,Clear,11.0,False
+2024-07-28,R101,Outbound,560.0,185.0,Articulated Bus,80.8,Snow,-12.6,False
+2024-03-08,R104,Outbound,383.0,584.0,Minibus,32.2,Snow,11.7,false
+2024-08-04,R302,Inbound,139.0,103.0,Minibus,59.5,Snow,18.1,No
+19-Dec-2024,R207,Outbound,435.0,261.0,Articulated Bus,65.4,Clear,28.4,0
+2024-10-07,R102,Outbound,208.0,143.0,Standard Bus,18.8,Overcast,7.9,false
+2024-06-27,R101,Outbound,199.0,,Standard Bus,16.1,Overcast,38.2,false
+2024-07-07,R104,Inbound,152.0,571.0,Minibus,80.4,Snow,-13.3,No
+2024-05-20,R208,Outbound,368.0,269.0,Standard Bus,40.3,Snow,41.3,No
+2024-06-02,R102,Outbound,153.0,726.0,Minibus,46.8,Clear,1.4,false
+2024-02-23,R104,Inbound,29.0,275.0,Articulated Bus,19.8,Overcast,41.4,0
+2024-01-04,R101,Inbound,62.0,225.0,Minibus,32.0,Snow,16.4,0
+2024-05-24,R301,Inbound,371.0,,Standard Bus,51.2,Clear,-11.4,No
+2024-05-26,R205,Out,50.0,542.0,Articulated Bus,42.8,Rain,34.6,0
+2024-02-13,R208,Inbound,620.0,592.0,Minibus,28.8,Overcast,4.5,No
+2024-03-08,R302,Outbound,796.0,159.0,Standard Bus,73.1,Overcast,-7.3,False
+2024-01-03,R103,Inbound,249.0,203.0,Std Bus,86.0,Overcast,0.7,false
+2024-12-30,R206,Outbound,529.0,197.0,Minibus,46.2,Snow,12.4,false
+05/30/2024,R101,Outbound,536.0,649.0,Articulated Bus,71.6,Clear,-9.1,No
+2024-06-05,R302,Inbound,296.0,170.0,Articulated Bus,76.9,Overcast,-9.3,0
+2024-02-25,R208,Outbound,656.0,321.0,Minibus,51.5,Overcast,-13.6,No
+2024-02-13,R101,Outbound,444.0,143.0,Articulated Bus,75.7,Rain,,0
+2024-10-07,R103,Inbound,671.0,16.0,Standard Bus,54.6,Clear,4.1,False
+22-Oct-2024,R207,Inbound,460.0,547.0,Articulated Bus,54.9,Overcast,8.4,No
+2024-03-09,R301,Inbound,553.0,80.0,Articulated Bus,65.8,Clear,23.9,0
+2024-05-08,R206,Inbound,139.0,234.0,Articulated Bus,27.4,Snow,33.7,False
+01/31/2024,R101,Inbound,499.0,457.0,Articulated Bus,32.0,Clear,23.0,0
+2024-12-23,R207,Inbound,423.0,166.0,MINIBUS,45.3,Rain,35.6,false
+2024-08-24,R208,Outbound,685.0,666.0,Minibus,41.9,Rain,36.9,0
+2024-08-11,R101,Outbound,369.0,61.0,Standard Bus,,Snow,-7.1,No
+2024-03-09,R206,OUTBOUND,353.0,236.0,Articulated Bus,59.9,Clear,-11.3,False
+14-Apr-2024,R208,Inbound,378.0,215.0,Articulated Bus,25.5,Overcast,32.6,0
+08/23/2024,R101,Outbound,156.0,381.0,Standard Bus,27.2,Rain,18.9,False
+2024-03-10,R207,Inbound,343.0,745.0,Articulated Bus,27.5,Overcast,28.9,False
+2024-01-18,R208,Outbound,397.0,595.0,Minibus,68.0,Clear,15.5,false
+2024-05-14,R104,Inbound,438.0,458.0,Minibus,89.6,Snow,-14.4,False
+2024-08-25,R105,Inbound,779.0,261.0,Standard Bus,84.0,Overcast,,0
+2024-06-17,R207,Inbound,523.0,720.0,Minibus,23.1,Clear,34.9,False
+2024-07-18,R207,Inbound,564.0,705.0,standard bus,76.5,Overcast,20.7,0
+2024-03-24,R105,Inbound,132.0,511.0,Minibus,34.0,Clear,-0.9,false
+2024-11-24,R105,Outbound,737.0,749.0,Standard Bus,86.3,Overcast,17.7,0
+2024-01-08,R105,Inbound,778.0,257.0,Standard Bus,16.4,Clear,24.7,false
+2024-08-18,R207,Outbound,422.0,360.0,Minibus,53.4,Overcast,-2.1,false
+2024-09-08,R101,Outbound,387.0,234.0,Articulated Bus,82.4,Rain,29.6,0
+2024-02-10,R301,Outbound,394.0,36.0,Minibus,33.3,Rain,40.5,0
+2024-07-18,R102,Outbound,,749.0,Minibus,73.7,Overcast,-1.3,False
+2024-09-09,R103,Inbound,428.0,314.0,Standard Bus,48.4,Clear,31.5,No
+2024-12-12,R103,Inbound,424.0,527.0,Minibus,55.1,Rain,5.3,No
+2024-10-13,R301,Outbound,464.0,196.0,Articulated Bus,67.9,Clear,-0.8,False
+12/08/2024,R103,Outbound,302.0,154.0,Standard Bus,61.6,Rain,,False
+2024-05-31,R102,Inbound,345.0,163.0,Articulated Bus,66.2,Overcast,11.7,false
+2024-12-28,R301,Outbound,249.0,533.0,Articulated Bus,47.0,Clear,,No
+2024-05-21,R103,Inbound,658.0,169.0,Minibus,37.1,Snow,,0
+2024-04-25,R103,Outbound,685.0,104.0,Articulated Bus,59.7,Clear,12.6,0
+2024-03-20,R301,Outbound,235.0,616.0,Minibus,48.1,Clear,-0.2,False
+2024-10-16,R207,Outbound,251.0,380.0,Articulated Bus,89.4,Overcast,40.3,0
+2024-04-23,R101,Outbound,469.0,515.0,Articulated Bus,40.8,Snow,5.0,False
+2024-11-07,R105,Inbound,204.0,306.0,articulated,78.6,Overcast,16.1,false
+2024-02-19,R208,Inbound,468.0,502.0,Standard Bus,61.4,Rain,5.4,true
+2024-08-30,R103,Inbound,136.0,680.0,Minibus,40.0,Clear,7.7,No
+2024-12-22,R103,Outbound,474.0,615.0,Standard Bus,39.6,Rain,20.9,False
+2024-03-15,R208,Outbound,409.0,724.0,Minibus,64.1,Overcast,20.3,false
+2024-04-18,R102,Outbound,128.0,714.0,Standard Bus,47.3,Rain,36.5,0
+2024-10-12,R205,Outbound,95.0,453.0,Articulated Bus,35.4,Overcast,26.7,0
+2024-11-10,R301,Outbound,653.0,527.0,Articulated Bus,48.2,Clear,-1.3,0
+2024-05-31,R103,Outbound,502.0,182.0,Standard Bus,56.1,Overcast,8.0,False
+25-Sep-2024,R208,Inbound,233.0,678.0,Standard Bus,61.5,Clear,-3.5,No
+2024-10-15,R208,Outbound,191.0,590.0,Standard Bus,69.6,Clear,29.8,False
+2024-02-21,R208,Inbound,66.0,108.0,Minibus,79.2,Snow,25.1,No
+2024-02-06,R104,Outbound,795.0,683.0,Minibus,48.3,Snow,34.5,false
+12-Dec-2024,R301,Outbound,537.0,113.0,Minibus,71.1,Snow,39.3,0
+22-Aug-2024,R101,Inbound,39.0,269.0,Standard Bus,76.4,Rain,23.0,false
+2024-04-04,R302,Outbound,45.0,435.0,Articulated Bus,89.7,Overcast,10.7,False
+12/28/2024,R207,Outbound,78.0,522.0,Minibus,15.2,Overcast,-5.1,No
+2024-12-05,R302,Inbound,494.0,415.0,Standard Bus,19.0,Rain,28.0,0
+2024-07-01,R102,Outbound,528.0,595.0,Articulated Bus,79.4,Snow,11.4,0
+2024-01-21,R104,Outbound,377.0,394.0,Minibus,88.1,Rain,8.4,False
+2024-04-07,R104,Outbound,374.0,598.0,Minibus,23.3,Snow,31.1,false
+2024-05-31,R302,Inbound,433.0,249.0,Minibus,77.4,Rain,33.0,0
+2024-01-29,R208,OUTBOUND,608.0,130.0,Minibus,41.8,Snow,3.4,No
+2024-04-12,R102,Inbound,343.0,699.0,Standard Bus,69.0,Rain,21.5,No
+2024-07-28,R208,Outbound,31.0,95.0,Minibus,69.1,Snow,,No
+2024-04-02,R301,Outbound,598.0,65.0,Articulated Bus,64.0,Clear,-1.4,False
+2024-10-12,R206,Outbound,594.0,26.0,Standard Bus,45.8,Snow,-5.7,0
+2024-11-05,R103,Outbound,439.0,743.0,Articulated Bus,75.3,Snow,,false
+2024-10-18,R207,Outbound,719.0,433.0,Standard Bus,58.2,Snow,4.5,No
+2024-06-29,R302,Outbound,501.0,742.0,Standard Bus,86.7,Overcast,-13.6,False
+2024-05-09,R104,OUTBOUND,556.0,616.0,Articulated Bus,84.0,Overcast,4.7,0
+2024-11-08,R207,Inbound,51.0,301.0,std bus,75.6,Snow,-11.1,False
+2024-12-03,R208,Outbound,702.0,287.0,Articulated Bus,30.8,Rain,16.7,0
+2024-09-28,R208,Inbound,678.0,671.0,Articulated Bus,44.9,Snow,9.7,False
+2024-09-10,R206,Inbound,179.0,713.0,Standard Bus,67.1,Clear,35.2,false
+2024-04-16,R206,Inbound,185.0,55.0,Minibus,21.0,Clear,-6.6,False
+2024-05-21,R302,Outbound,133.0,476.0,Standard Bus,41.2,Overcast,3.0,0
+2024-08-22,R105,Inbound,492.0,431.0,Articulated Bus,32.8,Rain,6.3,false
+2024-04-08,R105,Inbound,440.0,582.0,Standard Bus,72.1,Snow,39.0,No
+2024-07-04,R105,Inbound,65.0,614.0,Standard Bus,84.3,Overcast,40.6,true
+2024-08-12,R205,Inbnd,89.0,71.0,Articulated Bus,-12.3,Rain,12.6,False
+2024-11-23,R102,Inbound,122.0,450.0,Minibus,86.3,Snow,26.7,false
+2024-02-21,R104,Inbound,380.0,338.0,Standard Bus,74.6,Clear,3.5,0
+2024-07-18,R105,Inbound,252.0,241.0,Articulated Bus,46.4,Rain,1.7,false
+2024-06-23,R104,Inbound,205.0,266.0,Standard Bus,40.5,Snow,-10.5,False
+2024-07-25,R206,Outbound,543.0,627.0,standard bus,58.3,Snow,17.1,0
+2024-08-22,R302,Inbound,496.0,696.0,Standard Bus,75.7,Overcast,31.2,false
+2024-01-02,R301,inbound,,397.0,Standard Bus,80.6,Snow,40.3,0
+2024-06-12,R103,Outbound,624.0,420.0,Articulated Bus,60.5,Overcast,21.0,0
+2024-09-24,R206,Inbound,188.0,695.0,Standard Bus,83.8,Rain,35.6,false
+2024-06-08,R103,Inbound,626.0,748.0,Standard Bus,24.6,Clear,4.8,No
+2024-05-07,R101,Inbound,800.0,547.0,Standard Bus,31.1,Rain,8.7,False
+2024-04-03,R104,Inbound,,87.0,Standard Bus,72.0,Clear,2.8,No
+2024-10-14,R302,Outbound,766.0,716.0,Minibus,41.4,Snow,19.8,1
+2024-01-17,R301,Inbound,463.0,142.0,Articulated Bus,18.8,Clear,-9.5,0
+2024-06-12,R105,INBOUND,224.0,351.0,Standard Bus,77.9,Rain,16.4,0
+2024-02-26,R105,Inbound,744.0,173.0,Standard Bus,46.2,Overcast,33.2,false
+2024-07-08,R104,Inbound,773.0,455.0,Articulated Bus,22.2,Snow,36.2,0
+2024-01-20,R104,Outbound,741.0,210.0,Articulated Bus,41.5,Rain,30.6,false
+2024-01-07,R207,Outbound,701.0,149.0,Standard Bus,73.5,Rain,17.1,0
+2024-07-07,R302,Outbound,631.0,303.0,Articulated Bus,49.9,Snow,22.0,No
+2024-01-13,R301,Outbound,637.0,377.0,Articulated Bus,18.3,Clear,0.8,false
+2024-02-05,R105,Outbound,741.0,746.0,Minibus,60.0,Snow,12.7,false
+2024-12-27,R208,Inbound,757.0,29.0,Standard Bus,41.6,Clear,39.1,false
+2024-02-05,R105,Outbound,123.0,268.0,Articulated Bus,15.7,Snow,-9.2,0
+2024-12-21,R101,Outbound,101.0,338.0,Minibus,78.5,Overcast,36.4,false
+2024-10-04,R103,Outbound,491.0,70.0,Articulated Bus,61.8,Overcast,-10.4,No
+2024-01-30,R207,Outbound,108.0,416.0,Minibus,76.2,Rain,10.0,false
+2024-02-01,R302,Inbound,678.0,546.0,Articulated Bus,20.7,Snow,-5.5,0
+2024-11-22,R205,Inbound,305.0,27.0,Articulated Bus,72.7,Overcast,7.7,false
+2024-11-11,R207,Outbound,558.0,598.0,Articulated Bus,26.9,Rain,-3.4,True
+2024-01-19,R301,Inbound,271.0,517.0,Minibus,52.2,Snow,-14.6,0
+2024-11-14,R104,Outbound,258.0,86.0,Articulated Bus,75.6,Clear,31.9,false
+01/19/2024,R205,Inbound,56.0,151.0,Minibus,64.4,Rain,41.4,False
+2024-03-17,R101,Inbound,90.0,494.0,Minibus,79.1,Snow,4.4,No
+2024-08-18,R302,Outbound,634.0,295.0,Articulated Bus,71.4,Snow,18.5,false
+08/31/2024,R301,Inbound,353.0,561.0,Articulated Bus,64.4,Clear,41.9,No
+2024-09-16,R102,Outbound,524.0,145.0,Minibus,,Rain,23.8,False
+2024-12-30,R208,Outbound,121.0,281.0,Standard Bus,,Rain,23.1,false
+2024-03-06,R302,Outbound,298.0,422.0,Minibus,63.9,Rain,33.2,No
+2024-03-14,R205,Inbound,,162.0,Standard Bus,46.1,Overcast,-10.1,false
+07/28/2024,R205,Inbound,442.0,212.0,Articulated Bus,84.1,Snow,24.6,0
+2024-11-16,R208,Inbound,185.0,104.0,Minibus,66.7,Overcast,30.6,false
+2024-03-02,R208,Outbound,344.0,426.0,Standard Bus,45.3,Snow,27.1,false
+2024-04-07,R301,Outbound,256.0,60.0,Minibus,29.1,Snow,23.3,No
+2024-11-26,R105,Inbound,318.0,497.0,Standard Bus,27.4,Snow,-14.9,No
+27-Aug-2024,R101,Outbound,499.0,137.0,Minibus,21.1,Rain,37.7,False
+2024-12-20,R103,Outbound,689.0,672.0,Standard Bus,45.0,Clear,40.7,false
+2024-11-04,R101,Inbnd,712.0,373.0,Articulated Bus,40.6,Clear,30.9,False
+2024-10-03,R207,Inbound,212.0,164.0,Minibus,73.7,Snow,0.2,No
+2024-08-25,R205,Outbound,433.0,740.0,Articulated Bus,37.2,Overcast,11.2,0
+2024-12-20,R206,Inbound,448.0,172.0,Minibus,80.8,Overcast,34.5,False
+2024-03-16,R206,Outbnd,678.0,78.0,Minibus,59.5,Rain,19.1,No
+2024-07-02,R103,Outbound,734.0,228.0,Articulated Bus,26.7,Rain,-1.1,false
+2024-10-17,R105,OUTBOUND,780.0,714.0,Standard Bus,54.2,Rain,-11.9,No
+2024-06-30,R206,Inbound,398.0,357.0,Standard Bus,48.0,Overcast,2.2,0
+2024-03-01,R301,Outbound,106.0,57.0,Standard Bus,64.4,Clear,,false
+2024-03-09,R205,Outbound,403.0,177.0,Minibus,58.3,Clear,34.4,No
+2024-08-30,R104,Inbound,708.0,701.0,Standard Bus,80.4,Clear,-0.4,No
+2024-07-16,R206,Outbound,709.0,589.0,Minibus,69.0,Snow,14.1,false
+2024-08-15,R101,Inbound,234.0,180.0,Minibus,79.4,Snow,8.3,No
+2024-11-15,R301,Outbound,236.0,40.0,Minibus,85.3,Snow,2.8,0
+2024-10-31,R208,Inbound,94.0,291.0,Articulated Bus,62.4,Snow,-11.9,No
+2024-03-24,R104,outbound,182.0,538.0,Standard Bus,57.2,Overcast,11.9,No
+2024-12-18,R206,Outbound,795.0,528.0,Minibus,65.1,Rain,18.8,No
+2024-03-03,R301,Outbound,,292.0,Standard Bus,35.8,Rain,10.6,No
+2024-09-25,R101,Outbound,431.0,586.0,Minibus,28.5,Rain,28.0,False
+2024-11-20,R205,Outbound,603.0,377.0,Minibus,56.8,Clear,8.7,0
+2024-06-20,R206,Outbound,631.0,155.0,Articulated Bus,,Snow,6.5,0
+2024-03-28,R205,Inbound,502.0,125.0,Standard Bus,,Rain,-3.2,False
+2024-09-10,R207,Outbound,449.0,668.0,Minibus,19.5,Overcast,24.1,false
+2024-12-21,R302,Outbound,112.0,253.0,Minibus,23.7,Overcast,19.5,false
+2024-03-21,R105,Inbound,615.0,449.0,Minibus,58.3,Clear,,False
+2024-05-29,R301,Inbound,609.0,742.0,Standard Bus,66.1,Overcast,23.0,No
+2024-06-13,R101,Inbound,277.0,544.0,standard bus,22.5,Snow,7.4,0
+2024-02-14,R302,Outbound,618.0,417.0,Minibus,26.3,Rain,1.2,false
+2024-06-29,R302,Outbound,501.0,742.0,Standard Bus,86.7,Overcast,-13.6,False
+2024-09-14,R101,Inbound,634.0,573.0,Standard Bus,35.0,Overcast,-12.8,No
+2024-06-30,R102,Outbound,306.0,369.0,Minibus,41.7,Overcast,-0.5,false
+2024-03-09,R103,Inbound,281.0,354.0,Articulated Bus,88.4,Overcast,33.8,0
+01/26/2024,R205,Inbound,645.0,302.0,Standard Bus,65.3,Rain,5.4,False
+2024-10-05,R206,Outbound,,741.0,Articulated Bus,46.3,Overcast,-5.9,False
+2024-01-20,R206,Outbound,,240.0,Standard Bus,51.3,Overcast,27.6,0
+2024-08-24,R205,Outbound,58.0,503.0,Minibus,77.1,Snow,-10.4,false
+2024-02-24,R208,Outbound,344.0,318.0,Minibus,77.4,Clear,19.1,0
+2024-09-03,R302,Inbound,,126.0,Standard Bus,60.8,Clear,16.1,0
+2024-08-28,R208,Outbound,591.0,16.0,Articulated Bus,89.7,Rain,40.0,false
+2024-05-15,R302,Inbound,412.0,648.0,Minibus,26.0,Clear,14.3,False
+2024-01-22,R104,Inbound,621.0,667.0,Minibus,21.4,Rain,11.6,false
+2024-11-08,R101,Outbound,315.0,217.0,Minibus,49.4,Clear,26.8,false
+2024-05-24,R207,inbound,570.0,615.0,Articulated Bus,22.4,Overcast,-9.8,false
+2024-12-09,R205,Outbound,,573.0,Standard Bus,350.0,Rain,24.3,0
+2024-08-08,R206,Inbound,797.0,458.0,Articulated Bus,85.7,Rain,3.5,False
+2024-05-14,R301,Outbound,149.0,480.0,Minibus,86.8,Snow,17.7,No
+11/05/2024,R207,Inbound,193.0,43.0,Minibus,32.9,Clear,1.0,No
+2024-02-26,R102,INBOUND,700.0,377.0,Standard Bus,32.9,Rain,38.0,0
+2024-01-06,R302,Inbound,679.0,687.0,Minibus,57.0,Snow,-14.4,False
+2024-04-28,R104,Inbound,402.0,,Articulated Bus,48.2,Rain,25.3,0
+2024-03-04,R206,Inbound,477.0,103.0,Articulated Bus,26.8,Rain,2.7,False
+2024-12-07,R302,Inbound,465.0,224.0,Standard Bus,56.0,Rain,-4.7,false
+2024-11-04,R104,Inbound,183.0,565.0,Articulated Bus,46.6,Overcast,-9.6,No
+2024-04-13,R105,Outbound,,604.0,Articulated Bus,62.4,Snow,-11.7,No
+2024-11-08,R101,Outbound,,87.0,Articulated Bus,81.8,Overcast,-8.5,False
+2024-12-05,R208,Outbound,640.0,581.0,Articulated Bus,44.4,Rain,39.0,No
+2024-03-17,R103,Inbound,434.0,109.0,Articulated Bus,80.9,Rain,26.3,False
+2024-09-02,R302,Outbound,162.0,205.0,Standard Bus,20.1,Overcast,28.5,Yes
+2024-02-22,R103,Inbound,,461.0,Standard Bus,69.5,Overcast,16.2,No
+2024-12-09,R302,Outbound,510.0,,Minibus,20.8,Rain,,0
+2024-04-22,R105,Outbound,652.0,642.0,Articulated Bus,41.4,Clear,2.4,No
+2024-03-23,R103,Outbound,379.0,89.0,Standard Bus,58.7,Rain,6.2,False
+2024-06-25,R206,Inbound,283.0,67.0,Articulated Bus,35.4,Overcast,40.0,0
+2024-10-22,R208,Outbound,281.0,214.0,Minibus,35.1,Clear,13.1,No
+2024-11-30,R205,Inbound,126.0,102.0,Standard Bus,76.7,Rain,16.7,No
+2024-08-25,R102,Inbound,547.0,518.0,Articulated Bus,72.2,Clear,15.9,No
+2024-07-15,R103,Outbound,300.0,229.0,Minibus,43.3,Clear,30.7,false
+2024-09-03,R105,Inbound,258.0,316.0,Minibus,48.2,Rain,23.1,false
+2024-03-27,R103,Inbound,436.0,322.0,Minibus,84.6,Clear,41.8,0
+02/11/2024,R105,Inbound,448.0,298.0,Minibus,53.9,Snow,25.5,false
+2024-08-24,R208,Outbound,515.0,205.0,Articulated Bus,32.3,Clear,36.2,false
+2024-08-06,R208,Outbound,,612.0,Minibus,60.6,Overcast,8.0,0
+2024-03-01,R104,Inbound,162.0,356.0,Standard Bus,57.5,Snow,7.3,No
+2024-01-08,R207,Inbound,560.0,663.0,Articulated Bus,18.3,Overcast,33.6,False
+2024-02-07,R104,Inbound,,90.0,Minibus,,Clear,0.9,No
+2024-04-01,R301,Outbound,24.0,232.0,Standard Bus,32.7,Clear,-0.4,False
+2024-01-02,R102,Inbound,,,Minibus,70.1,Clear,4.5,False
+2024-09-14,R102,Outbound,133.0,125.0,standard bus,41.2,Clear,29.6,0
+2024-01-09,R205,Inbound,217.0,240.0,Minibus,58.8,Clear,11.4,false
+2024-10-19,R302,Inbound,,228.0,Standard Bus,52.7,Overcast,-11.8,No
+2024-07-15,R206,Inbound,786.0,317.0,Minibus,46.5,Clear,29.7,No
+2024-12-26,R103,Inbound,411.0,361.0,Minibus,33.7,Clear,-10.8,False
+2024-10-10,R208,Inbound,460.0,162.0,Standard Bus,65.5,Rain,32.0,0
+2024-12-21,R302,Outbound,685.0,56.0,Standard Bus,76.5,Rain,-12.6,0
+01/07/2024,R105,Outbound,98.0,596.0,Standard Bus,41.2,Rain,34.2,No
+2024-04-16,R302,Inbound,185.0,36.0,Standard Bus,25.8,Overcast,18.9,No
+2024-08-31,R302,Inbound,,641.0,Articulated Bus,26.4,Rain,41.6,False
+10/12/2024,R103,Inbound,586.0,403.0,Minibus,39.5,Snow,5.2,false
+2024-11-29,R104,Inbound,251.0,56.0,Minibus,44.4,Clear,27.8,No
+2024-12-08,R302,Inbound,590.0,525.0,Minibus,88.1,Rain,-11.0,false
+2024-07-31,R104,Inbound,137.0,175.0,Minibus,46.6,Overcast,21.3,0
+2024-03-10,R104,Inbound,166.0,589.0,Articulated Bus,81.3,Snow,10.6,False
+2024-02-01,R208,Outbound,721.0,561.0,Minibus,46.0,Clear,30.7,False
+12/04/2024,R105,Outbound,34.0,171.0,Standard Bus,55.5,Clear,12.7,No
+2024-04-06,R206,Inbound,435.0,123.0,Minibus,29.6,Snow,-11.7,False
+05/25/2024,R207,Inbound,591.0,629.0,Minibus,88.2,Clear,21.8,No
+2024-12-13,R101,Outbound,535.0,166.0,Articulated Bus,86.6,Snow,30.6,false
+2024-01-26,R206,Outbound,790.0,150.0,Standard Bus,52.7,Snow,26.7,No
+2024-04-05,R208,Inbound,573.0,510.0,Articulated Bus,37.6,Rain,19.2,False
+2024-08-22,R208,Outbound,87.0,508.0,Standard Bus,44.9,Overcast,34.2,False
+2024-09-30,R208,Inbound,93.0,577.0,Standard Bus,20.4,Overcast,-3.7,false
+2024-04-02,R101,Outbound,333.0,175.0,Minibus,65.5,Clear,-10.4,0
+2024-08-21,R302,Outbound,405.0,,Minibus,79.9,Clear,-9.1,0
+30-Oct-2024,R206,Inbound,698.0,539.0,Standard Bus,89.2,Clear,35.7,false
+02/26/2024,R105,Inbound,355.0,272.0,Articulated Bus,17.0,Clear,,false
+2024-04-16,R301,Inbound,162.0,724.0,Standard Bus,,Clear,-2.1,0
+2024-05-02,R207,Outbound,243.0,505.0,Minibus,,Overcast,27.3,0
+2024-01-02,R206,Inbound,435.0,740.0,Standard Bus,76.5,Rain,,0
+2024-09-21,R301,Inbound,,504.0,Articulated Bus,21.3,Clear,7.4,0
+2024-02-07,R302,Outbound,289.0,688.0,Articulated Bus,47.8,Overcast,-1.6,No
+2024-11-30,R105,Outbound,773.0,135.0,Articulated Bus,34.5,Clear,-5.9,No
+2024-09-30,R103,Inbound,,508.0,Standard Bus,43.9,Snow,-11.0,false
+2024-09-18,R103,Outbound,660.0,56.0,Minibus,28.6,Overcast,0.3,false
+2024-12-11,R104,Outbound,653.0,746.0,Articulated Bus,30.5,Rain,13.8,No
+2024-09-29,R301,Outbound,63.0,41.0,Articulated Bus,41.4,Rain,-12.5,No
+2024-12-03,R206,Outbound,,695.0,Standard Bus,29.6,Snow,4.7,No
+2024-07-28,R104,Inbound,695.0,516.0,Minibus,84.9,Snow,4.3,False
+2024-01-21,R102,Outbound,378.0,617.0,Articulated Bus,35.7,Clear,20.5,0
+2024-04-15,R103,Inbound,518.0,399.0,Std Bus,58.5,Snow,-7.1,false
+2024-08-04,R301,Outbound,688.0,216.0,Articulated Bus,63.4,Clear,21.3,0
+2024-04-09,R207,Outbound,517.0,378.0,Minibus,86.7,Clear,-14.0,No
+2024-05-15,R207,Inbound,106.0,69.0,Standard Bus,26.7,Rain,25.8,False
+2024-02-25,R302,Inbound,368.0,511.0,Articulated Bus,56.5,Clear,17.6,No
+2024-07-06,R208,Inbound,483.0,389.0,Articulated Bus,47.7,Overcast,-7.6,No
+2024-06-13,R205,Outbound,633.0,33.0,Minibus,75.6,Overcast,28.5,0
+26-Jan-2024,R103,Inbound,409.0,328.0,Articulated Bus,73.8,Clear,12.4,0
+2024-06-02,R205,Inbound,88.0,560.0,Articulated Bus,61.6,Snow,4.8,0
+2024-03-27,R206,Inbound,766.0,533.0,Standard Bus,52.6,Snow,40.6,false
+11/02/2024,R102,Outbound,223.0,43.0,Standard Bus,76.2,Snow,6.6,No
+2024-05-21,R104,Outbound,623.0,92.0,Standard Bus,28.8,Overcast,-12.8,No
+2024-05-31,R103,Inbound,292.0,717.0,Articulated Bus,84.5,Rain,34.7,False
+2024-11-15,R104,Outbound,,274.0,Articulated Bus,,Clear,36.5,false
+2024-09-12,R206,Outbound,647.0,601.0,Minibus,85.2,Snow,29.8,false
+2024-02-24,R101,Outbound,,,Minibus,60.4,Snow,-2.4,No
+2024-10-18,R302,Inbound,362.0,320.0,Minibus,82.2,Rain,31.6,False
+2024-09-01,R302,Inbound,237.0,459.0,Articulated Bus,49.6,Clear,2.5,False
+2024-01-02,R101,Outbound,728.0,583.0,Minibus,21.4,Rain,2.3,false
+2024-09-14,R208,Outbound,,,Minibus,46.9,Clear,-13.7,No
+2024-03-11,R103,Inbound,350.0,654.0,Articulated Bus,75.6,Rain,36.1,False
+2024-11-29,R208,Outbound,409.0,671.0,Standard Bus,61.8,Clear,-11.4,False
+2024-02-04,R207,Outbound,82.0,87.0,Minibus,37.9,Clear,32.3,No
+07/15/2024,R206,Inbound,493.0,555.0,Articulated Bus,71.9,Snow,-9.0,False
+11-Mar-2024,R103,Outbound,514.0,528.0,MINIBUS,23.0,Clear,29.5,false
+09/28/2024,R101,Outbound,92.0,646.0,Articulated Bus,71.4,Rain,11.5,No
+2024-09-27,R103,Outbound,133.0,517.0,Articulated Bus,47.0,Clear,-8.7,false
+2024-01-07,R205,Outbound,539.0,298.0,Minibus,78.9,Snow,25.5,False
+2024-12-29,R301,Outbound,331.0,21.0,Standard Bus,66.5,Rain,33.1,0
+2024-07-20,R105,Inbound,614.0,168.0,Articulated Bus,48.7,Overcast,19.9,False
+03/14/2024,R104,Outbound,143.0,413.0,Articulated Bus,33.3,Snow,37.8,false
+2024-11-15,R105,Outbound,193.0,573.0,Standard Bus,-12.3,Snow,4.4,false
+2024-07-12,R103,Inbound,213.0,717.0,Standard Bus,21.6,Snow,12.8,False
+2024-05-02,R101,Outbound,452.0,167.0,Standard Bus,29.4,Clear,12.0,false
+2024-02-11,R103,Inbound,215.0,321.0,Minibus,22.8,Snow,1.8,false
+2024-04-06,R207,Inbound,96.0,73.0,Articulated Bus,87.1,Rain,7.2,False
+2024-03-30,R105,Inbound,317.0,540.0,Articulated Bus,87.9,Rain,-4.7,No
+2024-12-03,R208,Outbound,702.0,287.0,Articulated Bus,30.8,Rain,16.7,0
+2024-08-29,R301,Outbound,,,Articulated Bus,,Rain,2.2,false
+2024-12-27,R208,Inbound,462.0,83.0,Minibus,28.6,Rain,9.5,false
+2024-11-04,R102,Outbound,117.0,158.0,Minibus,45.9,Rain,22.1,0
+09/22/2024,R105,Inbound,109.0,619.0,Minibus,78.4,Overcast,-13.7,No
+2024-01-13,R301,Inbound,443.0,474.0,Standard Bus,24.8,Rain,40.3,false
+2024-02-22,R205,Outbound,223.0,252.0,articulated,52.4,Snow,3.8,No
+2024-12-03,R102,Outbound,468.0,,Minibus,45.9,Clear,34.6,False
+2024-01-11,R206,Outbound,538.0,84.0,Standard Bus,82.5,Snow,-13.8,False
+2024-11-17,R301,Outbound,135.0,177.0,Articulated Bus,40.2,Overcast,18.4,No
+2024-10-17,R301,Inbound,701.0,68.0,Standard Bus,55.3,Rain,3.6,False
+2024-04-01,R105,Outbound,691.0,615.0,Articulated Bus,72.1,Clear,6.2,False
+2024-05-08,R207,Outbound,371.0,312.0,Standard Bus,29.6,Rain,13.8,0
+2024-08-23,R205,Outbound,,238.0,Articulated Bus,35.2,Clear,35.6,false
+2024-09-02,R105,Outbound,585.0,334.0,Minibus,37.5,Clear,5.4,True
+2024-11-12,R206,Outbound,,325.0,Standard Bus,27.1,Clear,29.8,No
+2024-11-12,R207,Inbound,775.0,649.0,Minibus,65.9,Clear,18.8,No
+2024-07-04,R101,Outbound,,554.0,Minibus,75.3,Snow,34.4,true
+2024-10-08,R103,Outbound,261.0,360.0,Minibus,22.3,Overcast,24.0,No
+2024-06-08,R205,Inbound,146.0,714.0,Minibus,69.9,Clear,-10.3,No
+11/16/2024,R301,Outbound,696.0,167.0,Articulated Bus,52.3,Snow,26.1,No
+2024-01-27,R101,Outbound,679.0,232.0,Standard Bus,29.6,Clear,12.9,0
+2024-09-26,R104,Inbound,480.0,632.0,Minibus,350.0,Clear,1.9,False
+2024-10-25,R302,Outbound,584.0,212.0,Standard Bus,74.7,Rain,18.9,False
+2024-03-19,R301,Outbound,590.0,197.0,Standard Bus,80.6,Clear,13.1,0
+04/05/2024,R302,Inbound,750.0,731.0,Standard Bus,,Overcast,7.3,No
+2024-12-07,R206,Inbound,731.0,458.0,Articulated Bus,,Snow,33.4,False
+2024-03-23,R208,Outbound,363.0,563.0,Articulated Bus,36.3,Rain,31.6,False
+2024-08-04,R206,Inbound,704.0,130.0,Standard Bus,44.0,Snow,17.7,false
+2024-05-04,R205,Inbound,708.0,475.0,Articulated Bus,19.8,Rain,-12.9,False
+2024-03-24,R104,Inbound,170.0,528.0,Articulated Bus,80.4,Snow,23.3,No
+2024-08-04,R104,Inbound,433.0,59.0,Articulated Bus,29.5,Snow,-7.6,No
+2024-09-28,R104,Inbound,160.0,229.0,Minibus,47.0,Clear,30.6,False
+2024-11-01,R104,Inbound,235.0,17.0,Minibus,76.2,Snow,-2.2,False
+2024-03-15,R102,Inbound,106.0,433.0,Minibus,87.3,Rain,25.9,false
+2024-09-05,R102,Inbound,761.0,452.0,Standard Bus,58.7,Overcast,18.8,No
+2024-04-03,R206,Inbound,272.0,70.0,Standard Bus,37.3,Overcast,9.5,false
+2024-07-21,R102,Outbound,767.0,453.0,Minibus,43.9,Rain,9.9,No
+2024-08-07,R301,Outbound,,,Minibus,77.0,Clear,36.5,False
+2024-09-30,R301,Outbound,651.0,581.0,Minibus,83.0,Clear,3.3,0
+2024-09-08,R206,Outbound,677.0,611.0,Articulated Bus,62.0,Rain,-13.4,No
+2024-11-18,R302,Inbound,403.0,274.0,Standard Bus,45.5,Clear,-11.2,No
+2024-06-08,R208,Outbound,640.0,290.0,Minibus,71.5,Snow,34.8,false
+2024-04-13,R101,Outbound,157.0,144.0,Articulated Bus,61.4,Rain,22.9,false
+2024-03-28,R302,Inbound,,350.0,Standard Bus,53.3,Overcast,-7.0,0
+2024-09-30,R207,Outbound,362.0,324.0,Minibus,19.4,Clear,21.1,No
+2024-08-04,R301,Outbound,593.0,497.0,Minibus,42.6,Clear,8.6,false
+2024-06-24,R104,Outbound,82.0,153.0,Minibus,,Overcast,25.5,false
+2024-02-10,R101,Outbound,474.0,600.0,Articulated Bus,999.0,Overcast,32.9,0
+2024-03-22,R206,Outbound,396.0,672.0,Standard Bus,27.9,Rain,35.1,False
+2024-02-28,R102,Outbound,549.0,204.0,Standard Bus,43.7,Rain,16.6,false
+2024-08-27,R208,Inbound,267.0,278.0,Articulated Bus,78.3,Rain,10.0,false
+2024-05-06,R302,Inbound,414.0,240.0,Standard Bus,45.6,Overcast,6.2,False
+11/09/2024,R102,Outbound,446.0,192.0,Articulated Bus,40.7,Overcast,15.3,false
+2024-07-01,R207,Outbound,692.0,645.0,Articulated Bus,55.2,Snow,-4.8,False
+2024-03-16,R102,Inbound,337.0,,Articulated Bus,45.6,Overcast,38.2,false
+2024-04-13,R105,Inbound,364.0,222.0,Articulated Bus,62.3,Snow,16.3,0
+2024-07-14,R102,In,658.0,370.0,Standard Bus,60.4,Overcast,2.5,0
+2024-03-12,R302,Outbound,562.0,373.0,Articulated Bus,,Rain,-6.1,No
+2024-10-21,R101,Outbound,139.0,704.0,Minibus,73.8,Rain,9.5,No
+2024-05-14,R101,Outbound,633.0,91.0,Articulated Bus,79.4,Snow,-1.7,0
+2024-12-19,R205,Inbound,675.0,283.0,Articulated Bus,87.7,Clear,25.7,False
+2024-06-13,R301,Outbound,359.0,354.0,Articulated Bus,42.6,Rain,9.6,No
+2024-06-07,R302,Outbound,,502.0,Standard Bus,29.7,Rain,39.2,False
+02/05/2024,R102,Inbound,498.0,579.0,Standard Bus,18.8,Overcast,-13.0,0
+2024-08-20,R205,Inbound,575.0,370.0,Minibus,21.1,Rain,23.3,No
+04/22/2024,R104,Outbound,,222.0,Articulated Bus,78.2,Clear,1.9,False
+2024-02-28,R105,Outbound,193.0,357.0,Standard Bus,68.8,Rain,32.3,No
+2024-12-21,R101,Outbound,556.0,,Articulated Bus,72.4,Clear,-3.0,No
+2024-06-14,R206,Outbound,461.0,415.0,Standard Bus,34.4,Snow,19.5,False
+10-Nov-2024,R101,inbound,,746.0,Standard Bus,35.3,Clear,-7.4,false
+2024-08-11,R101,Outbound,,438.0,Standard Bus,84.7,Overcast,7.1,false
+2024-01-07,R206,Inbound,257.0,73.0,Standard Bus,66.4,Rain,-2.1,0
+2024-04-22,R102,Inbound,309.0,454.0,Articulated Bus,27.4,Snow,21.8,No
+2024-03-02,R206,Outbound,671.0,307.0,Minibus,18.6,Overcast,5.5,No
+2024-08-07,R207,Outbound,74.0,514.0,Standard Bus,999.0,Overcast,19.4,0
+2024-10-04,R206,Outbound,570.0,554.0,Standard Bus,27.9,Rain,21.4,0
+2024-07-02,R208,Outbound,201.0,670.0,Minibus,15.4,Snow,-14.9,false
+2024-08-17,R301,Outbound,44.0,517.0,Articulated Bus,59.9,Clear,8.6,0
+2024-12-23,R205,Outbound,40.0,565.0,Minibus,88.1,Snow,40.6,0
+2024-04-09,R103,Outbound,400.0,132.0,Articulated Bus,37.7,Overcast,40.1,0
+2024-09-05,R208,Outbound,461.0,562.0,articulated,87.1,Clear,21.2,False
+10-Jun-2024,R101,Outbound,617.0,676.0,mini bus,88.9,Snow,38.4,0
+2024-02-21,R103,Inbound,609.0,443.0,Articulated Bus,78.1,Snow,-2.4,false
+2024-02-20,R207,Outbound,106.0,702.0,Standard Bus,66.8,Clear,0.5,false
+2024-11-02,R205,Outbound,417.0,152.0,Articulated Bus,17.4,Clear,27.0,false
+10-Nov-2024,R103,Outbound,691.0,57.0,Minibus,61.5,Overcast,22.1,False
+07/26/2024,R207,Inbound,632.0,702.0,Articulated Bus,26.4,Overcast,10.1,False
+2024-09-10,R103,Inbound,649.0,60.0,Standard Bus,70.6,Clear,30.9,false
+2024-01-12,R105,Outbound,692.0,437.0,Minibus,63.4,Rain,-14.0,false
+2024-02-14,R302,Inbound,764.0,566.0,Articulated Bus,26.6,Snow,10.1,No
+2024-07-27,R302,Inbound,631.0,689.0,Standard Bus,45.2,Overcast,32.5,0
+2024-08-04,R205,Inbound,323.0,554.0,Articulated Bus,79.9,Rain,12.1,0
+2024-07-05,R208,Inbound,520.0,640.0,Standard Bus,62.2,Rain,35.0,False
+2024-09-26,R103,Outbound,704.0,573.0,Minibus,,Snow,-7.6,0
+2024-03-01,R101,Outbound,239.0,741.0,Minibus,66.5,Rain,35.9,No
+2024-12-02,R105,Outbound,506.0,397.0,Articulated Bus,34.7,Rain,-15.0,False
+2024-02-14,R103,Outbound,539.0,442.0,Minibus,82.3,Clear,23.4,false
+2024-08-19,R103,Outbound,118.0,562.0,Standard Bus,42.9,Snow,29.3,false
+2024-05-20,R104,Inbound,577.0,564.0,Articulated Bus,32.0,Clear,6.8,No
+2024-07-26,R205,Inbound,,436.0,Articulated Bus,53.1,Overcast,41.5,No
+2024-09-16,R105,Outbound,,143.0,articulated,46.3,Rain,41.1,false
+2024-08-08,R103,Inbound,459.0,618.0,Articulated Bus,69.8,Clear,36.8,No
+2024-05-13,R302,Outbound,437.0,110.0,Standard Bus,89.2,Rain,19.4,0
+2024-12-07,R206,Inbound,270.0,233.0,Articulated Bus,57.0,Clear,-8.7,False
+2024-04-03,R102,Outbound,323.0,517.0,Articulated Bus,77.9,Rain,30.9,0
+2024-12-30,R103,Outbound,706.0,578.0,Minibus,40.3,Overcast,26.3,No
+2024-08-07,R102,Inbound,267.0,642.0,Standard Bus,46.9,Snow,-12.9,No
+2024-04-18,R205,Outbound,,67.0,Articulated Bus,51.7,Snow,41.2,false
+2024-06-19,R206,Outbound,163.0,125.0,Minibus,35.1,Overcast,31.3,true
+2024-06-16,R103,Outbound,47.0,347.0,Articulated Bus,37.6,Overcast,-4.3,0
+2024-08-21,R105,Inbound,,62.0,Minibus,20.0,Overcast,28.7,No
+2024-02-27,R102,Outbound,772.0,286.0,Minibus,20.9,Rain,16.0,0
+2024-06-05,R102,Inbound,585.0,578.0,Standard Bus,62.8,Snow,,False
+2024-02-25,R205,In,,215.0,Articulated Bus,61.7,Clear,31.0,0
+2024-03-11,R103,Inbound,350.0,654.0,Articulated Bus,75.6,Rain,36.1,False
+2024-08-20,R302,Outbound,511.0,428.0,Standard Bus,30.9,Snow,-4.6,No
+2024-07-09,R102,INBOUND,337.0,750.0,Articulated Bus,47.3,Clear,16.3,False
+2024-11-02,R105,Outbound,88.0,376.0,Articulated Bus,70.3,Snow,-0.6,false
+2024-12-09,R102,Inbound,797.0,472.0,Minibus,82.3,Overcast,15.0,0
+2024-08-08,R104,Inbound,386.0,475.0,Std Bus,79.8,Overcast,11.0,false
+2024-08-17,R302,Outbound,632.0,691.0,Standard Bus,71.7,Overcast,15.8,No
+2024-10-14,R208,Inbound,343.0,624.0,Standard Bus,45.3,Snow,3.6,true
+2024-01-01,R101,Inbound,197.0,410.0,Standard Bus,48.3,Snow,10.7,Yes
+2024-10-28,R302,Inbound,204.0,20.0,Articulated Bus,43.1,Overcast,30.5,False
+2024-09-16,R102,Outbound,144.0,368.0,std bus,67.4,Snow,7.5,false
+2024-05-29,R207,Outbound,552.0,72.0,Minibus,16.0,Clear,15.9,False
+2024-01-23,R103,Inbound,729.0,214.0,Standard Bus,33.7,Clear,12.9,0
+2024-03-11,R301,Outbound,202.0,223.0,Standard Bus,28.7,Snow,40.0,No
+2024-02-21,R207,Outbound,540.0,587.0,Standard Bus,78.8,Overcast,27.2,No
+2024-02-10,R301,Inbound,202.0,378.0,Minibus,57.9,Overcast,30.8,No
+2024-12-10,R105,Inbound,,682.0,Articulated Bus,40.2,Snow,-5.3,False
+2024-03-20,R206,In,403.0,570.0,Articulated Bus,23.7,Overcast,19.9,0
+2024-09-03,R101,Outbound,615.0,692.0,Standard Bus,25.8,Snow,-14.0,False
+2024-08-30,R105,Outbound,120.0,712.0,Minibus,42.6,Clear,10.6,0
+2024-12-23,R103,Outbound,163.0,623.0,Standard Bus,26.3,Clear,14.0,No
+2024-07-10,R302,Outbound,200.0,559.0,Articulated Bus,31.1,Clear,20.8,No
+2024-03-16,R301,Outbound,568.0,184.0,Minibus,43.1,Overcast,12.0,False
+2024-03-20,R208,Inbound,271.0,574.0,Minibus,45.5,Overcast,39.3,False
+2024-12-29,R206,Inbound,234.0,148.0,Minibus,66.2,Snow,3.9,0
+2024-12-21,R103,Inbound,230.0,166.0,Standard Bus,76.3,Clear,28.2,false
+2024-07-25,R302,Inbound,670.0,415.0,Articulated Bus,67.3,Overcast,3.5,0
+2024-12-17,R207,Inbound,683.0,545.0,Minibus,78.8,Overcast,23.3,No
+2024-09-07,R105,Outbound,336.0,309.0,Standard Bus,25.7,Overcast,24.4,False
+2024-03-08,R102,Inbound,321.0,668.0,Standard Bus,82.8,Rain,-1.7,No
+2024-06-03,R208,Outbound,704.0,747.0,Articulated Bus,74.2,Overcast,22.5,No
+2024-12-16,R301,Inbound,551.0,672.0,Articulated Bus,35.8,Clear,33.5,0
+2024-09-12,R205,Inbound,396.0,280.0,Standard Bus,21.9,Rain,4.2,No
+2024-12-02,R301,Outbound,72.0,231.0,Articulated Bus,36.1,Rain,15.9,False
+2024-04-22,R206,Inbound,443.0,156.0,Minibus,60.8,Clear,1.0,false
+2024-08-18,R105,Inbound,47.0,634.0,Minibus,29.0,Snow,35.9,False
+2024-11-10,R302,Inbound,216.0,464.0,Articulated Bus,30.4,Overcast,6.7,False
+2024-12-01,R301,Inbound,577.0,467.0,Articulated Bus,,Snow,37.9,No
+2024-10-14,R205,Outbound,224.0,711.0,Articulated Bus,75.3,Clear,31.6,True
+05/01/2024,R302,In,439.0,264.0,Articulated Bus,69.4,Snow,12.7,0
+20-Apr-2024,R301,Inbound,334.0,676.0,Standard Bus,85.4,Snow,-14.6,false
+2024-12-12,R208,Outbound,192.0,481.0,Minibus,22.9,Overcast,41.3,false
+2024-02-19,R302,Inbound,568.0,155.0,Articulated Bus,71.5,Overcast,28.8,Yes
+2024-08-11,R301,Outbound,289.0,679.0,Minibus,18.0,Clear,27.3,false
+2024-02-24,R103,Inbound,509.0,453.0,Standard Bus,19.3,Rain,8.9,False
+2024-10-22,R207,Inbound,,603.0,Standard Bus,89.4,Overcast,-6.1,No
+03/29/2024,R104,Inbound,365.0,636.0,Standard Bus,29.0,Rain,32.7,False
+2024-04-24,R301,In,445.0,93.0,Minibus,73.0,Overcast,23.3,false
+2024-07-07,R207,Outbound,157.0,359.0,Standard Bus,85.7,Clear,-10.3,0
+2024-09-18,R301,Inbnd,587.0,705.0,Standard Bus,21.7,Overcast,24.2,No
+2024-06-03,R208,Outbound,305.0,85.0,Standard Bus,24.6,Clear,18.2,False
+2024-04-30,R102,Inbound,652.0,69.0,Minibus,71.7,Snow,4.8,false
+2024-09-14,R105,Inbound,566.0,267.0,Minibus,85.5,Snow,8.7,0
+2024-11-24,R206,Inbound,469.0,499.0,Standard Bus,69.9,Overcast,14.4,False
+2024-12-13,R105,Outbound,173.0,418.0,Standard Bus,22.6,Overcast,13.8,false
+2024-05-03,R206,Inbound,190.0,148.0,Standard Bus,66.3,Rain,39.1,No
+2024-05-20,R105,Outbound,698.0,450.0,Minibus,48.9,Rain,7.7,false
+2024-05-18,R102,Inbound,708.0,667.0,articulated,350.0,Snow,33.7,false
+2024-03-08,R103,Inbound,765.0,527.0,Minibus,27.6,Rain,5.2,False
+2024-08-13,R104,Outbound,321.0,245.0,Standard Bus,61.1,Clear,24.2,false
+2024-04-18,R105,Outbound,698.0,563.0,Minibus,77.5,Overcast,9.3,False
+2024-08-04,R112,Outbound,290.0,470.0,Standard Bus,57.8,Rain,14.7,false
+2024-03-22,R205,Outbound,44.0,,Standard Bus,71.4,Rain,30.1,false
+2024-06-30,R104,Inbound,742.0,39.0,Standard Bus,,Overcast,37.0,False
+2024-03-08,R206,Outbound,440.0,543.0,Articulated Bus,54.3,Rain,3.2,False
+2024-12-21,R999,Inbound,770.0,641.0,Standard Bus,79.1,Snow,27.7,0
+2024-03-15,R101,Outbound,146.0,423.0,Standard Bus,47.6,Clear,-0.3,No
+2024-08-25,R207,Outbound,448.0,153.0,Standard Bus,20.7,Rain,7.1,0
+2024-03-05,R208,Outbound,492.0,289.0,Minibus,85.6,Rain,27.2,False
+2024-08-05,R102,Inbound,235.0,400.0,Articulated Bus,71.1,Clear,-12.9,0
+2024-01-22,R205,Inbound,227.0,22.0,Articulated Bus,26.9,Rain,-12.0,False
+2024-10-08,R101,Outbound,,,Minibus,73.6,Snow,27.8,False
+2024-03-06,R208,Inbound,29.0,106.0,Minibus,71.3,Snow,3.1,No
+2024-03-10,R302,Outbound,,682.0,Standard Bus,54.3,Clear,23.0,No
+2024-07-28,R101,Inbound,218.0,440.0,Articulated Bus,77.1,Rain,29.9,False
+2024-03-26,R302,Inbound,300.0,209.0,Minibus,80.6,Overcast,14.4,false
+2024-02-22,R103,Outbound,36.0,344.0,Minibus,66.8,Snow,14.7,false
+2024-10-31,R302,Outbound,380.0,355.0,Articulated Bus,41.0,Overcast,-1.4,false
+2024-11-27,R205,Inbound,525.0,96.0,Standard Bus,77.6,Overcast,-11.8,No
+2024-08-10,R105,Inbound,131.0,324.0,Articulated Bus,40.2,Clear,17.8,No
+2024-04-23,R301,Outbound,243.0,168.0,Articulated Bus,53.0,Clear,17.6,False
+2024-08-23,R205,Outbound,493.0,548.0,Minibus,,Snow,31.3,No
+2024-06-04,R301,Outbound,282.0,94.0,Minibus,66.9,Overcast,,No
+2024-04-30,R207,Inbound,469.0,488.0,Minibus,45.2,Clear,1.8,False
+2024-01-17,R206,Outbound,37.0,453.0,Minibus,67.4,Rain,8.7,false
+06/10/2024,R206,Outbound,789.0,334.0,Articulated Bus,25.2,Clear,24.6,No
+2024-05-10,R104,Outbound,84.0,160.0,Minibus,89.0,Clear,-6.4,False
+2024-07-24,R102,Outbound,148.0,720.0,Minibus,65.4,Overcast,23.9,False
+2024-03-30,R102,Outbound,446.0,235.0,Minibus,40.9,Rain,4.2,0
+2024-02-17,R104,Inbound,181.0,,Articulated Bus,82.1,Overcast,19.1,0
+2024-11-11,R208,Outbound,658.0,54.0,Standard Bus,45.2,Snow,2.0,True
+2024-08-30,R302,Inbound,289.0,621.0,Articulated Bus,45.2,Rain,40.3,No
+03/05/2024,R302,Outbound,789.0,119.0,Minibus,63.5,Clear,35.6,false
+02/15/2024,R103,Outbound,379.0,343.0,Articulated Bus,43.6,Rain,-3.3,0
+2024-10-22,R104,Inbound,480.0,677.0,Articulated Bus,86.4,Rain,4.5,No
+2024-12-04,R208,Outbound,526.0,610.0,Standard Bus,16.4,Snow,9.0,False
+2024-06-12,R105,Inbound,437.0,570.0,Minibus,66.5,Snow,31.4,false
+2024-03-30,R207,Outbound,527.0,318.0,Standard Bus,38.4,Clear,,false
+2024-06-17,R301,INBOUND,595.0,363.0,Minibus,79.4,Snow,-5.3,false
+2024-07-23,R302,Outbound,328.0,536.0,Articulated Bus,76.0,Clear,-0.3,False
+2024-08-25,R208,Outbound,618.0,667.0,Articulated Bus,69.1,Snow,6.9,False
+2024-11-29,R101,Outbound,721.0,166.0,Articulated Bus,42.9,Overcast,-14.0,No
+2024-01-21,R206,Outbound,61.0,370.0,Minibus,52.4,Snow,-11.2,False
+2024-02-08,R205,Inbound,84.0,370.0,Minibus,21.4,Snow,-12.5,0
+2024-10-28,R206,Outbound,376.0,430.0,Standard Bus,31.3,Clear,-7.4,No
+2024-10-15,R104,inbound,594.0,157.0,Minibus,,Snow,5.3,false
+2024-05-16,R103,Inbound,118.0,698.0,Articulated Bus,62.8,Clear,,false
+09/25/2024,R206,Inbound,670.0,135.0,Standard Bus,68.8,Snow,29.3,False
+22-Nov-2024,R301,Inbound,164.0,552.0,Minibus,80.2,Rain,17.5,false
+2024-06-18,R302,Inbound,608.0,607.0,Minibus,69.7,Rain,26.9,false
+2024-02-21,R103,Inbound,402.0,223.0,Standard Bus,49.6,Clear,32.2,False
+2024-04-03,R301,Outbound,308.0,492.0,Minibus,82.0,Rain,30.0,False
+2024-10-21,R206,Outbound,250.0,204.0,Standard Bus,23.3,Snow,-2.0,No
+2024-06-19,R301,Inbound,135.0,351.0,Articulated Bus,78.5,Overcast,35.9,Yes
+2024-02-16,R302,Inbound,770.0,237.0,Standard Bus,88.0,Clear,11.5,No
+15-Nov-2024,R208,Inbound,496.0,718.0,Minibus,,Snow,-7.1,false
+2024-03-04,R207,Inbound,68.0,168.0,Minibus,34.2,Rain,2.2,0
+2024-06-22,R205,Outbound,556.0,87.0,Standard Bus,79.4,Overcast,39.9,False
+2024-05-27,R999,Outbound,430.0,391.0,Standard Bus,49.0,Clear,2.2,0
+2024-05-24,R206,Inbound,621.0,355.0,Articulated Bus,47.9,Overcast,-2.5,false
+2024-05-04,R103,Outbound,114.0,240.0,Minibus,81.4,Rain,-14.4,False
+08/02/2024,R103,Outbound,685.0,396.0,Articulated Bus,43.4,Overcast,40.5,0
+2024-09-03,R103,Inbound,200.0,370.0,Minibus,27.5,Rain,37.7,False
+2024-08-18,R206,Outbound,493.0,615.0,Standard Bus,84.7,Overcast,3.9,False
+2024-10-16,R205,Inbound,523.0,385.0,Articulated Bus,43.5,Clear,3.0,0
+2024-09-30,R206,Inbound,713.0,127.0,Minibus,48.3,Snow,23.5,0
+2024-12-27,R207,Inbound,32.0,353.0,Articulated Bus,40.7,Clear,33.6,0
+06/01/2024,R102,Outbound,106.0,,Standard Bus,22.7,Overcast,18.3,0
+2024-08-13,R302,Outbound,142.0,401.0,Standard Bus,28.8,Overcast,-3.5,0
+2024-09-26,R301,Inbound,653.0,557.0,Standard Bus,38.9,Overcast,36.6,false
+2024-12-18,R105,Outbound,544.0,691.0,Minibus,83.3,Rain,32.8,No
+2024-03-31,R104,Outbound,122.0,160.0,Articulated Bus,78.4,Rain,-10.5,No
+2024-08-28,R205,Inbound,530.0,399.0,Articulated Bus,16.0,Snow,-10.7,false
+2024-08-20,R208,Outbound,58.0,676.0,Standard Bus,54.1,Rain,30.3,0
+2024-09-18,R205,Outbound,82.0,267.0,Minibus,38.8,Snow,-0.2,0
+2024-05-03,R208,Outbound,87.0,426.0,Articulated Bus,63.2,Overcast,31.2,0
+2024-08-15,R104,Inbound,219.0,385.0,Articulated Bus,62.3,Overcast,-13.6,False
+2024-09-16,R207,Outbound,221.0,46.0,Minibus,27.5,Snow,29.5,false
+07/19/2024,R301,Inbound,238.0,683.0,Standard Bus,84.4,Snow,-11.1,No
+2024-12-10,R208,Outbound,521.0,159.0,Minibus,36.0,Overcast,8.4,No
+2024-06-23,R302,outbound,722.0,,Standard Bus,28.0,Overcast,26.3,false
+2024-04-21,R103,Inbound,211.0,686.0,Standard Bus,40.6,Overcast,4.3,false
+2024-06-15,R103,Inbound,556.0,93.0,Standard Bus,87.2,Clear,16.3,false
+2024-06-20,R206,Inbound,693.0,261.0,mini bus,23.7,Rain,-13.4,False
+2024-10-12,R301,Outbound,771.0,641.0,Articulated Bus,50.9,Overcast,18.4,No
+2024-10-29,R208,Outbound,58.0,17.0,Articulated Bus,74.2,Snow,19.4,false
+2024-01-23,R206,Outbound,223.0,232.0,Minibus,72.3,Rain,31.0,false
+2024-02-11,R207,Inbound,98.0,593.0,Articulated Bus,29.4,Snow,-6.7,false
+2024-10-25,R205,Outbound,149.0,581.0,Standard Bus,77.2,Snow,14.0,False
+2024-09-26,R205,Outbound,647.0,127.0,Articulated Bus,59.9,Overcast,26.9,false
+2024-05-29,R301,Inbound,383.0,144.0,Articulated Bus,61.5,Clear,21.4,False
+2024-07-27,R101,Inbound,288.0,429.0,Standard Bus,,Snow,38.2,0
+2024-05-02,R103,Inbound,,503.0,Standard Bus,66.8,Clear,7.0,false
+2024-07-11,R102,Inbound,559.0,746.0,Minibus,42.0,Snow,-0.2,No
+2024-06-25,R102,Inbound,226.0,367.0,Minibus,,Overcast,-5.1,0
+2024-03-02,R208,Inbound,30.0,343.0,Minibus,21.4,Clear,31.0,False
+2024-09-11,R205,Outbound,593.0,455.0,Standard Bus,,Snow,15.5,0
+2024-08-02,R206,Inbound,799.0,,Standard Bus,63.8,Rain,32.0,0
+2024-07-26,R206,Inbound,500.0,308.0,Standard Bus,66.2,Overcast,39.1,No
+2024-08-06,R206,INBOUND,294.0,733.0,Minibus,16.4,Rain,24.3,No
+2024-12-14,R112,Inbound,706.0,,Minibus,43.7,Snow,41.0,false
+2024-04-16,R103,Inbound,283.0,,Standard Bus,76.0,Snow,25.3,0
+2024-09-12,R207,Inbound,351.0,620.0,Minibus,20.5,Rain,20.7,False
+2024-11-11,R205,Outbound,257.0,369.0,Articulated Bus,15.2,Snow,-5.1,1
+2024-10-16,R103,Outbound,684.0,26.0,Articulated Bus,26.2,Clear,15.0,False
+2024-04-23,R205,Inbound,304.0,77.0,Minibus,35.8,Snow,-2.5,False
+2024-05-31,R103,Outbound,502.0,182.0,Standard Bus,56.1,Overcast,8.0,False
+2024-01-09,R101,Outbound,538.0,220.0,Articulated Bus,61.9,Overcast,17.6,False
+2024-09-03,R208,Inbound,393.0,595.0,Minibus,88.3,Rain,40.0,0
+2024-04-08,R206,Inbound,121.0,205.0,Standard Bus,53.2,Rain,6.0,0
+2024-12-10,R105,Outbound,728.0,684.0,Articulated Bus,52.4,Rain,19.4,False
+2024-07-09,R208,Outbound,793.0,129.0,Minibus,53.2,Rain,16.1,false
+2024-06-08,R101,Inbound,466.0,80.0,Articulated Bus,19.9,Overcast,11.4,No
+2024-05-20,R301,Inbound,59.0,303.0,Standard Bus,80.9,Rain,30.5,0
+2024-11-17,R207,Outbound,780.0,719.0,Minibus,71.6,Clear,2.6,False
+2024-04-11,R301,Inbound,663.0,278.0,Articulated Bus,79.6,Rain,38.9,False
+2024-12-21,R105,INBOUND,103.0,629.0,Standard Bus,89.1,Clear,-2.2,0
+2024-07-22,R301,Inbound,54.0,323.0,Std Bus,66.5,Rain,39.8,False
+2024-07-28,R205,Inbound,359.0,143.0,Articulated Bus,26.7,Rain,16.2,0
+2024-08-29,R101,Outbound,695.0,104.0,Articulated Bus,44.1,Rain,-1.9,No
+2024-06-22,R104,Outbound,600.0,701.0,Standard Bus,32.6,Rain,34.5,No
+06/19/2024,R105,Inbound,495.0,491.0,Standard Bus,37.2,Snow,37.3,1
+2024-05-20,R208,Inbound,,512.0,Articulated Bus,34.6,Snow,1.9,No
+2024-11-15,R301,Inbound,707.0,22.0,Articulated Bus,16.6,Rain,21.0,False
+2024-09-03,R105,Outbound,789.0,388.0,Minibus,51.5,Overcast,37.5,False
+2024-09-01,R208,Inbound,323.0,451.0,Articulated Bus,61.7,Clear,2.6,No
+2024-11-17,R301,Outbound,624.0,393.0,Minibus,69.3,Snow,-14.5,0
+2024-01-29,R102,Outbound,322.0,325.0,Minibus,55.2,Snow,-9.5,false
+2024-02-25,R206,Outbound,720.0,31.0,Minibus,83.8,Overcast,36.8,false
+2024-11-27,R102,Outbound,733.0,,Articulated Bus,81.5,Overcast,8.9,false
+2024-11-10,R104,Inbound,324.0,540.0,Standard Bus,37.1,Overcast,41.8,false
+13-Dec-2024,R103,Inbound,312.0,21.0,Minibus,68.0,Rain,-4.1,0
+2024-08-28,R207,Outbound,720.0,657.0,Standard Bus,32.3,Overcast,24.1,No
+2024-12-04,R103,Outbound,733.0,49.0,Minibus,31.5,Snow,8.8,No
+02/23/2024,R302,Inbound,381.0,328.0,Standard Bus,85.6,Overcast,35.0,False
+2024-07-31,R105,Outbound,276.0,249.0,Standard Bus,43.8,Snow,10.3,false
+2024-12-15,R208,Inbound,289.0,168.0,Articulated Bus,87.5,Snow,-7.7,False
+2024-06-04,R206,Inbound,631.0,533.0,Standard Bus,16.9,Rain,29.9,No
+2024-08-01,R207,Inbound,331.0,255.0,Standard Bus,57.5,Rain,-0.4,0
+2024-12-28,R105,Outbound,64.0,660.0,Articulated Bus,59.2,Overcast,-11.2,false
+2024-11-12,R103,Outbound,75.0,364.0,Minibus,26.8,Clear,6.5,No
+2024-03-30,R104,Inbound,407.0,263.0,Standard Bus,68.6,Rain,-11.1,No
+2024-01-20,R101,Outbound,299.0,636.0,Minibus,21.7,Rain,19.3,False
+2024-05-10,R104,Inbound,600.0,145.0,Standard Bus,69.4,Clear,-4.1,No
+2024-01-08,R103,Outbound,691.0,187.0,Articulated Bus,18.2,Rain,35.8,false
+2024-05-06,R104,Inbound,32.0,508.0,Articulated Bus,31.6,Clear,26.8,0
+2024-09-03,R102,Inbound,712.0,380.0,Standard Bus,38.2,Overcast,-3.5,false
+2024-01-08,R206,In,251.0,,Standard Bus,82.6,Rain,-3.4,0
+2024-03-22,R105,Inbound,252.0,123.0,Minibus,51.0,Snow,18.3,False
+2024-01-23,R103,Outbound,246.0,458.0,Articulated Bus,48.5,Overcast,26.4,0
+2024-10-12,R208,Inbound,186.0,523.0,Standard Bus,79.6,Overcast,0.6,False
+2024-01-07,R208,Inbound,545.0,535.0,Standard Bus,55.6,Overcast,21.1,0
+2024-04-18,R206,Inbound,425.0,83.0,Standard Bus,51.3,Rain,0.4,No
+2024-06-20,R101,Outbound,637.0,750.0,Standard Bus,28.4,Snow,13.1,false
+2024-10-17,R205,Inbound,326.0,608.0,Standard Bus,16.6,Clear,22.2,0
+2024-03-06,R208,Inbound,292.0,76.0,Standard Bus,52.2,Overcast,7.2,0
+2024-11-06,R205,Inbound,,735.0,Standard Bus,,Clear,41.5,0
+2024-12-03,R105,Inbound,729.0,596.0,Minibus,33.4,Rain,-5.8,False
+2024-01-18,R104,Outbound,113.0,182.0,Standard Bus,68.6,Clear,-1.3,0
+2024-06-14,R207,Outbnd,38.0,325.0,Minibus,31.0,Snow,-14.3,false
+2024-05-03,R205,Outbound,20.0,581.0,Minibus,32.1,Overcast,19.6,0
+2024-05-22,R206,Outbound,217.0,225.0,Standard Bus,43.3,Overcast,8.6,No
+07/12/2024,R208,Outbound,248.0,623.0,Standard Bus,,Snow,31.3,No
+2024-07-14,R207,Outbound,112.0,640.0,Articulated Bus,58.7,Overcast,5.3,false
+2024-07-10,R302,Outbound,200.0,480.0,Articulated Bus,41.6,Rain,22.4,False
+2024-10-23,R102,Inbound,329.0,610.0,Minibus,67.4,Overcast,1.7,No
+2024-09-17,R105,Inbound,147.0,412.0,std bus,35.9,Rain,-2.6,No
+2024-03-19,R104,Outbound,724.0,461.0,Standard Bus,24.6,Clear,22.1,0
+2024-04-28,R105,Outbound,573.0,624.0,Articulated Bus,78.0,Snow,4.3,0
+2024-08-06,R301,Outbound,107.0,567.0,Articulated Bus,33.2,Snow,41.2,0
+2024-05-28,R102,Outbound,,,Articulated Bus,48.1,Clear,-7.6,0
+2024-01-10,R205,Outbound,734.0,55.0,Standard Bus,17.9,Clear,-12.9,False
+2024-07-16,R302,Outbound,516.0,613.0,Minibus,74.6,Snow,20.6,No
+2024-02-08,R101,Inbound,532.0,310.0,Standard Bus,69.1,Overcast,-12.3,No
+2024-10-28,R207,Inbound,665.0,225.0,Minibus,72.0,Snow,41.3,0
+2024-09-15,R301,Inbound,720.0,35.0,Minibus,26.7,Rain,-6.1,No
+2024-01-19,R105,Inbound,304.0,411.0,Standard Bus,31.1,Rain,6.5,0
+2024-08-02,R208,Inbound,343.0,687.0,Minibus,49.2,Snow,6.0,No
+2024-10-20,R104,Outbound,621.0,458.0,Minibus,79.2,Clear,7.6,false
+11/01/2024,R101,Inbnd,331.0,549.0,Standard Bus,34.1,Snow,27.3,No
+2024-04-04,R206,Inbound,610.0,696.0,Standard Bus,47.4,Overcast,41.9,No
+02/22/2024,R206,In,372.0,71.0,Articulated Bus,-12.3,Overcast,17.4,False
+2024-11-01,R302,Outbound,510.0,269.0,Minibus,28.0,Rain,20.5,0
+2024-03-31,R206,Outbound,,230.0,Standard Bus,38.1,Rain,-1.2,false
+2024-12-10,R104,Inbound,628.0,544.0,Articulated Bus,69.2,Overcast,-1.8,No
+2024-05-03,R208,Outbound,536.0,473.0,Standard Bus,82.4,Rain,20.5,false
+10/02/2024,R102,Inbound,702.0,736.0,Minibus,43.7,Clear,-2.7,0
+2024-09-04,R207,Outbound,205.0,412.0,Articulated Bus,54.7,Clear,18.3,False
+2024-12-26,R302,Inbound,723.0,589.0,Minibus,88.3,Clear,8.2,false
+2024-08-05,R301,INBOUND,641.0,102.0,Standard Bus,61.3,Snow,35.4,No
+2024-07-31,R101,Inbound,458.0,292.0,Articulated Bus,32.0,Snow,20.0,0
+10/27/2024,R103,Inbound,410.0,284.0,Minibus,47.8,Rain,2.7,false
+2024-02-10,R103,Outbound,251.0,342.0,Articulated Bus,58.7,Clear,26.6,false
+2024-03-31,R101,Inbound,794.0,,Minibus,31.2,Overcast,-2.4,False
+2024-01-06,R104,Inbound,608.0,194.0,Minibus,31.9,Clear,-5.0,false
+2024-08-26,R104,Outbound,590.0,257.0,Articulated Bus,32.5,Overcast,-6.1,False
+2024-04-29,R206,Inbound,353.0,363.0,Articulated Bus,54.0,Rain,10.1,0
+2024-09-10,R302,Inbound,527.0,412.0,Standard Bus,31.4,Overcast,-8.1,False
+2024-09-24,R207,Outbound,137.0,728.0,Articulated Bus,,Overcast,38.9,false
+2024-02-26,R103,Inbound,395.0,277.0,Standard Bus,63.1,Snow,11.6,False
+2024-06-03,R208,Outbound,,113.0,Standard Bus,55.0,Rain,41.8,No
+2024-01-01,R103,Outbound,557.0,175.0,Minibus,22.8,Overcast,22.4,true
+2024-10-02,R301,Outbound,270.0,155.0,Minibus,43.8,Overcast,38.2,False
+2024-05-15,R104,Inbound,308.0,738.0,Minibus,,Overcast,-8.9,No
+2024-08-29,R104,Outbound,,,Minibus,29.9,Rain,1.2,No
+2024-10-03,R206,Outbound,87.0,473.0,Minibus,61.0,Overcast,30.9,False
+17-Nov-2024,R105,inbound,457.0,,Articulated Bus,47.2,Rain,23.4,No
+03/29/2024,R105,Outbound,745.0,73.0,Standard Bus,75.2,Clear,41.2,false
+2024-08-18,R101,Outbound,549.0,104.0,Minibus,35.8,Snow,38.6,false
+2024-05-04,R102,Inbound,90.0,,Articulated Bus,,Clear,36.1,False
+12/13/2024,R207,Outbound,605.0,22.0,Articulated Bus,36.5,Overcast,30.2,False
+2024-05-20,R101,Inbound,505.0,234.0,Minibus,30.2,Rain,-4.5,false
+2024-10-18,R105,Outbnd,346.0,29.0,Minibus,73.3,Snow,31.9,0
+2024-12-30,R205,Inbound,,582.0,Articulated Bus,54.8,Overcast,11.7,False
+2024-01-31,R207,Outbound,693.0,453.0,Minibus,71.5,Overcast,26.8,No
+2024-04-26,R301,Outbound,460.0,100.0,Standard Bus,38.1,Overcast,13.0,No
+2024-11-27,R103,Inbound,343.0,712.0,Minibus,,Clear,16.9,0
+2024-07-24,R103,Outbound,446.0,289.0,Minibus,66.7,Clear,-0.6,0
+2024-02-05,R205,Inbound,522.0,28.0,Standard Bus,67.2,Clear,-4.0,0
+2024-09-22,R205,Inbound,566.0,197.0,Articulated Bus,25.7,Overcast,22.5,No
+2024-04-16,R301,Outbound,127.0,682.0,Articulated Bus,55.0,Overcast,34.1,False
+05/10/2024,R207,Outbound,722.0,65.0,Articulated Bus,22.3,Clear,-11.3,False
+2024-12-02,R205,Outbound,291.0,157.0,Standard Bus,26.5,Snow,35.5,0
+2024-12-01,R302,Outbound,350.0,118.0,Articulated Bus,47.3,Rain,1.4,False
+2024-02-08,R302,Inbound,683.0,442.0,Standard Bus,33.0,Rain,11.8,No
+2024-04-18,R302,Inbnd,110.0,84.0,Standard Bus,37.6,Overcast,36.3,false
+2024-06-19,R302,Outbound,,551.0,Articulated Bus,420.5,Rain,14.9,True
+01/15/2024,R301,Inbound,747.0,277.0,Std Bus,24.4,Rain,27.0,Yes
+2024-10-10,R207,Inbound,694.0,706.0,Articulated Bus,82.9,Rain,27.2,False
+2024-04-22,R301,Outbound,385.0,713.0,Minibus,53.6,Overcast,27.0,False
+2024-09-10,R101,Inbound,719.0,386.0,Minibus,37.6,Snow,-0.8,No
+2024-02-26,R105,Outbound,799.0,247.0,Standard Bus,55.8,Rain,21.3,false
+2024-09-01,R301,Inbound,,,Standard Bus,42.1,Rain,11.9,0
+04/26/2024,R102,Inbound,221.0,52.0,Standard Bus,27.5,Snow,-4.7,false
+07-Sep-2024,R104,Outbound,229.0,623.0,Articulated Bus,85.2,Clear,-4.4,false
+2024-09-14,R208,Outbound,739.0,428.0,Minibus,85.6,Overcast,34.7,False
+2024-04-16,R208,Outbound,94.0,284.0,Standard Bus,88.5,Snow,34.5,False
+2024-01-24,R101,Outbound,777.0,656.0,Standard Bus,19.6,Clear,15.5,No
+2024-03-21,R301,Outbound,265.0,605.0,Standard Bus,58.7,Overcast,23.8,false
+2024-01-01,R102,Inbound,472.0,206.0,Standard Bus,58.6,Snow,13.8,1
+2024-03-13,R301,Outbound,502.0,678.0,Standard Bus,17.7,Snow,14.0,0
+2024-06-15,R103,Inbound,49.0,59.0,Minibus,40.3,Overcast,30.8,No
+2024-01-19,R104,Outbound,685.0,408.0,Articulated Bus,58.7,Snow,-4.4,0
+2024-03-06,R301,Outbound,770.0,379.0,Standard Bus,50.7,Overcast,41.8,False
+2024-10-10,R205,Outbound,50.0,254.0,Standard Bus,19.0,Overcast,-8.9,0
+2024-02-11,R103,Outbound,496.0,724.0,Articulated Bus,20.8,Snow,39.5,False
+2024-11-15,R208,Outbound,86.0,395.0,Minibus,49.3,Rain,-4.2,0
+2024-04-05,R301,outbound,118.0,292.0,Articulated Bus,-5.0,Overcast,11.0,No
+2024-03-31,R302,Outbound,77.0,360.0,Articulated Bus,16.9,Overcast,39.9,No
+2024-07-11,R101,Outbound,434.0,476.0,Standard Bus,83.7,Rain,25.3,false
+2024-08-20,R206,Outbound,440.0,715.0,Articulated Bus,70.8,Clear,19.9,False
+2024-06-25,R103,Outbound,557.0,68.0,Articulated Bus,50.0,Snow,-10.6,False
+06/04/2024,R207,outbound,39.0,572.0,Standard Bus,,Snow,40.3,False
+2024-10-22,R207,Outbound,440.0,721.0,Standard Bus,22.1,Overcast,32.1,false
+2024-01-01,R103,Outbound,363.0,729.0,Standard Bus,27.8,Overcast,6.9,True
+2024-01-10,R102,Outbound,248.0,608.0,Articulated Bus,,Rain,20.9,false
+06/17/2024,R101,Outbnd,615.0,290.0,Standard Bus,69.6,Clear,19.2,False
+01/11/2024,R206,Outbound,334.0,182.0,Standard Bus,18.9,Overcast,13.8,false
+2024-01-31,R103,Outbound,498.0,459.0,Articulated Bus,85.2,Rain,11.1,False
+2024-10-10,R301,Outbound,203.0,104.0,Standard Bus,45.1,Rain,-6.2,0
+2024-05-02,R101,Inbound,23.0,660.0,Standard Bus,-12.3,Overcast,13.0,false
+2024-07-17,R101,Inbound,435.0,567.0,Standard Bus,,Snow,34.6,0
+2024-05-20,R207,Outbound,119.0,635.0,Standard Bus,71.6,Rain,-13.0,false
+2024-07-05,R205,Outbound,336.0,226.0,Articulated Bus,32.3,Rain,-14.9,No
+2024-08-28,R104,Inbound,31.0,101.0,Standard Bus,63.8,Snow,12.3,No
+2024-04-30,R207,Inbound,469.0,488.0,Minibus,45.2,Clear,1.8,False
+2024-06-30,R208,Inbound,540.0,647.0,Minibus,89.0,Snow,-11.8,false
+2024-08-31,R302,Outbound,363.0,68.0,Standard Bus,80.5,Snow,41.7,false
+2024-11-26,R302,Inbound,581.0,127.0,Standard Bus,49.6,Snow,38.6,False
+05/26/2024,R105,Inbound,180.0,214.0,Standard Bus,54.1,Snow,23.1,False
+2024-12-13,R208,Outbound,469.0,378.0,Articulated Bus,49.4,Rain,5.4,0
+2024-03-03,R205,Outbound,708.0,191.0,Standard Bus,88.4,Snow,7.0,False
+2024-04-12,R101,Inbound,683.0,587.0,Standard Bus,32.1,Snow,8.0,False
+2024-06-16,R208,Outbound,778.0,446.0,Articulated Bus,62.3,Overcast,25.7,false
+2024-04-12,R104,Outbound,643.0,,Minibus,27.4,Rain,-14.9,false
+2024-01-11,R102,Outbound,487.0,33.0,Minibus,50.4,Rain,-2.0,No
+2024-01-23,R102,Inbound,264.0,556.0,Articulated Bus,24.8,Clear,32.6,0
+2024-10-10,R301,Outbound,468.0,455.0,Minibus,39.9,Snow,12.5,False
+2024-12-31,R102,Inbound,,,Standard Bus,28.7,Rain,38.3,False
+2024-06-06,R207,Outbound,249.0,133.0,Standard Bus,73.0,Rain,29.1,False
+2024-06-26,R302,Inbound,37.0,131.0,Articulated Bus,62.0,Rain,5.4,No
+2024-04-24,R207,Outbound,76.0,737.0,Standard Bus,60.9,Clear,6.1,No
+2024-02-13,R103,Outbound,171.0,576.0,Articulated Bus,80.0,Overcast,,No
+2024-01-03,R105,Outbound,,81.0,Articulated Bus,74.3,Overcast,2.4,No
+2024-05-24,R205,Outbound,248.0,404.0,Minibus,57.6,Rain,18.0,false
+2024-01-13,R207,Outbound,105.0,530.0,Articulated Bus,26.0,Overcast,4.5,False
+2024-02-09,R105,Inbound,267.0,57.0,Articulated Bus,62.8,Rain,-1.2,false
+2024-09-02,R302,Inbound,173.0,110.0,Articulated Bus,59.5,Clear,36.1,1
+2024-02-05,R208,Inbound,711.0,296.0,Minibus,60.6,Rain,-1.1,False
+2024-04-07,R101,Outbound,441.0,353.0,Articulated Bus,58.6,Overcast,34.2,false
+2024-05-08,R208,INBOUND,504.0,98.0,Standard Bus,88.0,Overcast,28.3,0
+2024-05-09,R102,Outbound,244.0,248.0,Standard Bus,40.3,Clear,38.7,False
+08/20/2024,R206,Outbound,694.0,365.0,Standard Bus,-12.3,Overcast,8.4,False
+2024-12-28,R302,Outbound,569.0,455.0,Articulated Bus,,Clear,-0.8,No
+2024-04-26,R207,Inbound,462.0,32.0,Articulated Bus,20.6,Clear,-8.9,No
+2024-08-12,R205,Inbound,403.0,704.0,Minibus,61.7,Rain,5.3,false
+2024-03-28,R205,Inbound,292.0,250.0,Standard Bus,33.6,Rain,16.8,false
+2024-04-17,R302,Inbound,721.0,648.0,Minibus,46.7,Overcast,5.2,false
+2024-02-26,R207,Inbound,322.0,301.0,Articulated Bus,32.7,Snow,-10.8,0
+2024-05-27,R101,Inbound,501.0,117.0,Minibus,83.0,Rain,-11.8,1
+2024-04-07,R205,Outbound,654.0,23.0,Minibus,85.2,Snow,-12.0,No
+2024-03-19,R207,Outbound,729.0,577.0,Standard Bus,85.6,Rain,-0.2,False
+2024-09-12,R206,Outbound,205.0,232.0,Standard Bus,79.9,Overcast,19.2,False
+2024-07-21,R105,Inbound,653.0,508.0,Standard Bus,23.1,Overcast,28.8,false
+2024-10-12,R207,In,718.0,,Articulated Bus,50.0,Snow,28.4,False
+2024-01-28,R102,Inbound,637.0,486.0,mini bus,70.4,Rain,2.5,No
+2024-01-27,R206,Outbound,681.0,287.0,Articulated Bus,78.1,Rain,11.9,0
+2024-04-07,R208,Outbound,84.0,369.0,Minibus,41.6,Snow,8.6,0
+2024-06-27,R105,Outbound,717.0,113.0,Minibus,47.1,Overcast,21.8,False
+2024-10-23,R301,Outbound,250.0,704.0,Standard Bus,24.8,Overcast,35.5,False
+2024-07-16,R302,Inbound,357.0,720.0,Articulated Bus,66.9,Clear,,false
+2024-08-01,R207,Inbound,,257.0,Articulated Bus,36.0,Overcast,6.1,0
+2024-12-03,R206,Outbound,407.0,16.0,Articulated Bus,46.9,Overcast,-3.1,false
+2024-05-13,R104,Inbound,774.0,544.0,Standard Bus,79.3,Snow,26.7,No
+2024-03-01,R105,Inbound,418.0,120.0,Articulated Bus,38.5,Overcast,15.7,0
+2024-12-19,R302,Inbound,267.0,378.0,Articulated Bus,33.3,Overcast,23.3,No
+2024-04-13,R101,Outbound,745.0,515.0,Standard Bus,35.2,Overcast,30.5,No
+2024-08-04,R103,Outbound,356.0,40.0,Minibus,80.1,Rain,,false
+2024-09-21,R105,Inbound,704.0,304.0,Standard Bus,15.5,Overcast,-9.2,False
+2024-03-02,R208,Outbound,569.0,433.0,Standard Bus,41.2,Overcast,38.0,0
+2024-08-17,R206,Outbound,515.0,672.0,Minibus,62.6,Overcast,28.9,False
+2024-09-28,R206,Inbound,627.0,436.0,Articulated Bus,,Clear,17.6,No
+2024-09-06,R101,Outbound,540.0,665.0,Minibus,62.1,Overcast,12.5,false
+05/19/2024,R302,inbound,629.0,281.0,Standard Bus,80.8,Snow,0.1,false
+2024-12-30,R206,Outbound,560.0,209.0,Standard Bus,63.8,Snow,27.3,0
+2024-06-09,R102,Inbound,595.0,339.0,Articulated Bus,54.8,Clear,33.0,false
+2024-07-28,R208,Inbound,557.0,538.0,Minibus,41.4,Snow,10.1,False
+2024-04-09,R205,Outbound,526.0,379.0,Articulated Bus,26.6,Snow,,false
+2024-11-11,R301,Inbound,480.0,722.0,Articulated Bus,46.0,Clear,23.7,True
+2024-08-04,R208,Outbound,110.0,494.0,Minibus,65.6,Overcast,-14.7,False
+2024-07-08,R105,Inbound,310.0,,Minibus,40.9,Clear,30.8,0
+2024-07-02,R301,outbound,431.0,687.0,Standard Bus,55.6,Clear,-12.0,false
+2024-01-02,R208,Inbound,287.0,336.0,standard bus,79.2,Snow,8.8,No
+2024-10-14,R102,Inbound,426.0,633.0,Minibus,15.6,Overcast,21.9,True
+2024-09-21,R105,Inbound,704.0,304.0,Standard Bus,15.5,Overcast,-9.2,False
+2024-09-24,R205,Outbound,490.0,232.0,Minibus,58.7,Rain,41.4,0
+2024-03-10,R302,Outbound,379.0,399.0,Minibus,29.2,Clear,11.3,False
+12/05/2024,R302,Outbound,510.0,466.0,Standard Bus,85.8,Clear,-7.0,0
+04/26/2024,R104,Inbound,,279.0,Minibus,41.0,Clear,7.3,0
+2024-03-12,R102,Outbound,334.0,391.0,Articulated Bus,32.8,Overcast,-9.2,False
+2024-04-10,R205,Inbound,495.0,723.0,Articulated Bus,90.0,Rain,41.8,false
+09/04/2024,R302,Outbound,628.0,460.0,Minibus,47.5,Rain,15.5,No
+2024-03-07,R104,Outbound,128.0,750.0,Articulated Bus,40.5,Overcast,15.9,False
+2024-07-26,R102,Inbound,568.0,366.0,Minibus,55.7,Overcast,13.1,false
+12/13/2024,R301,Inbound,285.0,224.0,Articulated Bus,25.4,Snow,-8.4,0
+2024-09-17,R206,Outbound,140.0,146.0,Minibus,58.7,Overcast,-7.9,No
+2024-06-14,R102,Inbound,730.0,688.0,Articulated Bus,,Snow,-0.0,false
+04-Sep-2024,R207,Inbound,747.0,186.0,Articulated Bus,24.7,Clear,26.0,No
+2024-08-28,R206,Outbound,712.0,325.0,Articulated Bus,,Snow,-9.7,False
+2024-09-19,R302,Outbound,127.0,,Articulated Bus,80.8,Rain,9.7,False
+2024-11-30,R105,Inbound,337.0,478.0,Standard Bus,32.4,Rain,27.8,false
+2024-03-08,R103,Inbound,375.0,709.0,std bus,77.8,Overcast,20.3,No
+2024-03-11,R205,Inbound,684.0,290.0,Articulated Bus,57.7,Rain,34.5,false
+2024-11-07,R103,Inbound,302.0,697.0,Minibus,70.8,Rain,25.5,False
+2024-11-07,R302,Inbound,242.0,477.0,Minibus,,Rain,37.2,false
+2024-04-29,R207,Inbound,212.0,251.0,Articulated Bus,19.1,Clear,18.0,false
+2024-04-05,R102,Outbound,47.0,564.0,Minibus,86.0,Overcast,35.4,No
+2024-05-22,R102,Outbound,242.0,20.0,Standard Bus,44.8,Rain,40.3,No
+2024-03-03,R207,Inbound,701.0,571.0,Articulated Bus,37.2,Snow,-9.0,No
+2024-09-29,R101,Outbound,41.0,44.0,Standard Bus,54.0,Snow,-6.9,False
+2024-06-14,R103,Inbound,44.0,667.0,Standard Bus,,Overcast,-11.1,No
+2024-09-30,R102,Inbound,646.0,205.0,Standard Bus,64.3,Snow,17.2,No
+10/26/2024,R208,Outbound,140.0,315.0,Standard Bus,43.5,Overcast,-9.0,No
+04/12/2024,R103,Outbound,343.0,155.0,Articulated Bus,41.4,Overcast,,0
+2024-02-26,R207,Inbound,135.0,284.0,Standard Bus,65.3,Rain,24.7,0
+2024-05-28,R205,Inbound,122.0,210.0,Standard Bus,78.2,Overcast,-3.9,False
+2024-10-30,R207,Outbound,170.0,,Standard Bus,37.8,Overcast,29.6,0
+2024-11-29,R302,Outbound,614.0,193.0,Articulated Bus,15.9,Clear,23.4,false
+2024-10-30,R104,Inbound,649.0,33.0,Minibus,,Snow,-9.7,No
+05/15/2024,R101,Inbound,486.0,381.0,Standard Bus,84.1,Rain,31.3,0
+2024-06-23,R302,Outbound,490.0,480.0,Articulated Bus,45.1,Clear,-6.0,0
+2024-03-16,R301,Inbound,375.0,338.0,Standard Bus,74.3,Clear,-13.7,false
+2024-02-06,R208,Inbound,54.0,220.0,Articulated Bus,44.3,Overcast,-4.6,False
+2024-02-14,R105,Outbound,180.0,30.0,mini bus,47.0,Overcast,35.0,0
+2024-06-17,R103,Outbound,239.0,,Articulated Bus,33.7,Clear,0.5,False
+2024-03-30,R104,Outbound,21.0,239.0,Articulated Bus,21.6,Overcast,5.0,No
+2024-02-18,R301,Inbound,650.0,447.0,Standard Bus,57.9,Snow,-4.5,0
+02-Jun-2024,R302,Inbound,,,Minibus,65.4,Clear,14.7,0
+2024-10-08,R302,Outbound,446.0,53.0,Minibus,73.6,Rain,39.7,false
+2024-08-22,R301,Inbound,60.0,171.0,Standard Bus,75.2,Rain,-10.8,0
+2024-12-31,R206,Outbound,357.0,328.0,Standard Bus,61.0,Clear,9.8,0
+2024-04-24,R207,Outbound,248.0,294.0,Standard Bus,29.9,Clear,42.0,No
+2024-03-13,R102,Outbound,429.0,436.0,Standard Bus,77.7,Clear,34.2,False
+2024-09-14,R104,Inbound,206.0,734.0,Standard Bus,77.0,Rain,-12.6,0
+2024-01-24,R207,Outbound,717.0,264.0,Articulated Bus,71.4,Snow,36.7,0
+2024-03-08,R105,Inbound,740.0,345.0,Articulated Bus,74.5,Snow,33.7,No
+2024-06-05,R205,Outbound,641.0,231.0,Minibus,46.1,Rain,7.1,No
+2024-11-29,R105,Inbound,,225.0,Minibus,66.0,Clear,17.5,0
+2024-11-07,R105,Outbound,672.0,682.0,Minibus,66.8,Clear,21.8,No
+2024-01-29,R105,Outbound,426.0,102.0,Standard Bus,40.7,Clear,8.6,False
+2024-09-28,R208,Outbound,345.0,377.0,Minibus,81.6,Overcast,11.2,No
+2024-11-22,R101,Inbound,209.0,150.0,Articulated Bus,17.8,Clear,,0
+2024-03-14,R101,Outbound,106.0,479.0,Articulated Bus,40.9,Rain,11.3,No
+2024-03-27,R207,Outbound,745.0,540.0,Minibus,61.4,Clear,6.0,false
+2024-04-09,R105,Outbound,651.0,627.0,Standard Bus,54.6,Clear,16.8,0
+2024-05-27,R103,Inbound,784.0,401.0,Articulated Bus,57.1,Rain,20.8,True
+2024-08-31,R208,Inbound,,426.0,Minibus,56.2,Overcast,36.3,false
+2024-02-12,R207,Outbound,535.0,411.0,Minibus,68.1,Rain,25.6,False
+2024-01-02,R103,Outbound,553.0,742.0,Articulated Bus,63.3,Clear,-3.8,No
+2024-07-23,R102,Inbound,147.0,622.0,Standard Bus,59.6,Rain,38.4,0
+02/09/2024,R103,Inbound,658.0,640.0,Standard Bus,19.0,Rain,6.5,No
+2024-09-12,R302,Inbound,674.0,433.0,Standard Bus,60.5,Overcast,16.2,No
+2024-08-30,R104,Inbound,729.0,71.0,Minibus,35.9,Clear,8.1,false
+2024-11-19,R207,Outbound,752.0,594.0,Standard Bus,58.6,Rain,9.9,0
+2024-06-30,R206,Outbound,750.0,96.0,MINIBUS,48.3,Overcast,19.3,0
+2024-12-09,R205,Outbound,199.0,724.0,Standard Bus,17.5,Rain,2.8,False
+2024-11-09,R302,Inbound,540.0,358.0,Minibus,44.6,Snow,1.7,false
+12/02/2024,R207,Inbound,552.0,104.0,Standard Bus,53.5,Clear,-7.6,False
+2024-10-24,R207,Outbound,175.0,,Articulated Bus,58.6,Overcast,-9.9,No
+2024-10-14,R101,Inbound,610.0,86.0,Articulated Bus,82.8,Clear,6.4,1
+2024-12-02,R301,Outbound,519.0,520.0,Minibus,72.3,Overcast,-7.0,false
+2024-11-28,R207,Outbound,232.0,151.0,Articulated Bus,20.8,Overcast,32.2,true
+04/23/2024,R301,OUTBOUND,380.0,388.0,Standard Bus,31.4,Rain,-11.6,0
+2024-04-09,R101,Inbound,691.0,477.0,Standard Bus,52.4,Overcast,20.2,false
+2024-07-13,R102,Outbound,123.0,618.0,Articulated Bus,88.2,Clear,-7.8,false
+2024-10-12,R102,Outbound,100.0,499.0,Standard Bus,77.2,Overcast,22.3,0
+2024-10-07,R101,Outbound,199.0,558.0,mini bus,88.6,Overcast,11.6,No
+2024-11-16,R101,Inbound,612.0,128.0,Articulated Bus,52.1,Rain,12.4,No
+2024-06-29,R104,Outbound,584.0,335.0,MINIBUS,56.2,Clear,-2.5,False
+2024-11-21,R205,Inbound,362.0,366.0,Articulated Bus,41.8,Rain,18.8,False
+2024-12-04,R105,In,61.0,690.0,Standard Bus,36.3,Rain,24.6,false
+2024-03-06,R102,Outbound,752.0,249.0,Articulated Bus,,Snow,40.2,0
+2024-12-14,R205,Outbound,445.0,679.0,Minibus,22.9,Clear,31.3,0
+2024-03-30,R207,Outbound,57.0,525.0,Standard Bus,63.0,Clear,8.7,No
+01/22/2024,R208,Inbound,321.0,39.0,Minibus,27.3,Overcast,,false
+2024-03-18,R301,Outbound,241.0,15.0,Standard Bus,19.2,Clear,-0.4,No
+2024-10-20,R104,Outbound,,679.0,Minibus,26.6,Clear,41.0,false
+2024-11-07,R301,Inbound,680.0,592.0,Standard Bus,16.7,Snow,5.4,No
+2024-07-30,R103,Inbound,349.0,121.0,Standard Bus,28.2,Rain,-2.4,No
+10/23/2024,R104,Outbound,345.0,525.0,Articulated Bus,56.2,Rain,6.7,False
+10/27/2024,R104,Inbound,160.0,132.0,Minibus,53.6,Snow,18.8,false
+2024-02-03,R105,Outbound,388.0,709.0,Minibus,71.3,Overcast,28.0,0
+2024-08-04,R101,Outbound,542.0,131.0,Minibus,57.7,Overcast,21.0,False
+2024-05-17,R205,Outbound,92.0,193.0,Articulated Bus,17.3,Rain,36.1,false
+2024-07-29,R208,Outbound,274.0,546.0,Minibus,76.5,Overcast,42.0,false
+2024-05-17,R104,Inbound,159.0,495.0,standard bus,73.0,Overcast,37.2,False
+2024-07-07,R104,Inbound,216.0,599.0,Articulated Bus,82.2,Snow,29.7,0
+2024-06-11,R104,Outbound,41.0,464.0,Minibus,76.9,Snow,21.0,0
+2024-09-29,R205,Outbound,103.0,413.0,Minibus,55.8,Rain,-3.3,False
+2024-10-21,R206,Inbound,139.0,623.0,Articulated Bus,21.7,Overcast,36.9,false
+2024-11-12,R302,Outbound,745.0,677.0,Minibus,,Rain,8.4,false
