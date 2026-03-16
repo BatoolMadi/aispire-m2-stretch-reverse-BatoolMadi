@@ -35,3 +35,11 @@ The raw data has multiple categories of messiness. Before writing any transforma
 
 - ~2000 rows of bus route ridership data covering January–December 2024
 - 10 columns: `date`, `route_id`, `direction`, `boarding_count`, `alighting_count`, `vehicle_type`, `trip_duration_min`, `weather`, `temperature_c`, `is_holiday`
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+You are encouraged to clone, modify, and reuse this code for personal learning and portfolio projects. The repository structure and instructional content are part of the LevelUp Economy course curriculum and may not be redistributed as course material.
