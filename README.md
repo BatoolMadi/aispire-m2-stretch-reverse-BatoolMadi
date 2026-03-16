@@ -40,6 +40,6 @@ The raw data has multiple categories of messiness. Before writing any transforma
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is provided for educational use only. See [LICENSE](LICENSE) for terms.
 
-You are encouraged to clone, modify, and reuse this code for personal learning and portfolio projects. The repository structure and instructional content are part of the LevelUp Economy course curriculum and may not be redistributed as course material.
+You may clone and modify this repository for personal learning and practice, and reference code you wrote here in your professional portfolio. Redistribution outside this course is not permitted.
